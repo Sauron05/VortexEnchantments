@@ -134,4 +134,4 @@ Website: https://eternalrealm.uk
 
 ## License
 
-Distribution and usage terms are controlled by the project owner. Add a `LICENSE` file before public release if this repository will be used as the canonical distribution source.
+All rights reserved to the @eternalrealm Team !
