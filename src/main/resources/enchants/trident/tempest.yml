@@ -1,0 +1,8 @@
+﻿# Tempest Enchantment Config
+display-name: "Tempest"
+tier: "EPIC"
+max-level: 3
+description: "Creates lightning storm around impact."
+enabled: true
+lightning_count: 3
+radius: 5.0

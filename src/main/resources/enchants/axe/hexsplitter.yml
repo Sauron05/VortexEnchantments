@@ -1,0 +1,8 @@
+# Hex Splitter Enchantment Config
+display-name: "Hex Splitter"
+tier: "LEGENDARY"
+max-level: 3
+description: "Attacks strip beneficial potion effects from the target."
+enabled: true
+chance: 0.4
+max_remove: 3

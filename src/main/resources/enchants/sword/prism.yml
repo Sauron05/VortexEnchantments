@@ -1,0 +1,9 @@
+# Prism Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  fire_ratio: 0.30
+  ice_ratio: 0.30
+  true_ratio: 0.40
+  bonus_per_level: 0.05
+  fire_ticks: 40

@@ -1,0 +1,7 @@
+# Nightbloom Enchantment Config
+display-name: "Nightbloom"
+tier: "UNCOMMON"
+max-level: 3
+description: "Passively regenerate health at nighttime."
+enabled: true
+regen_amplifier: 0

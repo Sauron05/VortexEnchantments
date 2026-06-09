@@ -1,0 +1,7 @@
+# Overpower Legs Enchantment Config
+display-name: "Overpower Legs"
+tier: "EPIC"
+max-level: 3
+description: "Bonus damage scaling with your armor value."
+enabled: true
+bonus_per_armor: 0.04

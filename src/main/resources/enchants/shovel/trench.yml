@@ -1,0 +1,7 @@
+# Trench Enchantment Config
+display-name: "Trench"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mine a 3-deep column below the broken block."
+enabled: true
+depth: 3

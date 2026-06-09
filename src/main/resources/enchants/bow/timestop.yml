@@ -1,0 +1,8 @@
+# Timestop Enchantment Config
+display-name: "Timestop"
+tier: "RARE"
+max-level: 3
+description: "Arrow briefly freezes target in place."
+enabled: true
+freeze_ticks: [13, 18, 23]
+cooldown: 8.0

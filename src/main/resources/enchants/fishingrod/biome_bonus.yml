@@ -1,0 +1,7 @@
+﻿# BiomeBonus Enchantment Config
+display-name: "BiomeBonus"
+tier: "RARE"
+max-level: 3
+description: "Biome-specific bonus item catches."
+enabled: true
+chance: 0.20

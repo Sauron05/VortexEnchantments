@@ -1,0 +1,9 @@
+# Psyche Enchantment Config
+display-name: "Psyche"
+tier: "RARE"
+max-level: 1
+description: "Survive fatal damage at 1 HP with a burst of Absorption."
+enabled: true
+absorption_level: 1
+absorption_duration: 100
+cooldown: 60

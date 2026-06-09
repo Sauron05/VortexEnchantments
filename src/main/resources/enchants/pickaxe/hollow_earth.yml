@@ -1,0 +1,8 @@
+﻿# HollowEarth Enchantment Config
+display-name: "HollowEarth"
+tier: "EPIC"
+max-level: 3
+description: "Tunnels forward 5 blocks instantly."
+enabled: true
+tunnel_length: 5
+cooldown: 20

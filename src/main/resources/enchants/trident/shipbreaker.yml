@@ -1,0 +1,7 @@
+﻿# Shipbreaker Enchantment Config
+display-name: "Shipbreaker"
+tier: "EPIC"
+max-level: 3
+description: "Extra damage to vehicles and mounts."
+enabled: true
+vehicle_bonus: 0.5

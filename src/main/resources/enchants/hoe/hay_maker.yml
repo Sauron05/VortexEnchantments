@@ -1,0 +1,7 @@
+# Hay Maker Enchantment Config
+display-name: "Hay Maker"
+tier: "UNCOMMON"
+max-level: 3
+description: "Harvesting wheat may yield hay bales."
+enabled: true
+chance: 12.0

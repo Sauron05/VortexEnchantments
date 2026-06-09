@@ -1,0 +1,7 @@
+﻿# Adrenaline Enchantment Config
+display-name: "Adrenaline"
+tier: "EPIC"
+max-level: 3
+description: "Below 30% HP, gain Strength and Speed."
+enabled: true
+hp_threshold: 0.30

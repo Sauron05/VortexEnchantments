@@ -1,0 +1,7 @@
+﻿# ThermalStep Enchantment Config
+display-name: "ThermalStep"
+tier: "UNCOMMON"
+max-level: 3
+description: "Walk over lava without damage effect."
+enabled: true
+lava_immunity: true

@@ -1,0 +1,7 @@
+# Cushion Boot Enchantment Config
+display-name: "Cushion Boot"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces fall and kinetic damage."
+enabled: true
+reduction_pct: 0.12

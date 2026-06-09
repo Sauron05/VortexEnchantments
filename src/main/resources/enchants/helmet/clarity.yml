@@ -1,0 +1,7 @@
+﻿# Clarity Enchantment Config
+display-name: "Clarity"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces potion effect durations on self."
+enabled: true
+duration_reduce: 0.2

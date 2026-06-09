@@ -1,0 +1,8 @@
+# Commander Boots Enchantment Config
+display-name: "Commander Boots"
+tier: "LEGENDARY"
+max-level: 3
+description: "Above 70% HP, nearby allies gain Speed."
+enabled: true
+hp_threshold: 0.70
+radius: 8.0

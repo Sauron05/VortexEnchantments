@@ -1,0 +1,8 @@
+﻿# Tether Enchantment Config
+display-name: "Tether"
+tier: "EPIC"
+max-level: 3
+description: "Links you and target; damage is split between both."
+enabled: true
+tether_range: 10.0
+split_ratio: 0.4

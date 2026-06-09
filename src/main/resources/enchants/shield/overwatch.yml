@@ -1,0 +1,8 @@
+﻿# Overwatch Enchantment Config
+display-name: "Overwatch"
+tier: "EPIC"
+max-level: 3
+description: "Accumulated blocks trigger area knockback shockwave."
+enabled: true
+blocks_threshold: 30
+kockback_radius: 5.0

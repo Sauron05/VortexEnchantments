@@ -1,0 +1,9 @@
+﻿# Crater Enchantment Config
+display-name: "Crater"
+tier: "EPIC"
+max-level: 3
+description: "Large fall creates shockwave on landing."
+enabled: true
+min_fall: 5
+damage: 6.0
+radius: 3.0

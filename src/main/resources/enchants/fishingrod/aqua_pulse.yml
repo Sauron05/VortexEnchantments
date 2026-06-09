@@ -1,0 +1,9 @@
+# Aqua Pulse Enchantment Config
+display-name: "Aqua Pulse"
+tier: "RARE"
+max-level: 3
+description: "AoE water pulse at bobber location."
+enabled: true
+cooldown: 8
+radius: 4.0
+damage: 3.0

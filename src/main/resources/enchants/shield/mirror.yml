@@ -1,0 +1,7 @@
+﻿# Mirror Enchantment Config
+display-name: "Mirror"
+tier: "EPIC"
+max-level: 3
+description: "Chance to reflect blocked damage back."
+enabled: true
+chance: 0.10

@@ -1,0 +1,7 @@
+﻿# Traverse Enchantment Config
+display-name: "Traverse"
+tier: "RARE"
+max-level: 3
+description: "Move faster in biomes you haven't visited before."
+enabled: true
+speed_bonus: 0.2

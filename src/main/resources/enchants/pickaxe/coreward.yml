@@ -1,0 +1,7 @@
+﻿# Coreward Enchantment Config
+display-name: "Coreward"
+tier: "EPIC"
+max-level: 3
+description: "Points to deepest ore type while held."
+enabled: true
+enabled: true

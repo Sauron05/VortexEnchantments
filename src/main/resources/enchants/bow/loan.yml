@@ -1,0 +1,7 @@
+﻿# Loan Enchantment Config
+display-name: "Loan"
+tier: "EPIC"
+max-level: 3
+description: "Borrow damage from future HP; repaid from next kill."
+enabled: true
+borrow_ratio: 0.3

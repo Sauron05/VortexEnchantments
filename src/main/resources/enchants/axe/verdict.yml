@@ -1,0 +1,7 @@
+﻿# Verdict Enchantment Config
+display-name: "Verdict"
+tier: "EPIC"
+max-level: 3
+description: "Marks target; on next hit damage is doubled."
+enabled: true
+mark_duration: 10

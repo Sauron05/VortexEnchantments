@@ -1,0 +1,7 @@
+# Conduit Plate Enchantment Config
+display-name: "Conduit Plate"
+tier: "UNCOMMON"
+max-level: 3
+description: "Grants permanent Haste while wearing."
+enabled: true
+haste_amplifier: 0

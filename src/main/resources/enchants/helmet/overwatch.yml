@@ -1,0 +1,7 @@
+# Overwatch Enchantment Config
+display-name: "Overwatch"
+tier: "RARE"
+max-level: 3
+description: "Reveals nearby players with glowing particles."
+enabled: true
+radius: 15.0

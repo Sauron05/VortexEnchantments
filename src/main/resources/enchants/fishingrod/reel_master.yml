@@ -1,0 +1,8 @@
+# Reel Master Enchantment Config
+display-name: "Reel Master"
+tier: "UNCOMMON"
+max-level: 3
+description: "Consecutive catches grant bonus XP."
+enabled: true
+max_streak: 5
+xp_per_streak: 1

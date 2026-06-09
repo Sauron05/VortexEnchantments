@@ -1,0 +1,7 @@
+﻿# Wingspan Enchantment Config
+display-name: "Wingspan"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduce elytra durability loss."
+enabled: true
+repair_freq: 4

@@ -1,0 +1,7 @@
+# Seraph Enchantment Config
+display-name: "Seraph"
+tier: "RARE"
+max-level: 3
+description: "Bonus damage to airborne targets."
+enabled: true
+airborne_bonus: [0.30, 0.45, 0.60]

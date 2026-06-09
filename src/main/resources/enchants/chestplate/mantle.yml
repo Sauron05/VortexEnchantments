@@ -1,0 +1,7 @@
+﻿# Mantle Enchantment Config
+display-name: "Mantle"
+tier: "RARE"
+max-level: 3
+description: "Absorbs elemental damage (fire, frost, lightning) partially."
+enabled: true
+elemental_reduce: 0.25

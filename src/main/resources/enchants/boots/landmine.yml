@@ -1,0 +1,8 @@
+﻿# Landmine Enchantment Config
+display-name: "Landmine"
+tier: "EPIC"
+max-level: 3
+description: "Place invisible trap on block where held; proximity trigger."
+enabled: true
+cooldown: 15
+damage: 5.0

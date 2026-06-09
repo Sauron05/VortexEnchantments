@@ -1,0 +1,7 @@
+# Vendetta Enchantment Config
+display-name: "Vendetta"
+tier: "RARE"
+max-level: 3
+description: "Deal bonus damage to your last attacker."
+enabled: true
+revenge_bonus: 1.5

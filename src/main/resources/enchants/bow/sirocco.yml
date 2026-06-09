@@ -1,0 +1,8 @@
+# Sirocco Enchantment Config
+display-name: "Sirocco"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrow pushes target + applies Slowness."
+enabled: true
+push_force: [0.8, 1.1, 1.4]
+slow_duration: 40

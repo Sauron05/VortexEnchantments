@@ -1,0 +1,7 @@
+﻿# Deposit Enchantment Config
+display-name: "Deposit"
+tier: "RARE"
+max-level: 3
+description: "Stores excess drops in ender chest."
+enabled: true
+enabled: true

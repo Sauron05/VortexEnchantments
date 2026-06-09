@@ -1,0 +1,9 @@
+﻿# Aegis Enchantment Config
+display-name: "Aegis"
+tier: "EPIC"
+max-level: 3
+description: "Periodic invincibility burst triggered by low HP."
+enabled: true
+hp_threshold: 0.20
+invincibility_ticks: 40
+cooldown: 60

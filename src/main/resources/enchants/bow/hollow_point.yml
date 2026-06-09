@@ -1,0 +1,7 @@
+﻿# HollowPoint Enchantment Config
+display-name: "HollowPoint"
+tier: "EPIC"
+max-level: 3
+description: "Arrows ignore a portion of armor."
+enabled: true
+armor_ignore: 0.4

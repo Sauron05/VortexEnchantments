@@ -1,0 +1,7 @@
+# Stance Breaker Enchantment Config
+display-name: "Stance Breaker"
+tier: "RARE"
+max-level: 3
+description: "Bonus damage to targets with active potion effects."
+enabled: true
+bonus_per_effect: 0.5

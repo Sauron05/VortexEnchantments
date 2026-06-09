@@ -1,0 +1,8 @@
+﻿# Cocoon Enchantment Config
+display-name: "Cocoon"
+tier: "EPIC"
+max-level: 3
+description: "On near-death, cocoon for 3s healing rapidly."
+enabled: true
+heal_per_tick: 1.0
+cooldown: 120

@@ -1,0 +1,6 @@
+# Temporal Echo Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  echo_ratio: 0.3
+  delay_ticks: 20

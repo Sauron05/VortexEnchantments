@@ -1,0 +1,7 @@
+# Absorb Legs Enchantment Config
+display-name: "Absorb Legs"
+tier: "RARE"
+max-level: 3
+description: "Steal a percentage of melee damage dealt as HP."
+enabled: true
+steal_pct: 0.03

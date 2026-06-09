@@ -1,0 +1,9 @@
+# Cloud Burst Enchantment Config
+display-name: "Cloud Burst"
+tier: "RARE"
+max-level: 3
+description: "Drop a slowing cloud below while gliding."
+enabled: true
+cooldown: 8
+radius: 3.0
+slow_duration: 3

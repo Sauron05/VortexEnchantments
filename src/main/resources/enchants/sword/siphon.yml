@@ -1,0 +1,7 @@
+﻿# Siphon Enchantment Config
+display-name: "Siphon"
+tier: "RARE"
+max-level: 3
+description: "Steal health on each hit."
+enabled: true
+lifesteal_ratio: 0.08

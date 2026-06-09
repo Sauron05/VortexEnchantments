@@ -1,0 +1,6 @@
+id: pulverize
+display_name: "Pulverize"
+rarity: COMMON
+max_level: 3
+description: "Chance to deal double damage vs armored targets."
+chance: "{0.10 + level * 0.10}"

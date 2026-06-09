@@ -1,0 +1,7 @@
+﻿# Abyssal Enchantment Config
+display-name: "Abyssal"
+tier: "EPIC"
+max-level: 3
+description: "Teleports thrower to trident impact on sneak."
+enabled: true
+cooldown: 8

@@ -1,0 +1,10 @@
+# Temporal Axe Enchantment Config
+display-name: "Temporal Axe"
+tier: "LEGENDARY"
+max-level: 3
+description: "Hits may rewind the target to a past position."
+enabled: true
+chance:
+  1: 0.25
+  2: 0.35
+  3: 0.45

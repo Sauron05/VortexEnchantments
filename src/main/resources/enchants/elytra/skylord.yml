@@ -1,0 +1,7 @@
+# Skylord Enchantment Config
+display-name: "Skylord"
+tier: "EPIC"
+max-level: 3
+description: "Allies gain Slow Falling near your flight."
+enabled: true
+radius: 10.0

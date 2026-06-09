@@ -1,0 +1,8 @@
+# Counterweight Enchantment Config
+display-name: "Counterweight"
+tier: "RARE"
+max-level: 3
+description: "Increased knockback dealt plus knockback resistance."
+enabled: true
+kb_multiplier: 2.0
+kb_resistance: 0.3

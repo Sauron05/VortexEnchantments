@@ -1,0 +1,7 @@
+﻿# Archive Enchantment Config
+display-name: "Archive"
+tier: "RARE"
+max-level: 3
+description: "Records every biome visited this session."
+enabled: true
+enabled: true

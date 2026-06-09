@@ -1,0 +1,7 @@
+﻿# Hybrid Enchantment Config
+display-name: "Hybrid"
+tier: "EPIC"
+max-level: 3
+description: "Cross-pollinates two adjacent crops creating a hybrid drop."
+enabled: true
+enabled: true

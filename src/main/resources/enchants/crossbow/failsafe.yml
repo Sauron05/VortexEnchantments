@@ -1,0 +1,7 @@
+﻿# Failsafe Enchantment Config
+display-name: "Failsafe"
+tier: "EPIC"
+max-level: 3
+description: "If HP < 30%, crossbow auto-fires saved bolt."
+enabled: true
+hp_threshold: 0.30

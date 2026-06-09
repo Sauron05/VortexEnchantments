@@ -1,0 +1,8 @@
+# War Cry Enchantment Config
+display-name: "War Cry"
+tier: "EPIC"
+max-level: 3
+description: "After several blocks, AoE fear."
+enabled: true
+threshold: 5
+radius: 8.0

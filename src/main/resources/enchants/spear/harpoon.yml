@@ -1,0 +1,7 @@
+display-name: "Harpoon"
+tier: RARE
+max-level: 3
+description: "Hooks and pulls the target toward you."
+enabled: true
+pull_strength: 0.45
+cooldown: 6

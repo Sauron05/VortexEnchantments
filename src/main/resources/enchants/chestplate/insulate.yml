@@ -1,0 +1,7 @@
+# Insulate Enchantment Config
+display-name: "Insulate"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fire and lava damage."
+enabled: true
+reduction_pct: 0.10

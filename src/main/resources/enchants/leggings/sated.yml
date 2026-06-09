@@ -1,0 +1,8 @@
+# Sated Enchantment Config
+display-name: "Sated"
+tier: "COMMON"
+max-level: 3
+description: "Restores hunger while standing still."
+enabled: true
+hunger_restore: 1
+saturation_restore: 0.5

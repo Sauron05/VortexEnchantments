@@ -1,0 +1,7 @@
+﻿# Levee Enchantment Config
+display-name: "Levee"
+tier: "RARE"
+max-level: 3
+description: "Digging near water auto-places sponge."
+enabled: true
+enabled: true

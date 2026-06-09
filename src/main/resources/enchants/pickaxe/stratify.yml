@@ -1,0 +1,8 @@
+﻿# Stratify Enchantment Config
+display-name: "Stratify"
+tier: "RARE"
+max-level: 3
+description: "Mines in layers revealing all ores in slice."
+enabled: true
+radius: 3
+cooldown: 30

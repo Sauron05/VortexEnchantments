@@ -1,0 +1,7 @@
+# Disarm Enchantment Config
+display-name: "Disarm"
+tier: "LEGENDARY"
+max-level: 3
+description: "Chance to force the target to drop their held weapon."
+enabled: true
+chance: 0.12

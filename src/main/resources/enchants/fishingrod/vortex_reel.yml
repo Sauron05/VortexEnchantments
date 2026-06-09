@@ -1,0 +1,9 @@
+# Vortex Reel Enchantment Config
+display-name: "Vortex Reel"
+tier: "EPIC"
+max-level: 3
+description: "Creates a whirlpool pulling entities on cast."
+enabled: true
+cooldown: 12
+radius: 4.0
+force: 0.8

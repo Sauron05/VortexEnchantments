@@ -1,0 +1,7 @@
+# Fresh Catch Enchantment Config
+display-name: "Fresh Catch"
+tier: "COMMON"
+max-level: 3
+description: "Saturation on catching fish."
+enabled: true
+duration: 2

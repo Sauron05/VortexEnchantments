@@ -1,0 +1,7 @@
+﻿# Sonar Enchantment Config
+display-name: "Sonar"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces bite wait time by emitting sonar."
+enabled: true
+wait_reduction_pct: 15

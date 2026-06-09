@@ -1,0 +1,8 @@
+﻿# Tangle Enchantment Config
+display-name: "Tangle"
+tier: "RARE"
+max-level: 3
+description: "Enemies that attack you have slowed walking."
+enabled: true
+slow_chance: 0.25
+slow_duration: 60

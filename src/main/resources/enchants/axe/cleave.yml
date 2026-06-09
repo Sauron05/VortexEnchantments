@@ -1,0 +1,8 @@
+﻿# Cleave Enchantment Config
+display-name: "Cleave"
+tier: "RARE"
+max-level: 3
+description: "Hits in a cone behind primary target."
+enabled: true
+cleave_radius: 2.5
+cleave_damage: 0.6

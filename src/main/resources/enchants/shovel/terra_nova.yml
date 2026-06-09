@@ -1,0 +1,8 @@
+# Terra Nova Enchantment Config
+display-name: "Terra Nova"
+tier: "MYTHIC"
+max-level: 3
+description: "Mining transforms the area with random biome blocks."
+enabled: true
+radius: 2
+cooldown: 10

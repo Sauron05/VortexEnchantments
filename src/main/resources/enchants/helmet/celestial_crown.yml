@@ -1,0 +1,7 @@
+# Celestial Crown Enchantment Config
+display-name: "Celestial Crown"
+tier: "MYTHIC"
+max-level: 3
+description: "While above 80% HP, gain all positive potion effects."
+enabled: true
+hp_threshold: 0.80

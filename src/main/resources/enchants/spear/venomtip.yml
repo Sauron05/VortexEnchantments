@@ -1,0 +1,6 @@
+display-name: "Venomtip"
+tier: COMMON
+max-level: 3
+description: "Hits apply poison."
+enabled: true
+duration_ticks: 60

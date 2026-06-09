@@ -1,0 +1,9 @@
+# Shock Mine Enchantment Config
+display-name: "Shock Mine"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining may damage nearby mobs."
+enabled: true
+chance: 15
+damage: 3
+radius: 4.0

@@ -1,0 +1,8 @@
+id: nullfield
+display_name: "Nullfield"
+rarity: LEGENDARY
+max_level: 3
+description: "Right-click: field that strips buffs from enemies."
+radius: "{3.0 + level * 2.0}"
+duration_ticks: 80
+cooldown: 20

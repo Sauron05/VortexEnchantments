@@ -1,0 +1,7 @@
+id: slagstrike
+display_name: "Slagstrike"
+rarity: RARE
+max_level: 3
+description: "Penetrate shields + fire on hit."
+penetration: "{0.35 + level * 0.15}"
+fire_ticks: 40

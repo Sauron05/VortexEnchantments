@@ -1,0 +1,8 @@
+﻿# Rampart Enchantment Config
+display-name: "Rampart"
+tier: "EPIC"
+max-level: 3
+description: "Temporary armor bonus while blocking."
+enabled: true
+armor_bonus: 4.0
+duration: 60

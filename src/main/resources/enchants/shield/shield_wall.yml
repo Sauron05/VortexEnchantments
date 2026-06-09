@@ -1,0 +1,9 @@
+# Shield Wall Enchantment Config
+display-name: "Shield Wall"
+tier: "RARE"
+max-level: 3
+description: "Blocking summons temporary wall."
+enabled: true
+height: 2
+wall-duration: 60
+cooldown: 10

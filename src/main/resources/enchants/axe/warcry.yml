@@ -1,0 +1,9 @@
+# Warcry Enchantment Config
+display-name: "Warcry"
+tier: "EPIC"
+max-level: 3
+description: "Right-click AoE push with Weakness debuff."
+enabled: true
+radius: 8.0
+push_power: 1.2
+cooldown: 8

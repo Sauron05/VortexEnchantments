@@ -1,0 +1,7 @@
+# Brace Enchantment Config
+display-name: "Brace"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fall damage by a percentage per level."
+enabled: true
+reduction_pct: 0.10

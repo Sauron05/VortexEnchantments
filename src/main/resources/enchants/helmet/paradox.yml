@@ -1,0 +1,7 @@
+﻿# Paradox Enchantment Config
+display-name: "Paradox"
+tier: "EPIC"
+max-level: 3
+description: "Taking damage has a chance to reset all cooldowns."
+enabled: true
+chance: 0.15

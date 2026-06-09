@@ -1,0 +1,7 @@
+# Glider Enchantment Config
+display-name: "Glider"
+tier: "COMMON"
+max-level: 3
+description: "Reduces elytra durability loss while gliding."
+enabled: true
+save_chance: 0.35

@@ -1,0 +1,9 @@
+# Earthquake Boots Enchantment Config
+display-name: "Earthquake Boots"
+tier: "EPIC"
+max-level: 3
+description: "Sneak to cause an earthquake damaging and launching enemies."
+enabled: true
+radius: 6.0
+damage: 2.0
+cooldown: 15.0

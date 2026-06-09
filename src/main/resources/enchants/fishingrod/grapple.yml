@@ -1,0 +1,8 @@
+# Grapple Enchantment Config
+display-name: "Grapple"
+tier: "RARE"
+max-level: 3
+description: "Hook terrain to grapple yourself."
+enabled: true
+cooldown: 3
+force: 1.0

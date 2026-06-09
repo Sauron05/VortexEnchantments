@@ -1,0 +1,8 @@
+﻿# Ironheart Enchantment Config
+display-name: "Ironheart"
+tier: "EPIC"
+max-level: 3
+description: "Absorbs damage into a buffer; releases slowly as HP restore."
+enabled: true
+buffer_ratio: 0.3
+regen_rate: 0.5

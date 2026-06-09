@@ -1,0 +1,8 @@
+﻿# Symbiosis Enchantment Config
+display-name: "Symbiosis"
+tier: "EPIC"
+max-level: 3
+description: "Nearby ally takes less damage while you take more."
+enabled: true
+share_ratio: 0.15
+radius: 8

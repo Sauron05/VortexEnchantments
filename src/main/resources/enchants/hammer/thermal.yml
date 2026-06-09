@@ -1,0 +1,7 @@
+id: thermal
+display_name: "Thermal"
+rarity: UNCOMMON
+max_level: 3
+description: "Ignites target and melts nearby ice/snow."
+fire_seconds: "{1 + level}"
+melt_radius: 3

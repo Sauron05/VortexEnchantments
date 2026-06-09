@@ -1,0 +1,7 @@
+# Poseidon's Gift Enchantment Config
+display-name: "Poseidon's Gift"
+tier: "EPIC"
+max-level: 3
+description: "Water Breathing and Dolphin's Grace while fishing."
+enabled: true
+duration: 200

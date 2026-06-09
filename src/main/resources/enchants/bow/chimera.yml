@@ -1,0 +1,9 @@
+# Chimera Enchantment Config
+display-name: "Chimera"
+tier: "RARE"
+max-level: 3
+description: "Arrows cycle fire/ice/lightning elements."
+enabled: true
+fire_ticks: [60, 80, 100]
+freeze_ticks: [50, 60, 70]
+lightning_bonus: [2.0, 3.0, 4.0]

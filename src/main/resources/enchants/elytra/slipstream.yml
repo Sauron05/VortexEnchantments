@@ -1,0 +1,7 @@
+# Slipstream Enchantment Config
+display-name: "Slipstream"
+tier: "UNCOMMON"
+max-level: 3
+description: "Burst of speed when starting to glide."
+enabled: true
+duration: 3

@@ -1,0 +1,7 @@
+﻿# StormFisher Enchantment Config
+display-name: "StormFisher"
+tier: "EPIC"
+max-level: 3
+description: "Massively faster bites and more rares in storms."
+enabled: true
+wait_reduction: 0.50

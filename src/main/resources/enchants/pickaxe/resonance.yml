@@ -1,0 +1,8 @@
+﻿# Resonance Enchantment Config
+display-name: "Resonance"
+tier: "RARE"
+max-level: 3
+description: "Mining vibrations damage nearby mobs."
+enabled: true
+radius: 3.0
+damage: 3.0

@@ -1,0 +1,9 @@
+# Omnipotent Sight Enchantment Config
+display-name: "Omnipotent Sight"
+tier: "MYTHIC"
+max-level: 3
+description: "On hit, freeze all enemies in range with Slowness and Blindness."
+enabled: true
+radius: 6.0
+duration: 40
+cooldown: 60

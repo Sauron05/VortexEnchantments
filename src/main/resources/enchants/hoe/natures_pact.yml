@@ -1,0 +1,9 @@
+# Nature's Pact Enchantment Config
+display-name: "Nature's Pact"
+tier: "RARE"
+max-level: 3
+description: "Animals near you breed and grow faster."
+enabled: true
+radius: 8
+love-boost: 20
+growth-boost: 200

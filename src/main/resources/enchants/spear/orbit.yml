@@ -1,0 +1,9 @@
+display-name: "Orbit"
+tier: LEGENDARY
+max-level: 3
+description: "Right-click: orbiting aura hits nearby foes."
+enabled: true
+duration_ticks: 80
+tick_damage: 3.0
+radius: 3.0
+cooldown: 20

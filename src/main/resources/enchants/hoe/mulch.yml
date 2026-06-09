@@ -1,0 +1,7 @@
+﻿# Mulch Enchantment Config
+display-name: "Mulch"
+tier: "UNCOMMON"
+max-level: 3
+description: "Speeds up crop growth in tilled plots."
+enabled: true
+growth_rate: 0.3

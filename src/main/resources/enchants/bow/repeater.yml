@@ -1,0 +1,7 @@
+# Repeater Enchantment Config
+display-name: "Repeater"
+tier: "COMMON"
+max-level: 3
+description: "Chance to not consume an arrow on shoot."
+enabled: true
+chance: [0.10, 0.15, 0.20]

@@ -1,0 +1,7 @@
+﻿# Magnetism Enchantment Config
+display-name: "Magnetism"
+tier: "UNCOMMON"
+max-level: 3
+description: "Automatically pulls ore drops toward player."
+enabled: true
+pull_radius: 6.0

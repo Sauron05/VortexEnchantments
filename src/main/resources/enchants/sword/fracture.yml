@@ -1,0 +1,8 @@
+﻿# Fracture Enchantment Config
+display-name: "Fracture"
+tier: "RARE"
+max-level: 3
+description: "Hits fracture armor; stacks increase damage through armor."
+enabled: true
+max_stacks: 4
+per_stack: 0.06

@@ -1,0 +1,7 @@
+# Worm Dig Enchantment Config
+display-name: "Worm Dig"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining farmland/dirt drops bait items for fishing."
+enabled: true
+chance: 15.0

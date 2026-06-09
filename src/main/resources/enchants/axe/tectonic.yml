@@ -1,0 +1,8 @@
+# Tectonic Enchantment Config
+display-name: "Tectonic"
+tier: "MYTHIC"
+max-level: 3
+description: "Right-click to swap positions with your target."
+enabled: true
+range: 10.0
+cooldown: 8

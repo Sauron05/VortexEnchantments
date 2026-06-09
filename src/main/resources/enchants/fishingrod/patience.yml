@@ -1,0 +1,7 @@
+﻿# Patience Enchantment Config
+display-name: "Patience"
+tier: "UNCOMMON"
+max-level: 3
+description: "Stack empty casts for guaranteed treasure."
+enabled: true
+max_stacks: 5

@@ -1,0 +1,8 @@
+﻿# Crown Enchantment Config
+display-name: "Crown"
+tier: "EPIC"
+max-level: 3
+description: "Nearby allies receive a minor damage/speed buff."
+enabled: true
+aura_radius: 8
+bonus: 0.1

@@ -1,0 +1,8 @@
+﻿# Terrain Enchantment Config
+display-name: "Terrain"
+tier: "RARE"
+max-level: 3
+description: "Flattens terrain in 5-block radius."
+enabled: true
+radius: 5
+cooldown: 20

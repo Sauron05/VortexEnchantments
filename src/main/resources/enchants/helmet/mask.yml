@@ -1,0 +1,8 @@
+﻿# Mask Enchantment Config
+display-name: "Mask"
+tier: "EPIC"
+max-level: 3
+description: "Disguises you as a random nearby mob type."
+enabled: true
+duration: 120
+cooldown: 60

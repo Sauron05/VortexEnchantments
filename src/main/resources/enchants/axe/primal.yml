@@ -1,0 +1,7 @@
+﻿# Primal Enchantment Config
+display-name: "Primal"
+tier: "EPIC"
+max-level: 3
+description: "More powerful in biomes with no nearby blocks."
+enabled: true
+open_air_bonus: 0.25

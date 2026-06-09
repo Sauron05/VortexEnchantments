@@ -1,0 +1,7 @@
+# Blood Shield Enchantment Config
+display-name: "Blood Shield"
+tier: "RARE"
+max-level: 3
+description: "Blocked damage heals you."
+enabled: true
+heal-percent: 5.0

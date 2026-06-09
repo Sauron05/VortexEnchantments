@@ -1,0 +1,7 @@
+# Hook Shot Enchantment Config
+display-name: "Hook Shot"
+tier: "RARE"
+max-level: 3
+description: "Deals direct damage when hooking entities."
+enabled: true
+damage: 3.0

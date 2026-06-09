@@ -1,0 +1,8 @@
+# Unyielding Legs Enchantment Config
+display-name: "Unyielding Legs"
+tier: "LEGENDARY"
+max-level: 3
+description: "Survive a lethal melee hit with 1 HP."
+enabled: true
+survive_hp: 1.0
+cooldown: 105.0

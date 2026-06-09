@@ -1,0 +1,7 @@
+﻿# Peat Enchantment Config
+display-name: "Peat"
+tier: "UNCOMMON"
+max-level: 3
+description: "Digging bog/swamp gives fuel material."
+enabled: true
+chance: 0.15

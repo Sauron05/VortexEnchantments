@@ -1,0 +1,8 @@
+# Zenith Enchantment Config
+display-name: "Zenith"
+tier: "LEGENDARY"
+max-level: 3
+description: "Sneak to set a mark, sneak again to teleport back and heal."
+enabled: true
+heal_amount: 4.0
+cooldown: 30

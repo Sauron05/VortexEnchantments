@@ -1,0 +1,7 @@
+﻿# Undertow Enchantment Config
+display-name: "Undertow"
+tier: "RARE"
+max-level: 3
+description: "Pulls target toward thrower on hit."
+enabled: true
+pull_force: 1.5

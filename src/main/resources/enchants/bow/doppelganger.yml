@@ -1,0 +1,8 @@
+# Doppelganger Enchantment Config
+display-name: "Doppelganger"
+tier: "EPIC"
+max-level: 3
+description: "Arrow splits into 2 mid-flight."
+enabled: true
+clone_damage_pct: [0.50, 0.60, 0.70]
+split_distance: 10.0

@@ -1,0 +1,7 @@
+# Sureshot Enchantment Config
+display-name: "Sureshot"
+tier: "COMMON"
+max-level: 3
+description: "Bonus damage to full HP targets."
+enabled: true
+bonus: [0.15, 0.20, 0.25]

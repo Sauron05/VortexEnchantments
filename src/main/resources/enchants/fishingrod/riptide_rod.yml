@@ -1,0 +1,7 @@
+# Riptide Rod Enchantment Config
+display-name: "Riptide Rod"
+tier: "UNCOMMON"
+max-level: 3
+description: "Get pulled toward your catch."
+enabled: true
+pull_force: 0.3

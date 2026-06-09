@@ -1,0 +1,9 @@
+# Reverberate Enchantment Config
+display-name: "Reverberate"
+tier: "EPIC"
+max-level: 3
+description: "On critical hit received, emit AoE damage around you."
+enabled: true
+radius: 4.0
+aoe_damage: 2.0
+cooldown: 8

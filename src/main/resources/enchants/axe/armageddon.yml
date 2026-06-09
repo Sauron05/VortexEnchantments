@@ -1,0 +1,10 @@
+# Armageddon Enchantment Config
+display-name: "Armageddon"
+tier: "MYTHIC"
+max-level: 3
+description: "Kills rain fire from the sky."
+enabled: true
+fire_drops: 9
+radius: 8.0
+drop_damage: 4.0
+cooldown: 15

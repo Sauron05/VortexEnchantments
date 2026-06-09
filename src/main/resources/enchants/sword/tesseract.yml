@@ -1,0 +1,6 @@
+# Tesseract Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  radius: 3.0
+  damage_ratio: 0.4

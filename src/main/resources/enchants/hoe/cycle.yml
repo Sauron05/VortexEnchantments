@@ -1,0 +1,7 @@
+﻿# Cycle Enchantment Config
+display-name: "Cycle"
+tier: "RARE"
+max-level: 3
+description: "Crops auto-replant after harvest."
+enabled: true
+enabled: true

@@ -1,0 +1,8 @@
+﻿# Tremor Enchantment Config
+display-name: "Tremor"
+tier: "RARE"
+max-level: 3
+description: "Strike the ground to create a shockwave."
+enabled: true
+radius: 3.0
+damage: 4.0

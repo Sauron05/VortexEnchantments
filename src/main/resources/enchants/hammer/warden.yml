@@ -1,0 +1,7 @@
+id: warden
+display_name: "Warden"
+rarity: EPIC
+max_level: 3
+description: "Crit: Darkness + sonic damage (ignores armor)."
+darkness_duration: 60
+sonic_damage: "{2.0 + level * 2.0}"

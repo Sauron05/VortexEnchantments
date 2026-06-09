@@ -1,0 +1,7 @@
+﻿# Pin Enchantment Config
+display-name: "Pin"
+tier: "RARE"
+max-level: 3
+description: "Nails target in place briefly."
+enabled: true
+duration_ticks: 30

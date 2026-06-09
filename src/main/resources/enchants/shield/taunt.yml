@@ -1,0 +1,8 @@
+﻿# Taunt Enchantment Config
+display-name: "Taunt"
+tier: "EPIC"
+max-level: 3
+description: "Pull mobs toward you on block and apply Weakness."
+enabled: true
+pull_radius: 5.0
+weakness_duration: 80

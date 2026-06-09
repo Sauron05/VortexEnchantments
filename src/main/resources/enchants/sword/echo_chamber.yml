@@ -1,0 +1,8 @@
+# Echo Chamber Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  echo_count: 2
+  echo_ratio: 0.3
+  window_seconds: 3.0
+  echo_delay_ticks: 5

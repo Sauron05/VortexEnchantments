@@ -1,0 +1,7 @@
+# Regen Legs Enchantment Config
+display-name: "Regen Legs"
+tier: "RARE"
+max-level: 3
+description: "Passively regenerate HP while sprinting."
+enabled: true
+heal_per_tick: 0.25

@@ -1,0 +1,7 @@
+﻿# Backswing Enchantment Config
+display-name: "Backswing"
+tier: "EPIC"
+max-level: 3
+description: "After a missed swing, next hit deals bonus damage."
+enabled: true
+missed_bonus: 3.0

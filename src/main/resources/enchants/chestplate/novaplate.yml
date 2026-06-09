@@ -1,0 +1,9 @@
+# Novaplate Enchantment Config
+display-name: "Novaplate"
+tier: "LEGENDARY"
+max-level: 3
+description: "Sneak to release an AoE damage burst around you."
+enabled: true
+radius: 5.0
+damage: 4.0
+cooldown: 25

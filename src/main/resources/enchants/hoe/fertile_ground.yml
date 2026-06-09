@@ -1,0 +1,7 @@
+# Fertile Ground Enchantment Config
+display-name: "Fertile Ground"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling fertilizes nearby crops."
+enabled: true
+radius: 1

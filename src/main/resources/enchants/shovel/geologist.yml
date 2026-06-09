@@ -1,0 +1,7 @@
+# Geologist Enchantment Config
+display-name: "Geologist"
+tier: "RARE"
+max-level: 3
+description: "Mining gives XP orbs based on block type."
+enabled: true
+xp-amount: 3

@@ -1,0 +1,7 @@
+﻿# Tribute Enchantment Config
+display-name: "Tribute"
+tier: "RARE"
+max-level: 3
+description: "Lifesteal on each successful block."
+enabled: true
+lifesteal: 0.5

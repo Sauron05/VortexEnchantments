@@ -1,0 +1,11 @@
+# Wrath of Ground Enchantment Config
+display-name: "Wrath of Ground"
+tier: "LEGENDARY"
+max-level: 3
+description: "Big falls deal massive AOE damage and stun."
+enabled: true
+min_fall_damage: 5.0
+radius: 7.0
+aoe_damage: 3.0
+stun_duration: 40
+self_reduction: 0.5

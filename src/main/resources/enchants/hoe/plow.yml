@@ -1,0 +1,7 @@
+﻿# Plow Enchantment Config
+display-name: "Plow"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tills in a line of 3/4/5 blocks."
+enabled: true
+length: 3

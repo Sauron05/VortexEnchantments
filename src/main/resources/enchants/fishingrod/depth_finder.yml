@@ -1,0 +1,7 @@
+﻿# DepthFinder Enchantment Config
+display-name: "DepthFinder"
+tier: "RARE"
+max-level: 3
+description: "Reveals underwater entities on cast."
+enabled: true
+reveal_radius: 8

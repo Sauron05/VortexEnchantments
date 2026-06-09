@@ -1,0 +1,7 @@
+﻿# Depth Enchantment Config
+display-name: "Depth"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bonus damage vs entities in water."
+enabled: true
+water_bonus: 0.4

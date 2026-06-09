@@ -1,0 +1,7 @@
+# Siege Enchantment Config
+display-name: "Siege"
+tier: "RARE"
+max-level: 3
+description: "Bonus damage per armor piece the target is wearing."
+enabled: true
+bonus_per_piece: 0.12

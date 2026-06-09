@@ -1,0 +1,7 @@
+﻿# Backlash Enchantment Config
+display-name: "Backlash"
+tier: "EPIC"
+max-level: 3
+description: "Returns a portion of melee damage to attacker."
+enabled: true
+reflect_ratio: 0.2

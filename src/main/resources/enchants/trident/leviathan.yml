@@ -1,0 +1,8 @@
+﻿# Leviathan Enchantment Config
+display-name: "Leviathan"
+tier: "LEGENDARY"
+max-level: 1
+description: "Massive damage and knockup underwater."
+enabled: true
+bonus_damage: 8.0
+knockup: 2.0

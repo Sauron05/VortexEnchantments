@@ -1,0 +1,8 @@
+# Upheaval Enchantment Config
+display-name: "Upheaval"
+tier: "RARE"
+max-level: 3
+description: "Arrow launches nearby entities upward."
+enabled: true
+radius: 3.0
+launch_power: [0.6, 0.8, 1.0]

@@ -1,0 +1,7 @@
+# Steady Guard Enchantment Config
+display-name: "Steady Guard"
+tier: "COMMON"
+max-level: 3
+description: "Small damage reduction while blocking."
+enabled: true
+reduction: 0.05

@@ -1,0 +1,7 @@
+﻿# Geode Enchantment Config
+display-name: "Geode"
+tier: "RARE"
+max-level: 3
+description: "Chance to find amethyst geodes."
+enabled: true
+chance: 0.03

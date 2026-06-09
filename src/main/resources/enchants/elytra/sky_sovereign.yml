@@ -1,0 +1,7 @@
+# Sky Sovereign Enchantment Config
+display-name: "Sky Sovereign"
+tier: "MYTHIC"
+max-level: 1
+description: "Total aerial dominance — buff allies, cripple foes."
+enabled: true
+radius: 12.0

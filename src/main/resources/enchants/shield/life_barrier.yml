@@ -1,0 +1,8 @@
+# Life Barrier Enchantment Config
+display-name: "Life Barrier"
+tier: "EPIC"
+max-level: 3
+description: "Below 30% HP: massive block reduction."
+enabled: true
+hp-threshold: 0.3
+reduction: 0.4

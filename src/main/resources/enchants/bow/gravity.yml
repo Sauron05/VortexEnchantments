@@ -1,0 +1,8 @@
+﻿# Gravity Enchantment Config
+display-name: "Gravity"
+tier: "EPIC"
+max-level: 3
+description: "Arrow pulls nearby entities toward impact point."
+enabled: true
+pull_radius: 4.0
+pull_force: 0.8

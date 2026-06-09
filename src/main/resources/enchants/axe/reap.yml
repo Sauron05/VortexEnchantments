@@ -1,0 +1,8 @@
+﻿# Reap Enchantment Config
+display-name: "Reap"
+tier: "EPIC"
+max-level: 3
+description: "Kills nearby low-HP mobs when killing a target."
+enabled: true
+hp_threshold: 4.0
+radius: 6.0

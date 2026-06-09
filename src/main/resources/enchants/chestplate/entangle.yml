@@ -1,0 +1,8 @@
+# Entangle Enchantment Config
+display-name: "Entangle"
+tier: "RARE"
+max-level: 3
+description: "Attackers get Slowness when they hit you."
+enabled: true
+duration: 20
+amplifier: 0

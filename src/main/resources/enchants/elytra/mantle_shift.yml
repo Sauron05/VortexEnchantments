@@ -1,0 +1,7 @@
+﻿# MantleShift Enchantment Config
+display-name: "MantleShift"
+tier: "EPIC"
+max-level: 1
+description: "Convert freefall momentum to flight burst."
+enabled: true
+max_stored: 5.0

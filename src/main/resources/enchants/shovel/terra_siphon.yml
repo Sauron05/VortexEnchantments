@@ -1,0 +1,8 @@
+# Terra Siphon Enchantment Config
+display-name: "Terra Siphon"
+tier: "LEGENDARY"
+max-level: 3
+description: "Mining soft blocks heals and feeds you."
+enabled: true
+heal: 0.5
+food-restore: 1

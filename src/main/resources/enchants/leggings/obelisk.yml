@@ -1,0 +1,8 @@
+﻿# Obelisk Enchantment Config
+display-name: "Obelisk"
+tier: "EPIC"
+max-level: 3
+description: "Standing on the same block for 3s grants Resistance."
+enabled: true
+stand_ticks: 60
+resistance_amp: 0

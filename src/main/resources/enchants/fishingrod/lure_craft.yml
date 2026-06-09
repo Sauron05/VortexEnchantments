@@ -1,0 +1,8 @@
+﻿# LureCraft Enchantment Config
+display-name: "LureCraft"
+tier: "EPIC"
+max-level: 3
+description: "Consecutive catches trigger rapid-bite period."
+enabled: true
+max_stacks: 5
+active_duration_ms: 60000

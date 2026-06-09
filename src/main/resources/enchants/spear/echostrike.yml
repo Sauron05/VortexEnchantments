@@ -1,0 +1,6 @@
+display-name: "Echo Strike"
+tier: RARE
+max-level: 3
+description: "Every 3rd hit deals bonus echo damage."
+enabled: true
+bonus_percent: 0.40

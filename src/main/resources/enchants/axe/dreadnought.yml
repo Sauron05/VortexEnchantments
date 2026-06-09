@@ -1,0 +1,8 @@
+# Dreadnought Enchantment Config
+display-name: "Dreadnought"
+tier: "LEGENDARY"
+max-level: 3
+description: "Kills cause nearby enemies to flee in fear."
+enabled: true
+fear_radius: 10.0
+fear_ticks: 80

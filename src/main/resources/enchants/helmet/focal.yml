@@ -1,0 +1,8 @@
+# Focal Enchantment Config
+display-name: "Focal"
+tier: "RARE"
+max-level: 3
+description: "Deal bonus damage when only one enemy is nearby."
+enabled: true
+damage_bonus: 1.0
+check_radius: 8.0

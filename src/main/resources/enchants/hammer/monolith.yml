@@ -1,0 +1,6 @@
+id: monolith
+display_name: "Monolith"
+rarity: RARE
+max_level: 3
+description: "Same target: stacking damage bonus per hit."
+per_stack: "{0.02 + level * 0.03}"

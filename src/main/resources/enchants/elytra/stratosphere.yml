@@ -1,0 +1,7 @@
+# Stratosphere Enchantment Config
+display-name: "Stratosphere"
+tier: "EPIC"
+max-level: 3
+description: "High-altitude buffs while gliding."
+enabled: true
+min_y: 200.0

@@ -1,0 +1,7 @@
+﻿# Alluvial Enchantment Config
+display-name: "Alluvial"
+tier: "RARE"
+max-level: 3
+description: "River/ocean digging yields gems."
+enabled: true
+gem_chance: 0.06

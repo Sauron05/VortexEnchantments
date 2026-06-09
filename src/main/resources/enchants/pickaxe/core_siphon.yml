@@ -1,0 +1,8 @@
+# Core Siphon Enchantment Config
+display-name: "Core Siphon"
+tier: "MYTHIC"
+max-level: 3
+description: "Build mining energy, release devastating sphere explosion."
+enabled: true
+threshold: 40
+radius: 4

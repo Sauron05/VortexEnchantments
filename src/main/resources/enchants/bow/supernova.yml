@@ -1,0 +1,9 @@
+# Supernova Enchantment Config
+display-name: "Supernova"
+tier: "EPIC"
+max-level: 3
+description: "Critical hit creates expanding damage sphere."
+enabled: true
+radius: 5.0
+damage: [3.0, 5.0, 7.0]
+cooldown: 6.0

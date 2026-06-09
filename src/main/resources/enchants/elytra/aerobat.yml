@@ -1,0 +1,7 @@
+﻿# Aerobat Enchantment Config
+display-name: "Aerobat"
+tier: "RARE"
+max-level: 3
+description: "Speed + Slow Falling during steep dives."
+enabled: true
+min_pitch: 30.0

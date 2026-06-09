@@ -1,0 +1,8 @@
+﻿# Dormant Enchantment Config
+display-name: "Dormant"
+tier: "EPIC"
+max-level: 3
+description: "Power builds while idle; releases on first swing."
+enabled: true
+idle_seconds: 3
+max_bonus: 8.0

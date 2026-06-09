@@ -1,0 +1,7 @@
+﻿# Pendulum Enchantment Config
+display-name: "Pendulum"
+tier: "EPIC"
+max-level: 3
+description: "Arrow arcs and hits twice (rebounds)."
+enabled: true
+rebound_damage: 0.6

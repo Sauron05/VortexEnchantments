@@ -1,0 +1,8 @@
+# Metabolism Enchantment Config
+display-name: "Metabolism"
+tier: "UNCOMMON"
+max-level: 3
+description: "Extra healing when well-fed."
+enabled: true
+heal_amount: 0.5
+saturation_threshold: 10

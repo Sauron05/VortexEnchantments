@@ -1,0 +1,9 @@
+# Venom Gland Enchantment Config
+display-name: "Venom Gland"
+tier: "RARE"
+max-level: 3
+description: "Arrows stack cumulative venom on targets."
+enabled: true
+window_ms: 8000
+max_stacks: [3, 4, 5]
+poison_ticks: 60

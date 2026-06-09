@@ -1,0 +1,7 @@
+# Cultivator Enchantment Config
+display-name: "Cultivator"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling grants Luck effect."
+enabled: true
+duration: 100

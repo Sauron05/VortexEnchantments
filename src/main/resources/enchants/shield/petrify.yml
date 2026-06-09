@@ -1,0 +1,8 @@
+# Petrify Enchantment Config
+display-name: "Petrify"
+tier: "RARE"
+max-level: 3
+description: "Enemies facing you while blocking are slowed."
+enabled: true
+radius: 6.0
+slow-duration: 30

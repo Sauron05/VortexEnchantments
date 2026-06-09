@@ -1,0 +1,8 @@
+# Concussion Enchantment Config
+display-name: "Concussion"
+tier: "RARE"
+max-level: 3
+description: "Heavy blows stun the target with Slow, Blind, and Fatigue."
+enabled: true
+chance: 0.3
+stun_ticks: 30

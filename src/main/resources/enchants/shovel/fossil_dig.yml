@@ -1,0 +1,8 @@
+# Fossil Dig Enchantment Config
+display-name: "Fossil Dig"
+tier: "EPIC"
+max-level: 3
+description: "Chance to discover fossils with bonus XP."
+enabled: true
+chance: 4.0
+xp-amount: 20

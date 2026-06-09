@@ -1,0 +1,7 @@
+# Root Cutter Enchantment Config
+display-name: "Root Cutter"
+tier: "COMMON"
+max-level: 3
+description: "Breaking roots/vines gives Haste."
+enabled: true
+haste-duration: 60

@@ -1,0 +1,8 @@
+﻿# Ironleg Enchantment Config
+display-name: "Ironleg"
+tier: "RARE"
+max-level: 3
+description: "Kick attack knocks back enemies."
+enabled: true
+kick_cooldown: 8
+kick_force: 1.5

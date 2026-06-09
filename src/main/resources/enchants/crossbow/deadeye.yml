@@ -1,0 +1,8 @@
+﻿# Deadeye Enchantment Config
+display-name: "Deadeye"
+tier: "EPIC"
+max-level: 3
+description: "First shot after standing still 2s is a crit."
+enabled: true
+still_seconds: 2
+crit_bonus: 1.5

@@ -1,0 +1,8 @@
+﻿# Maelstrom Enchantment Config
+display-name: "Maelstrom"
+tier: "EPIC"
+max-level: 3
+description: "Impact creates spinning water vortex."
+enabled: true
+vortex_radius: 4.0
+vortex_damage: 2.5

@@ -1,0 +1,9 @@
+# Venom Cleave Enchantment Config
+display-name: "Venom Cleave"
+tier: "EPIC"
+max-level: 3
+description: "Poison spreads to nearby enemies when hitting poisoned targets."
+enabled: true
+poison_ticks: 80
+poison_level: 0
+spread_radius: 4.0

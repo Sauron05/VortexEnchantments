@@ -1,0 +1,8 @@
+# Cave Sense Enchantment Config
+display-name: "Cave Sense"
+tier: "RARE"
+max-level: 3
+description: "Sound alert when caves are nearby."
+enabled: true
+interval: 8
+radius: 5

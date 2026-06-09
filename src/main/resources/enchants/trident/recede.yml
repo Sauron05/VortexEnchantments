@@ -1,0 +1,7 @@
+﻿# Recede Enchantment Config
+display-name: "Recede"
+tier: "RARE"
+max-level: 3
+description: "On hit, pushes target back at high speed."
+enabled: true
+push_force: 2.0

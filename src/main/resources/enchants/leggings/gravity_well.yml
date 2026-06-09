@@ -1,0 +1,10 @@
+# Gravity Well Enchantment Config
+display-name: "Gravity Well"
+tier: "LEGENDARY"
+max-level: 3
+description: "Heavy hits pull all nearby enemies towards you."
+enabled: true
+damage_threshold: 6.0
+radius: 7.0
+slow_duration: 60
+cooldown: 25.0

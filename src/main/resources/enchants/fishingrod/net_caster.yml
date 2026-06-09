@@ -1,0 +1,7 @@
+# Net Caster Enchantment Config
+display-name: "Net Caster"
+tier: "UNCOMMON"
+max-level: 3
+description: "Catches scatter into extra fish drops."
+enabled: true
+extra_drops: 2

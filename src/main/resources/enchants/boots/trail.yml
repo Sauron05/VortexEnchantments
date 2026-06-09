@@ -1,0 +1,7 @@
+﻿# Trail Enchantment Config
+display-name: "Trail"
+tier: "UNCOMMON"
+max-level: 3
+description: "Leaves particles behind footsteps when sneaking."
+enabled: true
+enabled: true

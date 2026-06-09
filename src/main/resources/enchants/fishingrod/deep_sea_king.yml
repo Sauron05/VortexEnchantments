@@ -1,0 +1,7 @@
+# Deep Sea King Enchantment Config
+display-name: "Deep Sea King"
+tier: "LEGENDARY"
+max-level: 3
+description: "Doubles all fishing loot."
+enabled: true
+multiplier: 2

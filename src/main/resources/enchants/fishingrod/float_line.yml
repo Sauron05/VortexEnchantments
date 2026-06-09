@@ -1,0 +1,7 @@
+# Float Line Enchantment Config
+display-name: "Float Line"
+tier: "COMMON"
+max-level: 3
+description: "Bonus XP from fishing."
+enabled: true
+bonus_xp: 2

@@ -1,0 +1,7 @@
+# Armored Legs Enchantment Config
+display-name: "Armored Legs"
+tier: "COMMON"
+max-level: 3
+description: "Reduces incoming melee damage by a flat amount."
+enabled: true
+flat_reduction: 1.0

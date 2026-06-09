@@ -1,0 +1,7 @@
+# Golden Harvest Enchantment Config
+display-name: "Golden Harvest"
+tier: "RARE"
+max-level: 3
+description: "Rare chance for golden crop variants."
+enabled: true
+chance: 4.0

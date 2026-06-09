@@ -1,0 +1,7 @@
+﻿# Gait Enchantment Config
+display-name: "Gait"
+tier: "UNCOMMON"
+max-level: 3
+description: "Smoother movement on rough terrain (reduced stumble)."
+enabled: true
+enabled: true

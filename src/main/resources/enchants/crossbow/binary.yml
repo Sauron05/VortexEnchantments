@@ -1,0 +1,7 @@
+﻿# Binary Enchantment Config
+display-name: "Binary"
+tier: "RARE"
+max-level: 3
+description: "Two bolts fire: one at target, one at nearest mob."
+enabled: true
+second_bolt_damage: 0.7

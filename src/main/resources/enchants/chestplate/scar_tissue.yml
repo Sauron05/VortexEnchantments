@@ -1,0 +1,8 @@
+﻿# ScarTissue Enchantment Config
+display-name: "ScarTissue"
+tier: "RARE"
+max-level: 3
+description: "Each hit gives stacking damage resistance (max 3 stacks)."
+enabled: true
+max_stacks: 3
+per_stack: 0.04

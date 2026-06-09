@@ -1,0 +1,7 @@
+﻿# Stormchaser Enchantment Config
+display-name: "Stormchaser"
+tier: "RARE"
+max-level: 3
+description: "Haste + Speed during thunderstorms."
+enabled: true
+enabled: true

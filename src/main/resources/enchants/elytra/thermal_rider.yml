@@ -1,0 +1,7 @@
+﻿# ThermalRider Enchantment Config
+display-name: "ThermalRider"
+tier: "UNCOMMON"
+max-level: 3
+description: "Speed above Y=150 while gliding."
+enabled: true
+altitude_threshold: 150

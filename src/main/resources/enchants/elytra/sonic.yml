@@ -1,0 +1,9 @@
+﻿# Sonic Enchantment Config
+display-name: "Sonic"
+tier: "EPIC"
+max-level: 3
+description: "High-speed collision causes AoE damage."
+enabled: true
+min_speed: 0.8
+aoe_radius: 2.5
+bonus: 0.30

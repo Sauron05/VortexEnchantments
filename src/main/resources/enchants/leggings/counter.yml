@@ -1,0 +1,8 @@
+﻿# Counter Enchantment Config
+display-name: "Counter"
+tier: "EPIC"
+max-level: 3
+description: "After taking 3 consecutive hits, boost movement speed."
+enabled: true
+required_hits: 3
+speed_duration: 60

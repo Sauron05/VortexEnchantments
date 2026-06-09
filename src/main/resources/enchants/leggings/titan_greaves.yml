@@ -1,0 +1,7 @@
+# Titan Greaves Enchantment Config
+display-name: "Titan Greaves"
+tier: "EPIC"
+max-level: 3
+description: "Sneaking grants Resistance when hit."
+enabled: true
+duration: 60

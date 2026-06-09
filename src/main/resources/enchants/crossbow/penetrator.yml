@@ -1,0 +1,7 @@
+# Penetrator Enchantment Config
+display-name: "Penetrator"
+tier: "COMMON"
+max-level: 3
+description: "Bolt ignores a percentage of armor."
+enabled: true
+armor_bypass: [0.15, 0.25, 0.35]

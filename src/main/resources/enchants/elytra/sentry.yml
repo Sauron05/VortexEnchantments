@@ -1,0 +1,7 @@
+﻿# Sentry Enchantment Config
+display-name: "Sentry"
+tier: "RARE"
+max-level: 3
+description: "Deflect 50-80% projectile damage while gliding."
+enabled: true
+deflect_reduction: 0.50

@@ -1,0 +1,8 @@
+# Phoenix Wing Enchantment Config
+display-name: "Phoenix Wing"
+tier: "EPIC"
+max-level: 3
+description: "Survive lethal damage with a phoenix burst."
+enabled: true
+cooldown: 300
+revive_health: 4.0

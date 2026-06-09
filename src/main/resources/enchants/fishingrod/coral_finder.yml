@@ -1,0 +1,7 @@
+# Coral Finder Enchantment Config
+display-name: "Coral Finder"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to catch coral and sea items."
+enabled: true
+chance: 0.05

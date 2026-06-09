@@ -1,0 +1,8 @@
+﻿# Eddy Enchantment Config
+display-name: "Eddy"
+tier: "RARE"
+max-level: 3
+description: "Leaves spinning current at impact location."
+enabled: true
+eddy_duration: 80
+eddy_damage: 1.5

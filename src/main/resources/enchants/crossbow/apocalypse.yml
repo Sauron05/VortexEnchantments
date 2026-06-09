@@ -1,0 +1,12 @@
+# Apocalypse Enchantment Config
+display-name: "Apocalypse"
+tier: "MYTHIC"
+max-level: 3
+description: "Bolt triggers a cataclysmic AoE explosion with all debuffs."
+enabled: true
+radius: [4.0, 5.0, 6.0]
+aoe_damage: [6.0, 8.0, 10.0]
+effect_duration: [3, 4, 5]
+effect_amplifier: [0, 1, 2]
+damage_multiplier: [1.75, 2.0, 2.25]
+cooldown: 60.0

@@ -1,0 +1,6 @@
+id: stampede
+display_name: "Stampede"
+rarity: UNCOMMON
+max_level: 3
+description: "Sprint: bonus damage + extra knockback."
+bonus: "{0.05 + level * 0.15}"

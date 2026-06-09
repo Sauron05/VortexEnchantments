@@ -1,0 +1,9 @@
+# Plague Doctor Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 8.0
+  spread_radius: 3.0
+  plague_duration_ticks: 80
+  tick_damage: 0.75
+  spread_interval_ticks: 20

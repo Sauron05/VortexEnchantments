@@ -1,0 +1,6 @@
+display-name: "Oblivion"
+tier: MYTHIC
+max-level: 3
+description: "Kill: no drops, 3x XP, restore HP."
+enabled: true
+heal_percent: 0.30

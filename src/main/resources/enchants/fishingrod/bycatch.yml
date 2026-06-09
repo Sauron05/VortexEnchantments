@@ -1,0 +1,7 @@
+﻿# Bycatch Enchantment Config
+display-name: "Bycatch"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance for extra flotsam drops."
+enabled: true
+chance: 0.15

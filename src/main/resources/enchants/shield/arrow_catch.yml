@@ -1,0 +1,7 @@
+# Arrow Catch Enchantment Config
+display-name: "Arrow Catch"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to catch arrows when blocking."
+enabled: true
+chance: 25.0

@@ -1,0 +1,9 @@
+# Colossus Enchantment Config
+display-name: "Colossus"
+tier: "MYTHIC"
+max-level: 3
+description: "Near-death: become invulnerable with massive buffs."
+enabled: true
+buff_duration: 60
+invuln_ticks: 20
+cooldown: 180.0

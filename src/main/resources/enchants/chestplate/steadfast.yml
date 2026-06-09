@@ -1,0 +1,7 @@
+# Steadfast Enchantment Config
+display-name: "Steadfast"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces explosion damage and negates explosion knockback."
+enabled: true
+reduction_pct: 0.10

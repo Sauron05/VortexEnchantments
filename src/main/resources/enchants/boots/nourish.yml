@@ -1,0 +1,7 @@
+# Nourish Enchantment Config
+display-name: "Nourish"
+tier: "COMMON"
+max-level: 3
+description: "Slowly restores saturation."
+enabled: true
+saturation: 0.2

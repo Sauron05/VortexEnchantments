@@ -1,0 +1,7 @@
+# Fissure Enchantment Config
+display-name: "Fissure"
+tier: "EPIC"
+max-level: 3
+description: "Break a line of blocks in facing direction."
+enabled: true
+length: 4

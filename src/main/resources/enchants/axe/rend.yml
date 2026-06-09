@@ -1,0 +1,8 @@
+﻿# Rend Enchantment Config
+display-name: "Rend"
+tier: "RARE"
+max-level: 3
+description: "Inflicts a bleed stack on hit."
+enabled: true
+bleed_damage: 1.5
+max_stacks: 5

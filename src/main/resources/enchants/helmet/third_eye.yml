@@ -1,0 +1,8 @@
+﻿# ThirdEye Enchantment Config
+display-name: "ThirdEye"
+tier: "LEGENDARY"
+max-level: 1
+description: "See through walls in a cone ahead (spectral effect)."
+enabled: true
+range: 16
+cone_angle: 60

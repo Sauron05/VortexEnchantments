@@ -1,0 +1,7 @@
+﻿# Epitaph Enchantment Config
+display-name: "Epitaph"
+tier: "LEGENDARY"
+max-level: 1
+description: "Killing blow writes name to a death list; kills against listed give bonus."
+enabled: true
+bonus_damage: 4.0

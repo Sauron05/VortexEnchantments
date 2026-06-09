@@ -1,0 +1,9 @@
+﻿# DiveBomb Enchantment Config
+display-name: "DiveBomb"
+tier: "EPIC"
+max-level: 3
+description: "Steep dive triggers ground-slam on landing."
+enabled: true
+min_dive_speed: 0.8
+damage: 6.0
+radius: 5.0

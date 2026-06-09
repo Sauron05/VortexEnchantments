@@ -1,0 +1,7 @@
+﻿# Gyro Enchantment Config
+display-name: "Gyro"
+tier: "RARE"
+max-level: 3
+description: "Bolt spirals, hitting slightly off-angle targets too."
+enabled: true
+spiral_radius: 1.5

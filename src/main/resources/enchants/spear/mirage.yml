@@ -1,0 +1,8 @@
+display-name: "Mirage"
+tier: EPIC
+max-level: 3
+description: "On hit, spawn decoy copies to confuse."
+enabled: true
+decoys: 2
+lifetime_ticks: 60
+cooldown: 10

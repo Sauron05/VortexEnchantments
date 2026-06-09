@@ -1,0 +1,7 @@
+﻿# Deadbolt Enchantment Config
+display-name: "Deadbolt"
+tier: "RARE"
+max-level: 3
+description: "Bolts pierce through multiple targets."
+enabled: true
+pierce_count: 3

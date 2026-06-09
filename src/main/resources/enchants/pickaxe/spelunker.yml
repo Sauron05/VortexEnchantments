@@ -1,0 +1,7 @@
+# Spelunker Enchantment Config
+display-name: "Spelunker"
+tier: "COMMON"
+max-level: 3
+description: "Mining in dark areas grants Night Vision."
+enabled: true
+duration_ticks: 100

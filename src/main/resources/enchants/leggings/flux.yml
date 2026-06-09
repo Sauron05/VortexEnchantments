@@ -1,0 +1,8 @@
+﻿# Flux Enchantment Config
+display-name: "Flux"
+tier: "EPIC"
+max-level: 3
+description: "Speed fluctuates unpredictably, making you harder to target."
+enabled: true
+flux_interval: 20
+flux_range: 0.2

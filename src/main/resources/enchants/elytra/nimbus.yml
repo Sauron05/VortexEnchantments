@@ -1,0 +1,8 @@
+# Nimbus Enchantment Config
+display-name: "Nimbus"
+tier: "RARE"
+max-level: 3
+description: "Allies near your flight path gain Speed."
+enabled: true
+radius: 4.0
+buff_duration: 40

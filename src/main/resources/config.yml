@@ -1,0 +1,309 @@
+# ============================================================
+#  VortexEnchantments — Main Configuration
+# ============================================================
+
+# Plugin settings
+debug: false
+language: en
+
+# ---------------------------------------------------------------------------
+# Enchantment Application
+# ---------------------------------------------------------------------------
+enchantments:
+  # Max number of VortexEnchantments on a single item (0 = unlimited)
+  max-per-item: 3
+  # Whether to allow combining two VortexEnchanted items in an anvil
+  allow-anvil-combine: true
+  # Whether to strip VortexEnchants from items placed in grindstone
+  strip-on-grindstone: true
+  # Global multiplier applied to ALL enchantment chances during discovery
+  discovery-rate-multiplier: 1.0
+
+# ---------------------------------------------------------------------------
+# Enchantment Table Integration
+# ---------------------------------------------------------------------------
+enchanting-table:
+  enabled: true
+  # Weight each tier gets in the loot pool (higher = more common)
+  tier-weights:
+    COMMON: 40
+    UNCOMMON: 25
+    RARE: 18
+    EPIC: 12
+    LEGENDARY: 5
+
+# ---------------------------------------------------------------------------
+# Enchanted Book Shop (villager trades)
+# ---------------------------------------------------------------------------
+book-shop:
+  enabled: true
+  base-price: 5
+  # Price multipliers per tier
+  tier-price-multiplier:
+    COMMON: 1.0
+    UNCOMMON: 1.5
+    RARE: 2.5
+    EPIC: 5.0
+    LEGENDARY: 12.0
+
+# ---------------------------------------------------------------------------
+# GUI Browser
+# ---------------------------------------------------------------------------
+gui:
+  title: "§5✦ Vortex Enchantments ✦"
+  rows: 6
+  items-per-page: 45
+  background-material: BLACK_STAINED_GLASS_PANE
+
+# ---------------------------------------------------------------------------
+# Cooldown defaults (seconds) — individual enchants can override via their YAML
+# ---------------------------------------------------------------------------
+cooldowns:
+  default: 0
+
+# ---------------------------------------------------------------------------
+# Tick rate for passive enchantment processing
+# ---------------------------------------------------------------------------
+tick-rate: 4  # Every N server ticks (20 = 1 second)
+
+# ---------------------------------------------------------------------------
+# Storage backend
+# ---------------------------------------------------------------------------
+storage:
+  # flat-file or database (future)
+  type: flat-file
+  data-folder: playerdata
+
+# ---------------------------------------------------------------------------
+# bStats metrics
+# ---------------------------------------------------------------------------
+metrics:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Particle Aura System
+# ---------------------------------------------------------------------------
+aura:
+  enabled: true
+  # Tick interval for particle spawning (lower = smoother but more load)
+  tick-interval: 4
+
+# ---------------------------------------------------------------------------
+# Mob Drops (detailed config in mob_drops.yml)
+# ---------------------------------------------------------------------------
+mob-drops:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Mystery Scrolls
+# ---------------------------------------------------------------------------
+mystery-scroll:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Extractor Scrolls
+# ---------------------------------------------------------------------------
+extractor:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Enchant Forge (upgrade system)
+# ---------------------------------------------------------------------------
+forge:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Success / Destroy Rate System
+# ---------------------------------------------------------------------------
+success-rates:
+  COMMON:
+    success: 95
+    destroy: 0
+  UNCOMMON:
+    success: 85
+    destroy: 0
+  RARE:
+    success: 70
+    destroy: 2
+  EPIC:
+    success: 50
+    destroy: 5
+  LEGENDARY:
+    success: 35
+    destroy: 10
+  MYTHIC:
+    success: 20
+    destroy: 15
+
+# ---------------------------------------------------------------------------
+# Enchantment Dust (boosts success rate when applied to books)
+# ---------------------------------------------------------------------------
+dust:
+  enabled: true
+  # Bonus % added to success rate per dust tier
+  bonus-per-tier:
+    COMMON: 5
+    UNCOMMON: 10
+    RARE: 15
+    EPIC: 20
+    LEGENDARY: 25
+    MYTHIC: 30
+
+# ---------------------------------------------------------------------------
+# Tinkerer (salvage enchanted items for XP + dust)
+# ---------------------------------------------------------------------------
+tinkerer:
+  enabled: true
+  # XP per enchant = (rarity_ordinal + 1) * level * multiplier
+  xp-multiplier: 5
+
+# ---------------------------------------------------------------------------
+# Alchemist (combine books/dust)
+# ---------------------------------------------------------------------------
+alchemist:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Souls — PvP virtual currency
+# ---------------------------------------------------------------------------
+souls:
+  enabled: true
+  # Souls earned per kill
+  per-kill: 5
+  # Bonus souls per consecutive kill in streak
+  streak-bonus: 2
+  # Fraction of victim's souls lost on death (0.0 – 1.0)
+  victim-loss-fraction: 0.5
+  # Shop prices per rarity tier
+  shop-prices:
+    COMMON: 10
+    UNCOMMON: 25
+    RARE: 50
+    EPIC: 100
+    LEGENDARY: 250
+    MYTHIC: 500
+
+# ---------------------------------------------------------------------------
+# Armor Set Bonuses
+# ---------------------------------------------------------------------------
+armor-sets:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Multi-World Support
+# ---------------------------------------------------------------------------
+multi-world:
+  enabled: false
+  # Worlds where VortexEnchantments are disabled
+  disabled-worlds:
+    - world_lobby
+
+# ---------------------------------------------------------------------------
+# Loot Table Injection (books in dungeon / temple / end chests)
+# ---------------------------------------------------------------------------
+loot-tables:
+  enabled: true
+  injection-chance: 15
+
+# ---------------------------------------------------------------------------
+# Villager Trade Injection (librarian custom book trades)
+# ---------------------------------------------------------------------------
+villager:
+  enabled: true
+  replace-chance: 30
+
+# ---------------------------------------------------------------------------
+# Update Checker
+# ---------------------------------------------------------------------------
+update-checker:
+  enabled: true
+  resource-id: 0
+
+# ---------------------------------------------------------------------------
+# Slot Increaser — Increases max enchant slots on a single item
+# ---------------------------------------------------------------------------
+slot-increaser:
+  max-bonus: 8
+  # Success rate per tier (percentage)
+  success-rate:
+    tier-1: 100
+    tier-2: 70
+    tier-3: 40
+
+# ---------------------------------------------------------------------------
+# Transmog Scroll — Organizes enchant lore
+# ---------------------------------------------------------------------------
+transmog:
+  # "grouped" = group by rarity with headers, "sorted" = simple alphabetical
+  style: grouped
+
+# ---------------------------------------------------------------------------
+# Randomization Scroll — Re-rolls enchants with rarity-lock
+# ---------------------------------------------------------------------------
+randomization-scroll:
+  # Chance (%) to bump an enchant UP one rarity tier on re-roll
+  upgrade-chance: 15
+  # Chance (%) to DROP an enchant one rarity tier on re-roll
+  downgrade-chance: 10
+
+# ---------------------------------------------------------------------------
+# Holy White Scroll — Permanent item protection
+# ---------------------------------------------------------------------------
+holy-white-scroll:
+  # Also protect items on player death (keep inventory for that item)
+  death-protection: true
+
+# ---------------------------------------------------------------------------
+# Enchant Shop — Buy enchanted books with Vault economy
+# ---------------------------------------------------------------------------
+enchant-shop:
+  enabled: true
+  prices:
+    COMMON: 500
+    UNCOMMON: 1500
+    RARE: 5000
+    EPIC: 15000
+    LEGENDARY: 50000
+    MYTHIC: 150000
+  # Flash sale: random rarity on discount, rotates periodically
+  flash-sale-duration: 3600  # seconds (1 hour)
+  flash-sale-discount: 25   # percent off
+  # Daily purchase limit per rarity (0 = unlimited)
+  daily-limit:
+    COMMON: 0
+    UNCOMMON: 0
+    RARE: 10
+    EPIC: 5
+    LEGENDARY: 3
+    MYTHIC: 1
+
+# ---------------------------------------------------------------------------
+# Enchant Limits — Permission-based enchant slot limits
+# ---------------------------------------------------------------------------
+enchant-limits:
+  enabled: true
+  # Default max enchants per item (if player has no vortexenchantments.slots.X permission)
+  # Set to 0 for unlimited
+  default-max: 0
+
+# ---------------------------------------------------------------------------
+# Enchant Combos — Synergy effects when specific enchants coexist on an item
+# ---------------------------------------------------------------------------
+combos:
+  enabled: true
+
+# ---------------------------------------------------------------------------
+# Enchant Evolution — Evolve max-level enchants into stronger versions
+# ---------------------------------------------------------------------------
+evolution:
+  enabled: true
+  # Chance (%) that the enchant is DESTROYED on a failed evolution attempt
+  destroy-on-fail-chance: 10
+
+# ---------------------------------------------------------------------------
+# Enchant Particles — Per-enchant particle effects on weapons/armor
+# ---------------------------------------------------------------------------
+enchant-particles:
+  enabled: true
+  # Tick interval for particle spawning (lower = smoother but more CPU)
+  tick-interval: 4

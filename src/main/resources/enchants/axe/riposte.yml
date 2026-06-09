@@ -1,0 +1,8 @@
+# Riposte Enchantment Config
+display-name: "Riposte"
+tier: "EPIC"
+max-level: 3
+description: "After being hit, counter-attack within 2s for bonus damage."
+enabled: true
+bonus: 0.4
+window_ms: 2000

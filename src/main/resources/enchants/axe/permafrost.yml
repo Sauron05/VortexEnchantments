@@ -1,0 +1,8 @@
+# Permafrost Enchantment Config
+display-name: "Permafrost"
+tier: "LEGENDARY"
+max-level: 3
+description: "Freezes the target. Frozen targets take bonus axe damage."
+enabled: true
+freeze_ticks: 60
+frozen_bonus: 0.2

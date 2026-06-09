@@ -1,0 +1,7 @@
+# Chipper Enchantment Config
+display-name: "Chipper"
+tier: "COMMON"
+max-level: 3
+description: "Stone mining may yield flint."
+enabled: true
+chance: 8

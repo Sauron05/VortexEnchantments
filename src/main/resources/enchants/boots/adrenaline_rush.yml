@@ -1,0 +1,9 @@
+# Adrenaline Rush Enchantment Config
+display-name: "Adrenaline Rush"
+tier: "EPIC"
+max-level: 3
+description: "Heavy damage grants Speed and Strength."
+enabled: true
+damage_threshold: 4.0
+duration: 60
+cooldown: 15.0

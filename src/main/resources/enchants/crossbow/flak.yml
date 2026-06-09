@@ -1,0 +1,9 @@
+﻿# Flak Enchantment Config
+display-name: "Flak"
+tier: "EPIC"
+max-level: 3
+description: "Bolt bursts into pellets at range."
+enabled: true
+flak_range: 10.0
+pellet_count: 5
+pellet_damage: 1.5

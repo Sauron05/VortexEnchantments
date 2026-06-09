@@ -1,0 +1,7 @@
+# Bait Loop Enchantment Config
+display-name: "Bait Loop"
+tier: "UNCOMMON"
+max-level: 3
+description: "Consecutive catches stack bonus drops."
+enabled: true
+max_stacks: 4

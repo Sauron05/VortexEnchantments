@@ -1,0 +1,7 @@
+# Quickdraw Enchantment Config
+display-name: "Quickdraw"
+tier: "COMMON"
+max-level: 3
+description: "Partial draws deal more damage than normal."
+enabled: true
+min_damage_pct: [0.70, 0.80, 0.90]

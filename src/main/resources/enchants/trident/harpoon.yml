@@ -1,0 +1,7 @@
+﻿# Harpoon Enchantment Config
+display-name: "Harpoon"
+tier: "EPIC"
+max-level: 3
+description: "Tethers target to impact point briefly."
+enabled: true
+tether_ticks: 60

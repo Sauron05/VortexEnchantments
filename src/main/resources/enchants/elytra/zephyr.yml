@@ -1,0 +1,8 @@
+# Zephyr Enchantment Config
+display-name: "Zephyr"
+tier: "LEGENDARY"
+max-level: 3
+description: "Brief invulnerability while gliding."
+enabled: true
+cooldown: 60
+duration: 4

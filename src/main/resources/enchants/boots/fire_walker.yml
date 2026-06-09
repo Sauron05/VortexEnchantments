@@ -1,0 +1,7 @@
+# Fire Walker Enchantment Config
+display-name: "Fire Walker"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fire and lava damage."
+enabled: true
+reduction_pct: 0.15

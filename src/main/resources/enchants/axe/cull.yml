@@ -1,0 +1,8 @@
+﻿# Cull Enchantment Config
+display-name: "Cull"
+tier: "RARE"
+max-level: 3
+description: "Bonus damage vs enemies below 25% HP."
+enabled: true
+threshold: 0.25
+bonus: 0.4

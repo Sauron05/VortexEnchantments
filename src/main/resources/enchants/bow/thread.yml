@@ -1,0 +1,8 @@
+﻿# Thread Enchantment Config
+display-name: "Thread"
+tier: "EPIC"
+max-level: 3
+description: "Arrow leaves a damage thread between shooter and target."
+enabled: true
+thread_damage: 1.0
+thread_duration: 60

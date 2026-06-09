@@ -1,0 +1,8 @@
+# Shrapnel Enchantment Config
+display-name: "Shrapnel"
+tier: "RARE"
+max-level: 3
+description: "Block hit explodes into damage fragments."
+enabled: true
+radius: [3.0, 4.0, 5.0]
+damage: [4.0, 6.0, 8.0]

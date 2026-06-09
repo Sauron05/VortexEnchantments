@@ -1,0 +1,7 @@
+﻿# Vault Enchantment Config
+display-name: "Vault"
+tier: "EPIC"
+max-level: 3
+description: "Jump over walls by sprinting into them."
+enabled: true
+enabled: true

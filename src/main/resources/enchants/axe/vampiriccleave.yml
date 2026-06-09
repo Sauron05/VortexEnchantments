@@ -1,0 +1,9 @@
+# Vampiric Cleave Enchantment Config
+display-name: "Vampiric Cleave"
+tier: "LEGENDARY"
+max-level: 3
+description: "AoE cleave that heals based on total damage dealt."
+enabled: true
+radius: 4.0
+aoe_pct: 0.5
+lifesteal: 0.2

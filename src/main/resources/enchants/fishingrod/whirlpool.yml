@@ -1,0 +1,9 @@
+﻿# Whirlpool Enchantment Config
+display-name: "Whirlpool"
+tier: "EPIC"
+max-level: 3
+description: "Catching streak triggers AoE whirlpool."
+enabled: true
+required_catches: 3
+radius: 5.0
+damage: 4.0

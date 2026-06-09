@@ -1,0 +1,7 @@
+﻿# Taxidermy Enchantment Config
+display-name: "Taxidermy"
+tier: "RARE"
+max-level: 3
+description: "Chance to reel up a mob skull."
+enabled: true
+chance: 0.15

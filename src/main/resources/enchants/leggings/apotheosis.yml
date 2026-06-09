@@ -1,0 +1,10 @@
+# Apotheosis Enchantment Config
+display-name: "Apotheosis"
+tier: "MYTHIC"
+max-level: 3
+description: "Avoid death with a full heal and damage burst."
+enabled: true
+heal_pct: 0.45
+burst_radius: 6.0
+burst_damage: 4.0
+cooldown: 300.0

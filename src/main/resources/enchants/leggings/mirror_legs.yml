@@ -1,0 +1,7 @@
+# Mirror Legs Enchantment Config
+display-name: "Mirror Legs"
+tier: "RARE"
+max-level: 3
+description: "Chance to reflect projectile damage back at the attacker."
+enabled: true
+reflect_chance: 0.10

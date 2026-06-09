@@ -1,0 +1,7 @@
+﻿# Moonwalk Enchantment Config
+display-name: "Moonwalk"
+tier: "EPIC"
+max-level: 3
+description: "Reduced gravity while moving horizontally."
+enabled: true
+gravity_reduce: 0.3

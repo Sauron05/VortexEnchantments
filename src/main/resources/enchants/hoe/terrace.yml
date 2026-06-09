@@ -1,0 +1,8 @@
+# Terrace Enchantment Config
+display-name: "Terrace"
+tier: "EPIC"
+max-level: 3
+description: "Right-click to create terraced farmland."
+enabled: true
+steps: 2
+cooldown: 5

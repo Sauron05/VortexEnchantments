@@ -1,0 +1,7 @@
+﻿# Vertigo Enchantment Config
+display-name: "Vertigo"
+tier: "RARE"
+max-level: 3
+description: "Attackers suffer brief nausea/screen spin."
+enabled: true
+duration: 40

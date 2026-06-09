@@ -1,0 +1,7 @@
+display-name: "Netherspike"
+tier: EPIC
+max-level: 3
+description: "Fire damage + fire trail on throw."
+enabled: true
+fire_ticks: 60
+trail_length: 4

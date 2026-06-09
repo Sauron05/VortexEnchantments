@@ -1,0 +1,8 @@
+# Aero Lift Enchantment Config
+display-name: "Aero Lift"
+tier: "UNCOMMON"
+max-level: 3
+description: "Periodic upward lift while gliding."
+enabled: true
+interval: 5
+lift: 0.10

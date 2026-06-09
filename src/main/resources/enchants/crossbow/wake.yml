@@ -1,0 +1,7 @@
+﻿# Wake Enchantment Config
+display-name: "Wake"
+tier: "RARE"
+max-level: 3
+description: "Leaving a wake of particles that slows enemies crossing them."
+enabled: true
+wake_duration: 60

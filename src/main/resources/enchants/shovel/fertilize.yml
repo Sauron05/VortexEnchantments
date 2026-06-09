@@ -1,0 +1,7 @@
+# Fertilize Enchantment Config
+display-name: "Fertilize"
+tier: "RARE"
+max-level: 3
+description: "Breaking grass/dirt fertilizes nearby crops."
+enabled: true
+radius: 4.0

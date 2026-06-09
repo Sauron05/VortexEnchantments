@@ -1,0 +1,8 @@
+# Frost Dig Enchantment Config
+display-name: "Frost Dig"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining snow/ice blocks slows nearby enemies."
+enabled: true
+radius: 4.0
+slow-duration: 60

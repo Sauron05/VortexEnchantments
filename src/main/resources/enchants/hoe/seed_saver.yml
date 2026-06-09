@@ -1,0 +1,6 @@
+# Seed Saver Enchantment Config
+display-name: "Seed Saver"
+tier: "COMMON"
+max-level: 3
+description: "Harvesting always gives extra seeds."
+enabled: true

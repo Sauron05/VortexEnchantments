@@ -1,0 +1,7 @@
+﻿# Refraction Enchantment Config
+display-name: "Refraction"
+tier: "RARE"
+max-level: 3
+description: "Arrow splits into multiple on hit."
+enabled: true
+split_count: 3

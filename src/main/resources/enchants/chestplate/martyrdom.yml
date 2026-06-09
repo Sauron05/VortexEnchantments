@@ -1,0 +1,8 @@
+# Martyrdom Enchantment Config
+display-name: "Martyrdom"
+tier: "EPIC"
+max-level: 3
+description: "On death, explode dealing massive AoE damage."
+enabled: true
+radius: 5.0
+explosion_damage: 4.0

@@ -1,0 +1,7 @@
+﻿# Reaper Enchantment Config
+display-name: "Reaper"
+tier: "RARE"
+max-level: 3
+description: "Harvests all crops in a 3x3 area at once."
+enabled: true
+radius: 1

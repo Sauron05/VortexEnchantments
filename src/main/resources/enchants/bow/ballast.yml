@@ -1,0 +1,7 @@
+﻿# Ballast Enchantment Config
+display-name: "Ballast"
+tier: "RARE"
+max-level: 3
+description: "Arrows fired downward gain extra damage."
+enabled: true
+angle_bonus: 0.3

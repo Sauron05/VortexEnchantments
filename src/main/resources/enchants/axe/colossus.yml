@@ -1,0 +1,11 @@
+# Colossus Enchantment Config
+display-name: "Colossus"
+tier: "MYTHIC"
+max-level: 3
+description: "Falling hits deal massive bonus damage plus AoE ground slam."
+enabled: true
+min_fall: 1.5
+damage_per_block: 1.0
+max_bonus: 10.0
+aoe_radius: 3.0
+aoe_damage: 4.0

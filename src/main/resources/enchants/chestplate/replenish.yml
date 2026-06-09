@@ -1,0 +1,8 @@
+# Replenish Enchantment Config
+display-name: "Replenish"
+tier: "UNCOMMON"
+max-level: 3
+description: "Passive regeneration after 5 seconds without damage."
+enabled: true
+no_damage_ms: 5000
+heal_per_tick: 0.5

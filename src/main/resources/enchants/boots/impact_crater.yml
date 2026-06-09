@@ -1,0 +1,7 @@
+# Impact Crater Enchantment Config
+display-name: "Impact Crater"
+tier: "RARE"
+max-level: 3
+description: "Fall landings deal AOE damage."
+enabled: true
+radius: 4.0

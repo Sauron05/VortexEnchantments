@@ -1,0 +1,8 @@
+﻿# Verdant Enchantment Config
+display-name: "Verdant"
+tier: "RARE"
+max-level: 3
+description: "Passively regenerates nearby crops."
+enabled: true
+regen_radius: 4
+regen_rate: 0.1

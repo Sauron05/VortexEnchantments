@@ -1,0 +1,7 @@
+﻿# Weight Enchantment Config
+display-name: "Weight"
+tier: "RARE"
+max-level: 3
+description: "Adds weight stacks to target slowing them."
+enabled: true
+max_stacks: 5

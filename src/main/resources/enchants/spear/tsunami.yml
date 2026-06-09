@@ -1,0 +1,8 @@
+display-name: "Tsunami"
+tier: EPIC
+max-level: 3
+description: "Thrown hit creates a knockback wave."
+enabled: true
+radius: 3.0
+bonus_damage: 2.0
+cooldown: 12

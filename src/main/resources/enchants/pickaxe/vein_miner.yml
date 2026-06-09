@@ -1,0 +1,7 @@
+# Vein Miner Enchantment Config
+display-name: "Vein Miner"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mines connected ore veins."
+enabled: true
+max_blocks: 5

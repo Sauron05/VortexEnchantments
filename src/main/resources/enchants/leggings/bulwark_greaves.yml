@@ -1,0 +1,7 @@
+# Bulwark Greaves Enchantment Config
+display-name: "Bulwark Greaves"
+tier: "RARE"
+max-level: 3
+description: "Reduces knockback from melee attacks."
+enabled: true
+kb_reduction: 0.25

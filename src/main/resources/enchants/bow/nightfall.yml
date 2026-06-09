@@ -1,0 +1,7 @@
+# Nightfall Enchantment Config
+display-name: "Nightfall"
+tier: "UNCOMMON"
+max-level: 3
+description: "Night shots deal bonus damage."
+enabled: true
+bonus: [0.20, 0.30, 0.40]

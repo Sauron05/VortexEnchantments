@@ -1,0 +1,9 @@
+# Shield Bash Enchantment Config
+display-name: "Shield Bash"
+tier: "COMMON"
+max-level: 3
+description: "Right-click to bash nearby enemies."
+enabled: true
+damage: 2.0
+range: 2.0
+cooldown: 3

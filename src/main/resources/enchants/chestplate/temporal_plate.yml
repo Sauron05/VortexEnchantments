@@ -1,0 +1,8 @@
+# Temporal Plate Enchantment Config
+display-name: "Temporal Plate"
+tier: "EPIC"
+max-level: 3
+description: "Chance to negate an attack entirely."
+enabled: true
+negate_chance: 0.08
+cooldown: 10

@@ -1,0 +1,6 @@
+display-name: "Skewer"
+tier: RARE
+max-level: 3
+description: "Pierces through target armor."
+enabled: true
+bypass_percent: 0.15

@@ -1,0 +1,7 @@
+# Blood Price Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  self_damage: 4.0
+  bonus_damage: 8.0
+  min_health: 2.0

@@ -1,0 +1,8 @@
+# Flight Fury Enchantment Config
+display-name: "Flight Fury"
+tier: "EPIC"
+max-level: 3
+description: "Build rage in flight; unleash on melee hit."
+enabled: true
+max_stacks: 15
+damage_per_stack: 0.3

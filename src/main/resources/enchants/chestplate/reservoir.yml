@@ -1,0 +1,8 @@
+﻿# Reservoir Enchantment Config
+display-name: "Reservoir"
+tier: "EPIC"
+max-level: 3
+description: "Stores excess healing; releases when HP is low."
+enabled: true
+max_store: 20.0
+hp_threshold: 0.30

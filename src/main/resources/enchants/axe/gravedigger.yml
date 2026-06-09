@@ -1,0 +1,14 @@
+# Gravedigger Enchantment Config
+display-name: "Gravedigger"
+tier: "LEGENDARY"
+max-level: 3
+description: "Kills raise a zombie minion to fight for you."
+enabled: true
+max-minions:
+  1: 1
+  2: 2
+  3: 3
+lifetime-ticks:
+  1: 160
+  2: 240
+  3: 320

@@ -1,0 +1,8 @@
+# Sunder Enchantment Config
+display-name: "Sunder"
+tier: "LEGENDARY"
+max-level: 3
+description: "Destroys durability from ALL armor pieces simultaneously."
+enabled: true
+base_damage: 5
+per_level_damage: 5

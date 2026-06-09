@@ -1,0 +1,7 @@
+﻿# Germinate Enchantment Config
+display-name: "Germinate"
+tier: "COMMON"
+max-level: 3
+description: "Boosts seed germination chance."
+enabled: true
+germination_bonus: 0.15

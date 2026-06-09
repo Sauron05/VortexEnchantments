@@ -1,0 +1,7 @@
+# Featherfall Plus Enchantment Config
+display-name: "Featherfall Plus"
+tier: "RARE"
+max-level: 3
+description: "Negates fall damage up to a threshold."
+enabled: true
+negate_threshold: 4.0

@@ -1,0 +1,8 @@
+# Adrenaline Legs Enchantment Config
+display-name: "Adrenaline Legs"
+tier: "RARE"
+max-level: 3
+description: "Gain Strength when below 40% HP."
+enabled: true
+hp_threshold: 0.40
+duration: 60

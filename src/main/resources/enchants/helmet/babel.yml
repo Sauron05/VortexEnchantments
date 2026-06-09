@@ -1,0 +1,7 @@
+﻿# Babel Enchantment Config
+display-name: "Babel"
+tier: "RARE"
+max-level: 3
+description: "Translates mob sounds into hints about their behavior."
+enabled: true
+enabled: true

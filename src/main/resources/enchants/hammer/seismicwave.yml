@@ -1,0 +1,9 @@
+id: seismicwave
+display_name: "Seismicwave"
+rarity: RARE
+max_level: 3
+description: "Right-click: fissure line forward with damage + Slowness."
+length: "{5.0 + level * 2.0}"
+damage: "{2.0 + level}"
+slow_duration: "{40 + level * 20}"
+cooldown: 10

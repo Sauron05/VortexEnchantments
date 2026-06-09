@@ -1,0 +1,7 @@
+﻿# Deflect Enchantment Config
+display-name: "Deflect"
+tier: "RARE"
+max-level: 3
+description: "Chance to completely deflect a hit."
+enabled: true
+chance: 0.1

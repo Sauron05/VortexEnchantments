@@ -1,0 +1,7 @@
+﻿# Temper Enchantment Config
+display-name: "Temper"
+tier: "RARE"
+max-level: 3
+description: "Heated pickaxe smelts ores as they're mined."
+enabled: true
+smelt_chance: 0.5

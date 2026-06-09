@@ -1,0 +1,7 @@
+id: anvilstrike
+display_name: "Anvilstrike"
+rarity: RARE
+max_level: 3
+description: "Bonus damage per block fallen (max 10)."
+per_block: "{0.10 + level * 0.05}"
+max_blocks: 10

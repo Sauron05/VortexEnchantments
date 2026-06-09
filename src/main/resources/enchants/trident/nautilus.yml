@@ -1,0 +1,7 @@
+﻿# Nautilus Enchantment Config
+display-name: "Nautilus"
+tier: "RARE"
+max-level: 3
+description: "Trident automatically returns with accelerated Riptide."
+enabled: true
+return_boost: 0.3

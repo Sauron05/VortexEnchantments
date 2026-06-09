@@ -1,0 +1,8 @@
+id: tremorsense
+display_name: "Tremorsense"
+rarity: RARE
+max_level: 3
+description: "After hitting: highlight nearby entities."
+radius: "{4.0 + level * 4.0}"
+interval_ticks: 60
+duration_ticks: 200

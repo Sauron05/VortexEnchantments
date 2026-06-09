@@ -1,0 +1,7 @@
+# Famine's Bane Enchantment Config
+display-name: "Famine's Bane"
+tier: "LEGENDARY"
+max-level: 3
+description: "Crops in radius always grow and stay watered."
+enabled: true
+radius: 8

@@ -1,0 +1,7 @@
+# Karmic Debt Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  store_ratio: 0.20
+  max_stored: 20.0
+  timeout_ms: 10000

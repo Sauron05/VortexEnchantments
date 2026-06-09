@@ -1,0 +1,9 @@
+# Barrage Enchantment Config
+display-name: "Barrage"
+tier: "COMMON"
+max-level: 3
+description: "Shoot extra arrows in a spread pattern."
+enabled: true
+extra_arrows: [1, 2, 3]
+spread: 0.15
+clone_damage_pct: 0.50

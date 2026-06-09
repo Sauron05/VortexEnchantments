@@ -1,0 +1,8 @@
+# Quick Dash Enchantment Config
+display-name: "Quick Dash"
+tier: "UNCOMMON"
+max-level: 3
+description: "Sneak to dash forward quickly."
+enabled: true
+dash_power: 1.1
+cooldown: 5.0

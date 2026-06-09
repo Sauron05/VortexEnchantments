@@ -1,0 +1,7 @@
+# Eternal Guard Enchantment Config
+display-name: "Eternal Guard"
+tier: "LEGENDARY"
+max-level: 3
+description: "Damage reduction scales with number of enchanted armor pieces."
+enabled: true
+reduction_per_piece: 0.03

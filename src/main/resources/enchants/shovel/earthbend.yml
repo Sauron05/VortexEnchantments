@@ -1,0 +1,9 @@
+# Earthbend Enchantment Config
+display-name: "Earthbend"
+tier: "EPIC"
+max-level: 3
+description: "Fling dirt blocks at enemies for damage."
+enabled: true
+damage: 4.0
+speed: 1.5
+cooldown: 5

@@ -1,0 +1,9 @@
+# Subduction Enchantment Config
+display-name: "Subduction"
+tier: "RARE"
+max-level: 3
+description: "Slowly sink enemies into the ground while digging."
+enabled: true
+radius: 4.0
+slow-duration: 60
+cooldown: 8

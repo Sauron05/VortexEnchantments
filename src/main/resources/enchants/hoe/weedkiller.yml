@@ -1,0 +1,7 @@
+﻿# Weedkiller Enchantment Config
+display-name: "Weedkiller"
+tier: "COMMON"
+max-level: 3
+description: "Destroys grass and weeds around tilled area."
+enabled: true
+radius: 2

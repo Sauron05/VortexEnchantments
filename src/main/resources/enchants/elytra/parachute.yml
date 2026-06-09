@@ -1,0 +1,7 @@
+﻿# Parachute Enchantment Config
+display-name: "Parachute"
+tier: "COMMON"
+max-level: 3
+description: "Auto-deploys glide to prevent death."
+enabled: true
+fall_threshold: 20

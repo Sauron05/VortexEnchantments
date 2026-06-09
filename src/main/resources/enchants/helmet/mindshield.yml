@@ -1,0 +1,7 @@
+# Mindshield Enchantment Config
+display-name: "Mindshield"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces Wither and Poison damage by a percentage."
+enabled: true
+reduction_pct: 0.10

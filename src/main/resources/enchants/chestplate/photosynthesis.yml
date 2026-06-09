@@ -1,0 +1,8 @@
+﻿# Photosynthesis Enchantment Config
+display-name: "Photosynthesis"
+tier: "RARE"
+max-level: 3
+description: "Slowly regenerate HP in sunlight."
+enabled: true
+regen_rate: 0.5
+interval: 40

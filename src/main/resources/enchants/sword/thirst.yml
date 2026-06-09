@@ -1,0 +1,8 @@
+﻿# Thirst Enchantment Config
+display-name: "Thirst"
+tier: "RARE"
+max-level: 3
+description: "Each hit stacks thirst; stacks boost damage until quenched."
+enabled: true
+max_stacks: 5
+per_stack_bonus: 0.04

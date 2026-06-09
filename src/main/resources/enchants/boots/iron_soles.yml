@@ -1,0 +1,7 @@
+# Iron Soles Enchantment Config
+display-name: "Iron Soles"
+tier: "COMMON"
+max-level: 3
+description: "Grants bonus armor toughness."
+enabled: true
+toughness: 1.0

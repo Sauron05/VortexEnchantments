@@ -1,0 +1,8 @@
+﻿# Martyr Enchantment Config
+display-name: "Martyr"
+tier: "EPIC"
+max-level: 1
+description: "Absorb 50% fatal damage from nearby allies."
+enabled: true
+radius: 8.0
+redirect_ratio: 0.50

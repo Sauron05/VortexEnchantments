@@ -1,0 +1,8 @@
+# Purgatory Enchantment Config
+display-name: "Purgatory"
+tier: "LEGENDARY"
+max-level: 3
+description: "Killing a target summons a soul ghost that fights for you."
+enabled: true
+lifetime: [160, 240, 320]
+cooldown: 20.0

@@ -1,0 +1,8 @@
+# Obliterate Enchantment Config
+display-name: "Obliterate"
+tier: "MYTHIC"
+max-level: 3
+description: "On kill, deal overkill damage as AoE to nearby enemies."
+enabled: true
+overkill_pct: 0.30
+radius: 5.0

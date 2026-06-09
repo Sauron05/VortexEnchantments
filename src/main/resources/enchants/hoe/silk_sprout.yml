@@ -1,0 +1,6 @@
+# Silk Sprout Enchantment Config
+display-name: "Silk Sprout"
+tier: "RARE"
+max-level: 3
+description: "Mature crops drop extra items."
+enabled: true

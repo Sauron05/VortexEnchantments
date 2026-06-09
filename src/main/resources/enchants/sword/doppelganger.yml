@@ -1,0 +1,6 @@
+# Doppelganger Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 25.0
+  duration_ticks: 200

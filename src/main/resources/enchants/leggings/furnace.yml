@@ -1,0 +1,7 @@
+﻿# Furnace Enchantment Config
+display-name: "Furnace"
+tier: "RARE"
+max-level: 3
+description: "Sprinting generates warmth: fire resistance in cold."
+enabled: true
+enabled: true

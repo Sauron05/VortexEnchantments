@@ -1,0 +1,8 @@
+﻿# Overgrowth Enchantment Config
+display-name: "Overgrowth"
+tier: "LEGENDARY"
+max-level: 1
+description: "Mega harvest: all crops in 7x7 are fully grown."
+enabled: true
+radius: 3
+cooldown: 120

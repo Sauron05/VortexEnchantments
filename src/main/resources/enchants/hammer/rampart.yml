@@ -1,0 +1,8 @@
+id: rampart
+display_name: "Rampart"
+rarity: UNCOMMON
+max_level: 3
+description: "Right-click: summon cobble wall for 4s."
+height: "{1 + level * 2}"
+duration_ticks: 80
+cooldown: 15

@@ -1,0 +1,8 @@
+﻿# Vortex Enchantment Config
+display-name: "Vortex"
+tier: "LEGENDARY"
+max-level: 1
+description: "Creates a vortex aura pulling and damaging attackers."
+enabled: true
+vortex_radius: 3.0
+vortex_damage: 2.0

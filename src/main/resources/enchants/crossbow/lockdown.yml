@@ -1,0 +1,8 @@
+# Lockdown Enchantment Config
+display-name: "Lockdown"
+tier: "EPIC"
+max-level: 3
+description: "Bolt traps the target inside an obsidian cage."
+enabled: true
+duration_ticks: [40, 50, 60]
+cooldown: 12.0

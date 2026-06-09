@@ -1,0 +1,7 @@
+﻿# Conduction Enchantment Config
+display-name: "Conduction"
+tier: "RARE"
+max-level: 3
+description: "Lightning strikes near you heal you instead of damaging."
+enabled: true
+enabled: true

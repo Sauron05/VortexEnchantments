@@ -1,0 +1,8 @@
+﻿# Terraform Enchantment Config
+display-name: "Terraform"
+tier: "LEGENDARY"
+max-level: 1
+description: "Terraform large area to flat plain."
+enabled: true
+radius: 8
+cooldown: 60

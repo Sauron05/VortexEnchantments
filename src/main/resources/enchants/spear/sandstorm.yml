@@ -1,0 +1,8 @@
+display-name: "Sandstorm"
+tier: RARE
+max-level: 3
+description: "Thrown impact creates a damage cloud."
+enabled: true
+radius: 3.0
+dps: 2.0
+cooldown: 15

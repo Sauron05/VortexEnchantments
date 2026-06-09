@@ -1,0 +1,8 @@
+# Vigor Stride Enchantment Config
+display-name: "Vigor Stride"
+tier: "RARE"
+max-level: 3
+description: "Sprinting at full food regenerates HP."
+enabled: true
+food_threshold: 18
+heal_per_tick: 0.2

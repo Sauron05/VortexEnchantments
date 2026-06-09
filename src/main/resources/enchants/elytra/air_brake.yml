@@ -1,0 +1,7 @@
+# Air Brake Enchantment Config
+display-name: "Air Brake"
+tier: "UNCOMMON"
+max-level: 3
+description: "Sneak to brake mid-flight."
+enabled: true
+brake_factor: 0.3

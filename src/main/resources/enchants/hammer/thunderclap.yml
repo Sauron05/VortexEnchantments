@@ -1,0 +1,7 @@
+id: thunderclap
+display_name: "Thunder Clap"
+rarity: EPIC
+max_level: 3
+description: "Crit: AoE Slowness IV blast."
+radius: "{3.0 + level}"
+slow_duration: 40

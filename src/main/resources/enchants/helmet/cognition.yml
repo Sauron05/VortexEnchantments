@@ -1,0 +1,7 @@
+﻿# Cognition Enchantment Config
+display-name: "Cognition"
+tier: "RARE"
+max-level: 3
+description: "Reduces XP cost for anvil operations."
+enabled: true
+xp_reduce: 0.2

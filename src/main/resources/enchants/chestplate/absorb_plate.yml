@@ -1,0 +1,7 @@
+# Absorb Plate Enchantment Config
+display-name: "Absorb Plate"
+tier: "RARE"
+max-level: 3
+description: "Steal a portion of melee damage dealt as HP."
+enabled: true
+steal_pct: 0.05

@@ -1,0 +1,9 @@
+# Tidal Dominance Enchantment Config
+display-name: "Tidal Dominance"
+tier: "MYTHIC"
+max-level: 3
+description: "Unleash a wave attack on catch."
+enabled: true
+cooldown: 20
+radius: 8.0
+damage: 8.0

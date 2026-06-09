@@ -1,0 +1,8 @@
+# Thorns Aura Enchantment Config
+display-name: "Thorns Aura"
+tier: "EPIC"
+max-level: 3
+description: "On kill, deal splash damage to nearby enemies."
+enabled: true
+radius: 4.0
+splash_damage: 1.5

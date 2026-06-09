@@ -1,0 +1,7 @@
+﻿# Coral Enchantment Config
+display-name: "Coral"
+tier: "UNCOMMON"
+max-level: 3
+description: "Heals thrower when target is in water."
+enabled: true
+heal_amount: 2.0

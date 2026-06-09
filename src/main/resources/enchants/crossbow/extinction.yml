@@ -1,0 +1,8 @@
+# Extinction Enchantment Config
+display-name: "Extinction"
+tier: "MYTHIC"
+max-level: 3
+description: "Each kill within a short window chains bonus damage to the next shot."
+enabled: true
+chain_window: 3
+bonus_per_chain: 0.5

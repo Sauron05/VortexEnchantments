@@ -1,0 +1,7 @@
+# Fortify Enchantment Config
+display-name: "Fortify"
+tier: "RARE"
+max-level: 3
+description: "Kills grant temporary Resistance and Fire Resistance."
+enabled: true
+duration_ticks: 100

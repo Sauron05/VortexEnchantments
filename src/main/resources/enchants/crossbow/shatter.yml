@@ -1,0 +1,8 @@
+﻿# Shatter Enchantment Config
+display-name: "Shatter"
+tier: "EPIC"
+max-level: 3
+description: "Bolt shatters on impact AoE fragment damage."
+enabled: true
+fragment_count: 6
+fragment_damage: 2.0

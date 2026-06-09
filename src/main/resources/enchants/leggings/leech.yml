@@ -1,0 +1,7 @@
+# Leech Enchantment Config
+display-name: "Leech"
+tier: "RARE"
+max-level: 3
+description: "Heal HP on melee kills."
+enabled: true
+heal_on_kill: 2.0

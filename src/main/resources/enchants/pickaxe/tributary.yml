@@ -1,0 +1,7 @@
+﻿# Tributary Enchantment Config
+display-name: "Tributary"
+tier: "RARE"
+max-level: 3
+description: "Water in veins yields extra drops."
+enabled: true
+water_bonus: 0.2

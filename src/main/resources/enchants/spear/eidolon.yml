@@ -1,0 +1,7 @@
+display-name: "Eidolon"
+tier: LEGENDARY
+max-level: 3
+description: "Kill creates a ghost mob minion."
+enabled: true
+lifetime_ticks: 160
+cooldown: 15

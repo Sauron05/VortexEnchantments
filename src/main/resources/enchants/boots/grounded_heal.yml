@@ -1,0 +1,7 @@
+# Grounded Heal Enchantment Config
+display-name: "Grounded Heal"
+tier: "UNCOMMON"
+max-level: 3
+description: "Regenerate HP while sneaking."
+enabled: true
+heal_per_tick: 0.3

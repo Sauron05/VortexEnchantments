@@ -1,0 +1,7 @@
+﻿# Embargo Enchantment Config
+display-name: "Embargo"
+tier: "RARE"
+max-level: 3
+description: "Attacker cannot heal for 3s after hitting you."
+enabled: true
+debuff_duration: 60

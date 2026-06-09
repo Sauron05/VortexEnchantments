@@ -1,0 +1,9 @@
+# Life Weaver Enchantment Config
+display-name: "Life Weaver"
+tier: "MYTHIC"
+max-level: 3
+description: "Growing crops give XP and heal you."
+enabled: true
+radius: 7
+xp-per-crop: 1
+heal: 0.1

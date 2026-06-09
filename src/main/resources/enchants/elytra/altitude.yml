@@ -1,0 +1,7 @@
+# Altitude Enchantment Config
+display-name: "Altitude"
+tier: "UNCOMMON"
+max-level: 3
+description: "Damage resistance at high altitude while gliding."
+enabled: true
+min_y: 150.0

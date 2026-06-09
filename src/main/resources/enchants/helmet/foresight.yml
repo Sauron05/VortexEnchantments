@@ -1,0 +1,7 @@
+﻿# Foresight Enchantment Config
+display-name: "Foresight"
+tier: "RARE"
+max-level: 3
+description: "Shows outlines of enemies through walls within range."
+enabled: true
+range: 12

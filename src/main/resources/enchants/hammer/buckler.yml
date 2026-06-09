@@ -1,0 +1,7 @@
+id: buckler
+display_name: "Buckler"
+rarity: UNCOMMON
+max_level: 3
+description: "Chance to block + counter-attack."
+chance: "{0.05 + level * 0.10}"
+counter_multiplier: 0.50

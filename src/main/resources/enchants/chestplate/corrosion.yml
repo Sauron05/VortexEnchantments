@@ -1,0 +1,7 @@
+# Corrosion Enchantment Config
+display-name: "Corrosion"
+tier: "EPIC"
+max-level: 3
+description: "Attacker's weapon loses durability when hitting you."
+enabled: true
+durability_loss: 3

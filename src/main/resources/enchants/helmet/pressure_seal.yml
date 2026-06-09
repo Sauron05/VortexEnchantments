@@ -1,0 +1,7 @@
+﻿# PressureSeal Enchantment Config
+display-name: "PressureSeal"
+tier: "RARE"
+max-level: 3
+description: "Reduces drowning and suffocation damage."
+enabled: true
+reduce: 0.4

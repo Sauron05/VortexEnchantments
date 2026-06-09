@@ -1,0 +1,7 @@
+# World Fisher Enchantment Config
+display-name: "World Fisher"
+tier: "MYTHIC"
+max-level: 3
+description: "Catches include dimensional loot."
+enabled: true
+chance: 0.15

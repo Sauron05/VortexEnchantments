@@ -1,0 +1,8 @@
+﻿# Root Enchantment Config
+display-name: "Root"
+tier: "RARE"
+max-level: 3
+description: "Roots nearby mobs for 2s after digging."
+enabled: true
+root_radius: 3.0
+root_ticks: 40

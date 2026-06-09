@@ -1,0 +1,7 @@
+# Unyielding Enchantment Config
+display-name: "Unyielding"
+tier: "LEGENDARY"
+max-level: 3
+description: "Shield never breaks; blocks at low durability."
+enabled: true
+low-durability-reduction: 0.4

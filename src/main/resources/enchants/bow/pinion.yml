@@ -1,0 +1,7 @@
+﻿# Pinion Enchantment Config
+display-name: "Pinion"
+tier: "RARE"
+max-level: 3
+description: "Arrow pins target to a wall."
+enabled: true
+pin_duration: 40

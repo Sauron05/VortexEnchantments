@@ -1,0 +1,8 @@
+# Fungal Spread Enchantment Config
+display-name: "Fungal Spread"
+tier: "RARE"
+max-level: 3
+description: "Breaking mushrooms spreads them nearby."
+enabled: true
+radius: 2
+max-spread: 4

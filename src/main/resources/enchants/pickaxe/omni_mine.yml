@@ -1,0 +1,6 @@
+# Omni-Mine Enchantment Config
+display-name: "Omni-Mine"
+tier: "MYTHIC"
+max-level: 3
+description: "Ore gives both silk-touch and fortune drops."
+enabled: true

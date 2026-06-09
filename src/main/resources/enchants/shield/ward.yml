@@ -1,0 +1,7 @@
+﻿# Ward Enchantment Config
+display-name: "Ward"
+tier: "RARE"
+max-level: 3
+description: "Blocking grants immunity to negative effects briefly."
+enabled: true
+immunity_duration: 3.0

@@ -1,0 +1,8 @@
+# Reactive Enchantment Config
+display-name: "Reactive"
+tier: "UNCOMMON"
+max-level: 3
+description: "When hit, gain a short Speed boost."
+enabled: true
+speed_duration: 30
+speed_amplifier: 0

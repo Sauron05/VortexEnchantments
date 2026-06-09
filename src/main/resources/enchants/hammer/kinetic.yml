@@ -1,0 +1,7 @@
+id: kinetic
+display_name: "Kinetic"
+rarity: RARE
+max_level: 3
+description: "Store damage taken, release as bonus on next hit."
+max_stored: 20.0
+release_multiplier: "{0.3 + level * 0.2}"

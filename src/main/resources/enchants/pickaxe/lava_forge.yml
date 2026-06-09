@@ -1,0 +1,6 @@
+# Lava Forge Enchantment Config
+display-name: "Lava Forge"
+tier: "EPIC"
+max-level: 3
+description: "Near lava: auto-smelt ore drops and gain fire resistance."
+enabled: true

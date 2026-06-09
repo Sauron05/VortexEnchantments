@@ -1,0 +1,8 @@
+﻿# Scarecrow Enchantment Config
+display-name: "Scarecrow"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling creates temporary mob-deterrent zone."
+enabled: true
+radius: 6.0
+duration: 120

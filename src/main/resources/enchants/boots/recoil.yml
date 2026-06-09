@@ -1,0 +1,7 @@
+# Recoil Enchantment Config
+display-name: "Recoil"
+tier: "UNCOMMON"
+max-level: 3
+description: "Gain Speed boost when hit."
+enabled: true
+duration: 30

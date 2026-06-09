@@ -1,0 +1,6 @@
+display-name: "Sidestep"
+tier: UNCOMMON
+max-level: 3
+description: "Gain speed burst after hitting."
+enabled: true
+duration: 0.5

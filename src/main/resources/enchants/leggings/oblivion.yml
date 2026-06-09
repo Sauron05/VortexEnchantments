@@ -1,0 +1,11 @@
+# Oblivion Enchantment Config
+display-name: "Oblivion"
+tier: "MYTHIC"
+max-level: 3
+description: "Sneak to create a void zone damaging and slowing enemies."
+enabled: true
+radius: 6.0
+damage_per_tick: 1.5
+zone_ticks: 80
+slow_duration: 40
+cooldown: 45.0

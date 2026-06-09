@@ -1,0 +1,7 @@
+﻿# Drift Enchantment Config
+display-name: "Drift"
+tier: "RARE"
+max-level: 3
+description: "Glide sideways in air for extra mobility."
+enabled: true
+air_strafe_bonus: 0.3

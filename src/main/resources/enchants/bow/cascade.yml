@@ -1,0 +1,8 @@
+﻿# Cascade Enchantment Config
+display-name: "Cascade"
+tier: "EPIC"
+max-level: 3
+description: "Chain of arrows fire in quick succession after trigger."
+enabled: true
+cascade_count: 3
+cascade_delay: 4

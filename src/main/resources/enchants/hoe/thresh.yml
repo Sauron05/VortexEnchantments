@@ -1,0 +1,7 @@
+﻿# Thresh Enchantment Config
+display-name: "Thresh"
+tier: "RARE"
+max-level: 3
+description: "Harvesting yields extra wheat/seeds."
+enabled: true
+bonus_yield: 1

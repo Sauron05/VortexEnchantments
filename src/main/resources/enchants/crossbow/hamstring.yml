@@ -1,0 +1,8 @@
+# Hamstring Enchantment Config
+display-name: "Hamstring"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bolt slows target and reduces jump height."
+enabled: true
+slow_duration: [3, 5, 7]
+slow_amplifier: [1, 2, 3]

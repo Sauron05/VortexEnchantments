@@ -1,0 +1,7 @@
+﻿# Abundance Enchantment Config
+display-name: "Abundance"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling has a chance to yield extra seeds."
+enabled: true
+extra_seed_chance: 0.2

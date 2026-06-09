@@ -1,0 +1,8 @@
+# Layline Enchantment Config
+display-name: "Layline"
+tier: "EPIC"
+max-level: 3
+description: "Every 10 blocks mined grants Speed buff."
+enabled: true
+threshold: 10
+speed-duration: 100

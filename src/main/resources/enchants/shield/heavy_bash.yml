@@ -1,0 +1,10 @@
+# Heavy Bash Enchantment Config
+display-name: "Heavy Bash"
+tier: "RARE"
+max-level: 3
+description: "Shield bash launches enemies airborne."
+enabled: true
+damage: 3.0
+range: 2.5
+launch: 0.45
+cooldown: 5

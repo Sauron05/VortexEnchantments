@@ -1,0 +1,10 @@
+# Catalyst Enchantment Config
+display-name: "Catalyst"
+tier: "RARE"
+max-level: 3
+description: "Mark target 3 times to trigger chain explosion."
+enabled: true
+window_ms: 5000
+marks_required: 3
+explosion_radius: 4.0
+explosion_damage: [7.0, 10.0, 13.0]

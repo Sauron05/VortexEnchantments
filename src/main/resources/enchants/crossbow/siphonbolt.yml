@@ -1,0 +1,7 @@
+# Siphonbolt Enchantment Config
+display-name: "Siphonbolt"
+tier: "EPIC"
+max-level: 3
+description: "Steals a percentage of damage dealt as health."
+enabled: true
+siphon_pct: [0.15, 0.20, 0.25]

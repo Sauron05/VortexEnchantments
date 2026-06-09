@@ -1,0 +1,7 @@
+﻿# Canopy Enchantment Config
+display-name: "Canopy"
+tier: "EPIC"
+max-level: 3
+description: "Saplings planted grow instantly."
+enabled: true
+grow_chance: 0.4

@@ -1,0 +1,8 @@
+﻿# Catalyst Enchantment Config
+display-name: "Catalyst"
+tier: "RARE"
+max-level: 3
+description: "Each hit amplifies the next; chain attacks grow stronger."
+enabled: true
+chain_max: 4
+per_hit: 0.08

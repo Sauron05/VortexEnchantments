@@ -1,0 +1,7 @@
+﻿# Refraction Enchantment Config
+display-name: "Refraction"
+tier: "EPIC"
+max-level: 3
+description: "Deflects projectiles in AoE when blocking."
+enabled: true
+aoe_radius: 3.0

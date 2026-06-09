@@ -1,0 +1,7 @@
+# Shock Sole Enchantment Config
+display-name: "Shock Sole"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces thorns and cactus damage."
+enabled: true
+reduction_pct: 0.20

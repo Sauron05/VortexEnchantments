@@ -1,0 +1,8 @@
+# Godslayer Enchantment Config
+display-name: "Godslayer"
+tier: "MYTHIC"
+max-level: 3
+description: "Bonus damage based on percent of target max health."
+enabled: true
+hp_percent: 0.05
+damage_cap: 20.0

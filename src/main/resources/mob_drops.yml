@@ -1,0 +1,187 @@
+# ============================================================
+#  VortexEnchantments — Mob Drop Configuration
+# ============================================================
+# Controls enchanted book drops from mobs.
+# drop-chance: probability (0.0 - 1.0) that a mob drops a book when killed by a player.
+# rarity-weights: weighted chance per rarity tier (higher = more common).
+
+enabled: true
+
+# Global multiplier applied to all drop chances
+global-drop-multiplier: 1.0
+
+mobs:
+  # --- Common Mobs (low chance, mostly Common/Uncommon) ---
+  ZOMBIE:
+    drop-chance: 0.02
+    rarity-weights:
+      COMMON: 60
+      UNCOMMON: 30
+      RARE: 8
+      EPIC: 2
+
+  SKELETON:
+    drop-chance: 0.02
+    rarity-weights:
+      COMMON: 60
+      UNCOMMON: 30
+      RARE: 8
+      EPIC: 2
+
+  SPIDER:
+    drop-chance: 0.015
+    rarity-weights:
+      COMMON: 65
+      UNCOMMON: 25
+      RARE: 8
+      EPIC: 2
+
+  CREEPER:
+    drop-chance: 0.025
+    rarity-weights:
+      COMMON: 50
+      UNCOMMON: 30
+      RARE: 15
+      EPIC: 5
+
+  DROWNED:
+    drop-chance: 0.02
+    rarity-weights:
+      COMMON: 55
+      UNCOMMON: 30
+      RARE: 12
+      EPIC: 3
+
+  HUSK:
+    drop-chance: 0.02
+    rarity-weights:
+      COMMON: 55
+      UNCOMMON: 30
+      RARE: 12
+      EPIC: 3
+
+  STRAY:
+    drop-chance: 0.02
+    rarity-weights:
+      COMMON: 55
+      UNCOMMON: 30
+      RARE: 12
+      EPIC: 3
+
+  ZOMBIE_VILLAGER:
+    drop-chance: 0.03
+    rarity-weights:
+      COMMON: 40
+      UNCOMMON: 35
+      RARE: 18
+      EPIC: 7
+
+  # --- Medium Mobs (moderate chance, mixed tiers) ---
+  ENDERMAN:
+    drop-chance: 0.04
+    rarity-weights:
+      COMMON: 25
+      UNCOMMON: 35
+      RARE: 25
+      EPIC: 12
+      LEGENDARY: 3
+
+  WITCH:
+    drop-chance: 0.05
+    rarity-weights:
+      COMMON: 20
+      UNCOMMON: 30
+      RARE: 30
+      EPIC: 15
+      LEGENDARY: 5
+
+  PIGLIN_BRUTE:
+    drop-chance: 0.05
+    rarity-weights:
+      UNCOMMON: 25
+      RARE: 35
+      EPIC: 25
+      LEGENDARY: 12
+      MYTHIC: 3
+
+  BLAZE:
+    drop-chance: 0.04
+    rarity-weights:
+      COMMON: 20
+      UNCOMMON: 30
+      RARE: 30
+      EPIC: 15
+      LEGENDARY: 5
+
+  VINDICATOR:
+    drop-chance: 0.05
+    rarity-weights:
+      UNCOMMON: 30
+      RARE: 35
+      EPIC: 25
+      LEGENDARY: 8
+      MYTHIC: 2
+
+  EVOKER:
+    drop-chance: 0.08
+    rarity-weights:
+      RARE: 30
+      EPIC: 35
+      LEGENDARY: 25
+      MYTHIC: 10
+
+  RAVAGER:
+    drop-chance: 0.10
+    rarity-weights:
+      RARE: 25
+      EPIC: 35
+      LEGENDARY: 30
+      MYTHIC: 10
+
+  # --- Strong Mobs (higher chance, better tiers) ---
+  WARDEN:
+    drop-chance: 0.25
+    rarity-weights:
+      EPIC: 20
+      LEGENDARY: 40
+      MYTHIC: 40
+
+  ELDER_GUARDIAN:
+    drop-chance: 0.20
+    rarity-weights:
+      RARE: 15
+      EPIC: 30
+      LEGENDARY: 35
+      MYTHIC: 20
+
+  WITHER_SKELETON:
+    drop-chance: 0.06
+    rarity-weights:
+      UNCOMMON: 20
+      RARE: 35
+      EPIC: 30
+      LEGENDARY: 12
+      MYTHIC: 3
+
+  PHANTOM:
+    drop-chance: 0.035
+    rarity-weights:
+      COMMON: 30
+      UNCOMMON: 30
+      RARE: 25
+      EPIC: 12
+      LEGENDARY: 3
+
+  # --- Bosses (guaranteed/near-guaranteed, best tiers) ---
+  ENDER_DRAGON:
+    drop-chance: 1.0
+    rarity-weights:
+      LEGENDARY: 40
+      MYTHIC: 60
+
+  WITHER:
+    drop-chance: 1.0
+    rarity-weights:
+      EPIC: 10
+      LEGENDARY: 40
+      MYTHIC: 50

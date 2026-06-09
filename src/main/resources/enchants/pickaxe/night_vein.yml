@@ -1,0 +1,7 @@
+# Night Vein Enchantment Config
+display-name: "Night Vein"
+tier: "RARE"
+max-level: 3
+description: "Dark mining increases ore drops."
+enabled: true
+max_light: 4

@@ -1,0 +1,7 @@
+﻿# Archaeologist Enchantment Config
+display-name: "Archaeologist"
+tier: "EPIC"
+max-level: 3
+description: "Brush function: slow dig yields artifacts."
+enabled: true
+artifact_chance: 0.05

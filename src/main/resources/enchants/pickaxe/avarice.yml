@@ -1,0 +1,7 @@
+﻿# Avarice Enchantment Config
+display-name: "Avarice"
+tier: "RARE"
+max-level: 3
+description: "Ore drops extra XP."
+enabled: true
+xp_bonus: 2

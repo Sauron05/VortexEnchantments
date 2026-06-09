@@ -1,0 +1,6 @@
+id: daze
+display_name: "Daze"
+rarity: UNCOMMON
+max_level: 3
+description: "Inflicts Nausea for {duration}s on hit."
+duration: "{1 + level * 2}"

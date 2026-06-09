@@ -1,0 +1,10 @@
+# Mjolnir Enchantment Config
+display-name: "Mjolnir"
+tier: "MYTHIC"
+max-level: 3
+description: "Right-click to throw a lightning axe projectile."
+enabled: true
+throw_damage: 10.0
+aoe_radius: 3.0
+range: 25.0
+cooldown: 8

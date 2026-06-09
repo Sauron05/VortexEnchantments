@@ -1,0 +1,7 @@
+# Fathom Reel Enchantment Config
+display-name: "Fathom Reel"
+tier: "EPIC"
+max-level: 3
+description: "Deep water yields special loot."
+enabled: true
+depth_threshold: 20

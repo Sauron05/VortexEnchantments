@@ -1,0 +1,7 @@
+# Prospector Enchantment Config
+display-name: "Prospector"
+tier: "COMMON"
+max-level: 3
+description: "Ore mining grants bonus XP."
+enabled: true
+xp_bonus: 3

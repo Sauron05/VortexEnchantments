@@ -1,0 +1,7 @@
+# Phase Greaves Enchantment Config
+display-name: "Phase Greaves"
+tier: "EPIC"
+max-level: 3
+description: "Chance to completely dodge melee attacks."
+enabled: true
+dodge_chance: 0.06

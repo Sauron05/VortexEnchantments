@@ -1,0 +1,8 @@
+﻿# Afterburn Enchantment Config
+display-name: "Afterburn"
+tier: "RARE"
+max-level: 3
+description: "Leave fire trail behind when sprinting."
+enabled: true
+fire_radius: 0.5
+fire_ticks: 30

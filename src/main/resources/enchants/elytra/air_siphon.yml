@@ -1,0 +1,9 @@
+# Air Siphon Enchantment Config
+display-name: "Air Siphon"
+tier: "RARE"
+max-level: 3
+description: "Drain life from mobs while flying near them."
+enabled: true
+interval: 3
+radius: 5.0
+heal: 0.5

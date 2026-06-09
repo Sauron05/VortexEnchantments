@@ -1,0 +1,7 @@
+﻿# Lucid Enchantment Config
+display-name: "Lucid"
+tier: "RARE"
+max-level: 3
+description: "Grants brief immunity after respawn."
+enabled: true
+immunity_ticks: 100

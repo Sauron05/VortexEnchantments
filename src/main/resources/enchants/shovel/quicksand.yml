@@ -1,0 +1,7 @@
+﻿# Quicksand Enchantment Config
+display-name: "Quicksand"
+tier: "EPIC"
+max-level: 3
+description: "Creates quicksand trap slowing mobs on dug blocks."
+enabled: true
+slow_duration: 60

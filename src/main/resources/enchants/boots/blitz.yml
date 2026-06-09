@@ -1,0 +1,8 @@
+# Blitz Enchantment Config
+display-name: "Blitz"
+tier: "EPIC"
+max-level: 3
+description: "Sneak for a massive Speed burst."
+enabled: true
+boost_duration: 30
+cooldown: 10.0

@@ -1,0 +1,8 @@
+﻿# Sonar Enchantment Config
+display-name: "Sonar"
+tier: "EPIC"
+max-level: 3
+description: "Emits periodic sonar pings revealing cave structures."
+enabled: true
+ping_radius: 20
+interval: 200

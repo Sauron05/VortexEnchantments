@@ -1,0 +1,10 @@
+# Genesis Enchantment Config
+display-name: "Genesis"
+tier: "MYTHIC"
+max-level: 3
+description: "Arrow impact heals allies and damages enemies in radius."
+enabled: true
+radius: [4.0, 5.0, 6.0]
+heal: [2.0, 3.0, 4.0]
+damage: [2.0, 3.0, 4.0]
+cooldown: 8.0

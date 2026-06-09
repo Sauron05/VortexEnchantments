@@ -1,0 +1,6 @@
+# Auto Sow Enchantment Config
+display-name: "Auto Sow"
+tier: "RARE"
+max-level: 3
+description: "Walking on farmland auto-plants seeds."
+enabled: true

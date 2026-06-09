@@ -1,0 +1,8 @@
+﻿# BucklerCharge Enchantment Config
+display-name: "BucklerCharge"
+tier: "RARE"
+max-level: 3
+description: "Block hits in row to empower next attack."
+enabled: true
+required_blocks: 3
+bonus: 0.30

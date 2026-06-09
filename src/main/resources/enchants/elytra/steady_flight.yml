@@ -1,0 +1,7 @@
+# Steady Flight Enchantment Config
+display-name: "Steady Flight"
+tier: "COMMON"
+max-level: 3
+description: "Takes less projectile damage while gliding."
+enabled: true
+reduction: 0.10

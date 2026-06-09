@@ -1,0 +1,8 @@
+﻿# AegisPulse Enchantment Config
+display-name: "AegisPulse"
+tier: "EPIC"
+max-level: 3
+description: "After N consecutive blocks, burst of Resistance."
+enabled: true
+required_blocks: 3
+pulse_duration: 60

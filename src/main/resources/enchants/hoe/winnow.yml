@@ -1,0 +1,7 @@
+﻿# Winnow Enchantment Config
+display-name: "Winnow"
+tier: "RARE"
+max-level: 3
+description: "Harvesting automatically filters seeds into storage."
+enabled: true
+enabled: true

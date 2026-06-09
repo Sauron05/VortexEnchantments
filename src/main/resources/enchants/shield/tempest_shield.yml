@@ -1,0 +1,9 @@
+# Tempest Shield Enchantment Config
+display-name: "Tempest Shield"
+tier: "EPIC"
+max-level: 3
+description: "Blocking in rain summons lightning."
+enabled: true
+chance: 30.0
+lightning-damage: 4.0
+cooldown: 5

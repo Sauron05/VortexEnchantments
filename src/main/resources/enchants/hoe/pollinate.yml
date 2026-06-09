@@ -1,0 +1,7 @@
+﻿# Pollinate Enchantment Config
+display-name: "Pollinate"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling spreads growth to adjacent crops."
+enabled: true
+spread_radius: 2

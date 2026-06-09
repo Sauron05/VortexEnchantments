@@ -1,0 +1,6 @@
+display-name: "Glacial"
+tier: UNCOMMON
+max-level: 3
+description: "Hits freeze and slow the target."
+enabled: true
+slow_ticks: 60

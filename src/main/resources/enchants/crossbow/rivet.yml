@@ -1,0 +1,7 @@
+﻿# Rivet Enchantment Config
+display-name: "Rivet"
+tier: "RARE"
+max-level: 3
+description: "Pins target to their position briefly."
+enabled: true
+pin_ticks: 40

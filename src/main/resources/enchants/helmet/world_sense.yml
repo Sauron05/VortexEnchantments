@@ -1,0 +1,11 @@
+# World Sense Enchantment Config
+display-name: "World Sense"
+tier: "MYTHIC"
+max-level: 3
+description: "Sense damage nearby for healing; on hit, burst stored energy."
+enabled: true
+sense_radius: 20.0
+heal_per_entity: 0.1
+burst_radius: 6.0
+max_burst: 20.0
+cooldown: 45

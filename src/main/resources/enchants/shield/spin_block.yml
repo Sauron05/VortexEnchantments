@@ -1,0 +1,7 @@
+# Spin Block Enchantment Config
+display-name: "Spin Block"
+tier: "RARE"
+max-level: 3
+description: "Block protects from all directions."
+enabled: true
+reduction: 0.25

@@ -1,0 +1,7 @@
+# Tide Pull Enchantment Config
+display-name: "Tide Pull"
+tier: "RARE"
+max-level: 3
+description: "Hooked entities get yanked harder."
+enabled: true
+force: 1.5

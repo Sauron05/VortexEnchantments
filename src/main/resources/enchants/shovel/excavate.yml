@@ -1,0 +1,7 @@
+﻿# Excavate Enchantment Config
+display-name: "Excavate"
+tier: "RARE"
+max-level: 3
+description: "Mines a 3x3 area at once."
+enabled: true
+radius: 1

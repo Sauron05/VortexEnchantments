@@ -1,0 +1,8 @@
+display-name: "Long Arm"
+tier: COMMON
+max-level: 3
+description: "Right-click to thrust at extended range."
+enabled: true
+range: 5.0
+damage: 3.0
+cooldown: 2

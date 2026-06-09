@@ -1,0 +1,7 @@
+# Mindforge Enchantment Config
+display-name: "Mindforge"
+tier: "LEGENDARY"
+max-level: 3
+description: "XP gain multiplied while wearing this helmet."
+enabled: true
+xp_multiplier: 1.0

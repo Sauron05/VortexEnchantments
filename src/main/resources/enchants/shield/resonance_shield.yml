@@ -1,0 +1,8 @@
+# Resonance Shield Enchantment Config
+display-name: "Resonance Shield"
+tier: "EPIC"
+max-level: 3
+description: "Consecutive blocks amplify reduction."
+enabled: true
+max-stacks: 4
+reduction-per-stack: 0.07

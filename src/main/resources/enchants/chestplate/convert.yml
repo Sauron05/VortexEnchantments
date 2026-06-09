@@ -1,0 +1,7 @@
+﻿# Convert Enchantment Config
+display-name: "Convert"
+tier: "EPIC"
+max-level: 3
+description: "Converts a portion of incoming magic damage to healing."
+enabled: true
+convert_ratio: 0.25

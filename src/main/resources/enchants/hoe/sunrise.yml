@@ -1,0 +1,6 @@
+# Sunrise Enchantment Config
+display-name: "Sunrise"
+tier: "UNCOMMON"
+max-level: 3
+description: "Daytime Haste while holding hoe."
+enabled: true

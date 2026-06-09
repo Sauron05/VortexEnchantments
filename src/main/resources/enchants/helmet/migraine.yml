@@ -1,0 +1,7 @@
+﻿# Migraine Enchantment Config
+display-name: "Migraine"
+tier: "EPIC"
+max-level: 3
+description: "Inflicts Nausea on attackers who hit your head."
+enabled: true
+nausea_duration: 60

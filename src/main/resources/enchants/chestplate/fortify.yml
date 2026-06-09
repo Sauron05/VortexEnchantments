@@ -1,0 +1,8 @@
+﻿# Fortify Enchantment Config
+display-name: "Fortify"
+tier: "UNCOMMON"
+max-level: 3
+description: "Standing still builds defense stacks."
+enabled: true
+max_stacks: 5
+per_stack_reduce: 0.03

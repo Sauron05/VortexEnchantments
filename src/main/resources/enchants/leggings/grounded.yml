@@ -1,0 +1,7 @@
+﻿# Grounded Enchantment Config
+display-name: "Grounded"
+tier: "RARE"
+max-level: 3
+description: "Immune to knockback while on ground."
+enabled: true
+enabled: true

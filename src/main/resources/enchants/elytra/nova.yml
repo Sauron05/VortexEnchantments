@@ -1,0 +1,10 @@
+﻿# Nova Enchantment Config
+display-name: "Nova"
+tier: "LEGENDARY"
+max-level: 1
+description: "Charge for 3s at speed; explosive landing burst."
+enabled: true
+min_speed: 1.0
+charge_ms: 3000
+radius: 8.0
+force: 2.5

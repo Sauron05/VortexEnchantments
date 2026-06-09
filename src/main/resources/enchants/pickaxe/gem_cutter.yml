@@ -1,0 +1,7 @@
+# Gem Cutter Enchantment Config
+display-name: "Gem Cutter"
+tier: "RARE"
+max-level: 3
+description: "Chance to double diamond/emerald drops."
+enabled: true
+chance: 8

@@ -1,0 +1,8 @@
+﻿# Barb Enchantment Config
+display-name: "Barb"
+tier: "UNCOMMON"
+max-level: 3
+description: "Target bleeds after trident hit."
+enabled: true
+bleed_damage: 1.5
+bleed_ticks: 80

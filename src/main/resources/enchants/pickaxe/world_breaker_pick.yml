@@ -1,0 +1,7 @@
+# World Breaker Enchantment Config
+display-name: "World Breaker"
+tier: "MYTHIC"
+max-level: 3
+description: "Mine all blocks in a 3-block radius sphere."
+enabled: true
+radius: 3

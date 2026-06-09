@@ -1,0 +1,8 @@
+# Incendiary Enchantment Config
+display-name: "Incendiary"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bolt creates fire area on impact."
+enabled: true
+fire_duration: [3, 5, 7]
+radius: 2.0

@@ -1,0 +1,6 @@
+# Light Step Enchantment Config
+display-name: "Light Step"
+tier: "COMMON"
+max-level: 3
+description: "Grants passive Speed."
+enabled: true

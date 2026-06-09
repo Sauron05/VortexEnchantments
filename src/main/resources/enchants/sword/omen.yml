@@ -1,0 +1,8 @@
+﻿# Omen Enchantment Config
+display-name: "Omen"
+tier: "EPIC"
+max-level: 3
+description: "Marks a target; marked enemies take +20% damage from all sources."
+enabled: true
+mark_duration: 6
+bonus: 0.2

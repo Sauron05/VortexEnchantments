@@ -1,0 +1,7 @@
+﻿# Harrier Enchantment Config
+display-name: "Harrier"
+tier: "RARE"
+max-level: 3
+description: "Strength while gliding downward."
+enabled: true
+min_descent: -0.3

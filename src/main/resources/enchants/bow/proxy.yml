@@ -1,0 +1,9 @@
+﻿# Proxy Enchantment Config
+display-name: "Proxy"
+tier: "EPIC"
+max-level: 3
+description: "Arrow detonates after delay dealing AoE damage."
+enabled: true
+fuse_ticks: 30
+aoe_radius: 3.0
+aoe_damage: 6.0

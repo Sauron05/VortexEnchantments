@@ -1,0 +1,8 @@
+# Aftershock Enchantment Config
+display-name: "Aftershock"
+tier: "EPIC"
+max-level: 3
+description: "Chance to break matching blocks in radius."
+enabled: true
+chance: 8
+radius: 2

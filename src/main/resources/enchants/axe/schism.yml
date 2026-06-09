@@ -1,0 +1,7 @@
+﻿# Schism Enchantment Config
+display-name: "Schism"
+tier: "EPIC"
+max-level: 3
+description: "Splits target HP damage across two nearby enemies."
+enabled: true
+split_radius: 4.0

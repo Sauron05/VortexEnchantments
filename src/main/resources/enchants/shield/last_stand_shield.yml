@@ -1,0 +1,9 @@
+# Last Stand Enchantment Config
+display-name: "Last Stand"
+tier: "LEGENDARY"
+max-level: 3
+description: "Below 20% HP: blocking grants total immunity."
+enabled: true
+hp-threshold: 0.2
+immunity-ticks: 30
+cooldown: 25.0

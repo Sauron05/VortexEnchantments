@@ -1,0 +1,7 @@
+﻿# Diadem Enchantment Config
+display-name: "Diadem"
+tier: "LEGENDARY"
+max-level: 1
+description: "Passively regenerates mana/magic resource."
+enabled: true
+regen_rate: 2

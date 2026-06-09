@@ -1,0 +1,7 @@
+﻿# Phase Enchantment Config
+display-name: "Phase"
+tier: "EPIC"
+max-level: 3
+description: "Sneak-attack from behind ignores armor."
+enabled: true
+backstab_bonus: 0.5

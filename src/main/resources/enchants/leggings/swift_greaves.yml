@@ -1,0 +1,6 @@
+# Swift Greaves Enchantment Config
+display-name: "Swift Greaves"
+tier: "UNCOMMON"
+max-level: 3
+description: "Grants passive Speed while worn."
+enabled: true

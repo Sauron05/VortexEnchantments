@@ -1,0 +1,8 @@
+﻿# Pressure Enchantment Config
+display-name: "Pressure"
+tier: "EPIC"
+max-level: 3
+description: "Deep mining buffs speed and fortune."
+enabled: true
+depth_threshold: 40
+fortune_bonus: 1

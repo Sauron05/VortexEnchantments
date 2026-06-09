@@ -1,0 +1,8 @@
+﻿# Ricochet Enchantment Config
+display-name: "Ricochet"
+tier: "EPIC"
+max-level: 3
+description: "On hit, projectile ricochets to nearby targets."
+enabled: true
+ricochet_count: 2
+ricochet_damage: 0.5

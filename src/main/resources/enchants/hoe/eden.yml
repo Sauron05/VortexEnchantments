@@ -1,0 +1,7 @@
+# Eden Enchantment Config
+display-name: "Eden"
+tier: "LEGENDARY"
+max-level: 3
+description: "Auto-tills, plants, and waters around you."
+enabled: true
+radius: 2

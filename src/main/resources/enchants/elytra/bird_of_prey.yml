@@ -1,0 +1,7 @@
+# Bird of Prey Enchantment Config
+display-name: "Bird of Prey"
+tier: "UNCOMMON"
+max-level: 3
+description: "Strength upon landing from flight."
+enabled: true
+duration: 3

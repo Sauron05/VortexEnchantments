@@ -1,0 +1,9 @@
+# Infinity Plate Enchantment Config
+display-name: "Infinity Plate"
+tier: "MYTHIC"
+max-level: 3
+description: "Absorb lethal blow, revive at full HP and explode."
+enabled: true
+explosion_radius: 6.0
+explosion_damage: 6.0
+cooldown: 180

@@ -1,0 +1,8 @@
+# Entrap Enchantment Config
+display-name: "Entrap"
+tier: "UNCOMMON"
+max-level: 3
+description: "Attackers receive Weakness when hitting you."
+enabled: true
+duration: 40
+chance: 0.30

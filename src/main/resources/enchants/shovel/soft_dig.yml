@@ -1,0 +1,7 @@
+# Soft Dig Enchantment Config
+display-name: "Soft Dig"
+tier: "COMMON"
+max-level: 3
+description: "Faster digging speed on soft blocks."
+enabled: true
+haste-duration: 40

@@ -1,0 +1,7 @@
+﻿# Tithe Enchantment Config
+display-name: "Tithe"
+tier: "UNCOMMON"
+max-level: 3
+description: "Each step has a chance to drop a coin (emerald)."
+enabled: true
+chance: 0.005

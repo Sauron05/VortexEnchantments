@@ -1,0 +1,8 @@
+﻿# Exorcise Enchantment Config
+display-name: "Exorcise"
+tier: "RARE"
+max-level: 3
+description: "Bonus damage vs undead on block; Weakness to them."
+enabled: true
+bonus_damage: 3.0
+weakness_duration: 60

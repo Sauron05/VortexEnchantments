@@ -1,0 +1,8 @@
+# Mud Trap Enchantment Config
+display-name: "Mud Trap"
+tier: "RARE"
+max-level: 3
+description: "Mining turns ground around enemies into mud."
+enabled: true
+radius: 3.0
+cooldown: 10

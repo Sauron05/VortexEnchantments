@@ -1,0 +1,8 @@
+# Thermal Surge Enchantment Config
+display-name: "Thermal Surge"
+tier: "RARE"
+max-level: 3
+description: "Heat sources boost you upward while gliding."
+enabled: true
+scan_radius: 5
+lift: 0.10

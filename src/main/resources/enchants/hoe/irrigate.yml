@@ -1,0 +1,7 @@
+# Irrigate Enchantment Config
+display-name: "Irrigate"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling hydrates nearby farmland."
+enabled: true
+radius: 3

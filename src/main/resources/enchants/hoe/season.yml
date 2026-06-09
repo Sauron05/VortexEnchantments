@@ -1,0 +1,7 @@
+﻿# Season Enchantment Config
+display-name: "Season"
+tier: "RARE"
+max-level: 3
+description: "Changes crop growth speed based on world time."
+enabled: true
+enabled: true

@@ -1,0 +1,6 @@
+display-name: "Phantasmal"
+tier: LEGENDARY
+max-level: 3
+description: "Bypasses shields and armor protection."
+enabled: true
+bypass_percent: 0.40

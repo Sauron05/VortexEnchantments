@@ -1,0 +1,6 @@
+# Quarry Enchantment Config
+display-name: "Quarry"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mines column downward."
+enabled: true

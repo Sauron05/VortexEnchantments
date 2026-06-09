@@ -1,0 +1,9 @@
+# Tracer Enchantment Config
+display-name: "Tracer"
+tier: "COMMON"
+max-level: 3
+description: "Repeated shots to the same target stack bonus damage."
+enabled: true
+bonus_per_stack: [0.15, 0.25, 0.35]
+max_stacks: 5
+window_ms: 5000

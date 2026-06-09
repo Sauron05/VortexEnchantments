@@ -1,0 +1,7 @@
+﻿# Jetstream Enchantment Config
+display-name: "Jetstream"
+tier: "RARE"
+max-level: 3
+description: "Boosts speed periodically while gliding."
+enabled: true
+boost: 0.15

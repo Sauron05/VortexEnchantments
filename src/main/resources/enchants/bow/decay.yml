@@ -1,0 +1,9 @@
+# Decay Enchantment Config
+display-name: "Decay"
+tier: "EPIC"
+max-level: 3
+description: "Arrow applies Wither that spreads to nearby enemies."
+enabled: true
+wither_duration: [3, 4, 5]
+spread_radius: 3.0
+spread_count: [1, 2, 3]

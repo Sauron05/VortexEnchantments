@@ -1,0 +1,7 @@
+﻿# Sift Enchantment Config
+display-name: "Sift"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to find small treasures in dirt."
+enabled: true
+chance: 0.08

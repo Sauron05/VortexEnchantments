@@ -1,0 +1,7 @@
+# Indomitable Enchantment Config
+display-name: "Indomitable"
+tier: "LEGENDARY"
+max-level: 3
+description: "Max damage per single hit is capped as a percentage of max HP."
+enabled: true
+damage_cap_pct: 0.60

@@ -1,0 +1,8 @@
+﻿# DeflectArc Enchantment Config
+display-name: "DeflectArc"
+tier: "RARE"
+max-level: 3
+description: "Deflects projectiles in arc pattern on block."
+enabled: true
+arc_angle: 90
+deflect_radius: 2.0

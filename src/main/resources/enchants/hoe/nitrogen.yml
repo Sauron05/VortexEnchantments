@@ -1,0 +1,7 @@
+﻿# Nitrogen Enchantment Config
+display-name: "Nitrogen"
+tier: "RARE"
+max-level: 3
+description: "Enriches soil: bonemeal effect on adjacent farmland."
+enabled: true
+enabled: true

@@ -1,0 +1,8 @@
+# Entangle Enchantment Config
+display-name: "Entangle"
+tier: "RARE"
+max-level: 3
+description: "Chance to slow attackers on hit."
+enabled: true
+chance: 0.15
+duration: 40

@@ -1,0 +1,8 @@
+# Halo Enchantment Config
+display-name: "Halo"
+tier: "UNCOMMON"
+max-level: 3
+description: "Nearby allies passively receive healing."
+enabled: true
+radius: 5.0
+heal_amount: 0.5

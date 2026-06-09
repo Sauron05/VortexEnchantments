@@ -1,0 +1,7 @@
+﻿# Cipher Enchantment Config
+display-name: "Cipher"
+tier: "EPIC"
+max-level: 3
+description: "Scrambles information shown on nearby players' nameplates."
+enabled: true
+enabled: true

@@ -1,0 +1,7 @@
+# Bountiful Enchantment Config
+display-name: "Bountiful"
+tier: "RARE"
+max-level: 3
+description: "Chance for triple crop drops."
+enabled: true
+chance: 8.0

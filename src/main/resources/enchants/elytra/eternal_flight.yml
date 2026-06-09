@@ -1,0 +1,6 @@
+# Eternal Flight Enchantment Config
+display-name: "Eternal Flight"
+tier: "MYTHIC"
+max-level: 1
+description: "Elytra immune to damage; passive regen while gliding."
+enabled: true

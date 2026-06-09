@@ -1,0 +1,6 @@
+id: bedrock
+display_name: "Bedrock"
+rarity: UNCOMMON
+max_level: 3
+description: "Stand still 2s: reduce incoming damage."
+reduction: "{0.05 + level * 0.10}"

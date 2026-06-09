@@ -1,0 +1,9 @@
+# Resonant Enchantment Config
+display-name: "Resonant"
+tier: "RARE"
+max-level: 3
+description: "Consecutive hits on the same target stack bonus damage."
+enabled: true
+window_ms: 3000
+max_stacks: 5
+bonus_per_stack: [0.10, 0.15, 0.20]

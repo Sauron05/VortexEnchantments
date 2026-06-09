@@ -1,0 +1,7 @@
+# Shieldbreaker Enchantment Config
+display-name: "Shieldbreaker"
+tier: "LEGENDARY"
+max-level: 3
+description: "Attacks bypass shields entirely and disable them."
+enabled: true
+shield_cd_ticks: 100

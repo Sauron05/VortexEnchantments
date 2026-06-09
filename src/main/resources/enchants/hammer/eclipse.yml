@@ -1,0 +1,10 @@
+id: eclipse
+display_name: "Eclipse"
+rarity: MYTHIC
+max_level: 3
+description: "Darkness dome: bonus damage + lifesteal inside."
+radius: "{4.0 + level * 2.0}"
+duration_ticks: 120
+dome_bonus: "{0.15 + level * 0.15}"
+lifesteal: 0.20
+cooldown: 25

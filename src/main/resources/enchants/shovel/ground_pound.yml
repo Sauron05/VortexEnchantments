@@ -1,0 +1,8 @@
+# Ground Pound Enchantment Config
+display-name: "Ground Pound"
+tier: "EPIC"
+max-level: 3
+description: "Sneak-mining creates deep hole and damages entities."
+enabled: true
+depth: 3
+damage: 4.0

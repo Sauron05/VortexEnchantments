@@ -1,0 +1,7 @@
+﻿# Warden Enchantment Config
+display-name: "Warden"
+tier: "RARE"
+max-level: 3
+description: "Arrow inflicts Darkness on hit."
+enabled: true
+darkness_duration: 80

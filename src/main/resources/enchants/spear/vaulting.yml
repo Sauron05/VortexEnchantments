@@ -1,0 +1,7 @@
+display-name: "Vaulting"
+tier: UNCOMMON
+max-level: 3
+description: "Right-click to pole-vault forward."
+enabled: true
+distance: 4.0
+cooldown: 5

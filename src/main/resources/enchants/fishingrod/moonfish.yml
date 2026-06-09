@@ -1,0 +1,7 @@
+﻿# Moonfish Enchantment Config
+display-name: "Moonfish"
+tier: "RARE"
+max-level: 3
+description: "Night fishing yields rare/glow catches."
+enabled: true
+night_bonus_chance: 0.15

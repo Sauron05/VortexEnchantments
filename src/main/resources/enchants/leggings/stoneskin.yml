@@ -1,0 +1,7 @@
+# Stoneskin Enchantment Config
+display-name: "Stoneskin"
+tier: "UNCOMMON"
+max-level: 3
+description: "While sneaking, reduce melee damage taken."
+enabled: true
+reduction_pct: 0.10

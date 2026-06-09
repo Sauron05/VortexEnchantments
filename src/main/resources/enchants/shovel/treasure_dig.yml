@@ -1,0 +1,7 @@
+# Treasure Dig Enchantment Config
+display-name: "Treasure Dig"
+tier: "RARE"
+max-level: 3
+description: "Chance to dig up valuable items."
+enabled: true
+chance: 3.0

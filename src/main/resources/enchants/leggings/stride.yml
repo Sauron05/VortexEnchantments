@@ -1,0 +1,8 @@
+﻿# Stride Enchantment Config
+display-name: "Stride"
+tier: "RARE"
+max-level: 3
+description: "Stacking speed bonus while sprinting."
+enabled: true
+max_stacks: 5
+per_stack: 0.03

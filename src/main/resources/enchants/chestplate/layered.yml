@@ -1,0 +1,7 @@
+# Layered Enchantment Config
+display-name: "Layered"
+tier: "COMMON"
+max-level: 3
+description: "Small percentage damage reduction from all sources."
+enabled: true
+reduction_pct: 0.03

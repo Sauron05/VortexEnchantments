@@ -1,0 +1,11 @@
+# Skyquake Enchantment Config
+display-name: "Skyquake"
+tier: "LEGENDARY"
+max-level: 1
+description: "Catastrophic shockwave on extreme-speed landing."
+enabled: true
+min_speed: 1.5
+cooldown: 30
+radius: 12.0
+damage: 10.0
+launch: 1.5

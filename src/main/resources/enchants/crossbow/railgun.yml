@@ -1,0 +1,8 @@
+# Railgun Enchantment Config
+display-name: "Railgun"
+tier: "RARE"
+max-level: 3
+description: "Bolt pierces through all entities in a line."
+enabled: true
+pierce_damage_falloff: [0.10, 0.08, 0.05]
+max_pierce: [3, 5, 8]

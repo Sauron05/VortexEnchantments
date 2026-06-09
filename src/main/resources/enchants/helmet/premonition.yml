@@ -1,0 +1,7 @@
+# Premonition Enchantment Config
+display-name: "Premonition"
+tier: "UNCOMMON"
+max-level: 3
+description: "Warns with a sound when hostiles approach from behind."
+enabled: true
+radius: 8.0

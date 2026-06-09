@@ -1,0 +1,9 @@
+# Ricochet Enchantment Config
+display-name: "Ricochet"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrow bounces to nearby enemies."
+enabled: true
+bounces: [1, 2, 3]
+bounce_damage_pct: 0.50
+bounce_range: 5.0

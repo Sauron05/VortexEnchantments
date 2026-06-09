@@ -1,0 +1,8 @@
+﻿# Absorb Enchantment Config
+display-name: "Absorb"
+tier: "RARE"
+max-level: 3
+description: "Stacking damage reduction building per block."
+enabled: true
+max_stacks: 5
+per_stack: 0.04

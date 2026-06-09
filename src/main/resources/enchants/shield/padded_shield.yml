@@ -1,0 +1,8 @@
+# Padded Shield Enchantment Config
+display-name: "Padded Shield"
+tier: "COMMON"
+max-level: 3
+description: "Less durability loss when blocking."
+enabled: true
+save-chance: 35.0
+restored: 1

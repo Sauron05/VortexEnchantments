@@ -1,0 +1,8 @@
+id: bonebreaker
+display_name: "Bone Breaker"
+rarity: EPIC
+max_level: 3
+description: "Each hit stacks speed reduction on target."
+max_stacks: 3
+slow_per_stack: "{0.05 + level * 0.05}"
+duration: 160

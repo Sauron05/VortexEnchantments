@@ -1,0 +1,7 @@
+﻿# Equilibrium Enchantment Config
+display-name: "Equilibrium"
+tier: "RARE"
+max-level: 3
+description: "Balances incoming damage to avoid spikes."
+enabled: true
+max_spike: 8.0

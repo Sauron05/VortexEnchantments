@@ -1,0 +1,9 @@
+# Dirt Wall Enchantment Config
+display-name: "Dirt Wall"
+tier: "RARE"
+max-level: 3
+description: "Sneaking + mining raises a dirt wall."
+enabled: true
+height: 3
+width: 3
+cooldown: 8

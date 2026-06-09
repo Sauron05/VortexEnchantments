@@ -1,0 +1,7 @@
+﻿# Ruination Enchantment Config
+display-name: "Ruination"
+tier: "LEGENDARY"
+max-level: 1
+description: "Destroys one random item in enemy's hotbar on kill."
+enabled: true
+enabled: true

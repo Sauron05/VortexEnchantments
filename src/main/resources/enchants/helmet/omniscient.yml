@@ -1,0 +1,7 @@
+# Omniscient Enchantment Config
+display-name: "Omniscient"
+tier: "EPIC"
+max-level: 3
+description: "Reveals invisible entities nearby with witch particles."
+enabled: true
+radius: 10.0

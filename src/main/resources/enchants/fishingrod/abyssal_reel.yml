@@ -1,0 +1,8 @@
+# Abyssal Reel Enchantment Config
+display-name: "Abyssal Reel"
+tier: "LEGENDARY"
+max-level: 3
+description: "Drags hooked entities down and debuffs them."
+enabled: true
+force: 1.5
+duration: 60

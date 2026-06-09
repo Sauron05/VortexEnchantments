@@ -1,0 +1,9 @@
+# Blink Enchantment Config
+display-name: "Blink"
+tier: "MYTHIC"
+max-level: 3
+description: "Sneak to teleport forward, damaging enemies in the path."
+enabled: true
+distance: 8.0
+path_damage: 3.0
+cooldown: 20.0

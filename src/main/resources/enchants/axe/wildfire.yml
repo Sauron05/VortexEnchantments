@@ -1,0 +1,8 @@
+# Wildfire Enchantment Config
+display-name: "Wildfire"
+tier: "EPIC"
+max-level: 3
+description: "Set the target and nearby enemies on fire."
+enabled: true
+fire_ticks: 60
+radius: 4.0

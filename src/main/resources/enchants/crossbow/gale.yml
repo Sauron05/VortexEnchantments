@@ -1,0 +1,8 @@
+# Gale Enchantment Config
+display-name: "Gale"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bolt impact pushes all nearby entities away."
+enabled: true
+radius: [3.0, 4.0, 5.0]
+force: 1.2

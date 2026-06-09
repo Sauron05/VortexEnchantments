@@ -1,0 +1,7 @@
+# Decomposer Enchantment Config
+display-name: "Decomposer"
+tier: "RARE"
+max-level: 3
+description: "Breaking plants fills nearby composters."
+enabled: true
+radius: 4

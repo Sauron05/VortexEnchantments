@@ -1,0 +1,8 @@
+﻿# Penitent Enchantment Config
+display-name: "Penitent"
+tier: "EPIC"
+max-level: 3
+description: "Taking damage builds resolve; resolve converts to HP regen."
+enabled: true
+regen_per_stack: 0.3
+max_stacks: 10

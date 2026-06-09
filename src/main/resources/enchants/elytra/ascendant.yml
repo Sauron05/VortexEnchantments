@@ -1,0 +1,8 @@
+# Ascendant Enchantment Config
+display-name: "Ascendant"
+tier: "MYTHIC"
+max-level: 1
+description: "Prolonged flight grants godlike power."
+enabled: true
+threshold: 10
+buff_duration: 8

@@ -1,0 +1,7 @@
+# Thornsplate Enchantment Config
+display-name: "Thornsplate"
+tier: "UNCOMMON"
+max-level: 3
+description: "Attackers take flat damage per hit when they strike you."
+enabled: true
+reflect_damage: 0.5

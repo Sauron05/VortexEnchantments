@@ -1,0 +1,8 @@
+display-name: "Flechette"
+tier: UNCOMMON
+max-level: 3
+description: "Hits spray shards at nearby enemies."
+enabled: true
+shards: 2
+shard_percent: 0.25
+radius: 4.0

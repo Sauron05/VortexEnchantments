@@ -1,0 +1,8 @@
+# Wraith Arrow Enchantment Config
+display-name: "Wraith Arrow"
+tier: "EPIC"
+max-level: 3
+description: "Arrow phases through blocks, hitting first entity behind."
+enabled: true
+phase_damage: [6.0, 8.0, 10.0]
+search_distance: [5.0, 7.0, 9.0]

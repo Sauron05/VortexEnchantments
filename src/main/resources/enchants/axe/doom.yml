@@ -1,0 +1,10 @@
+# Doom Enchantment Config
+display-name: "Doom"
+tier: "MYTHIC"
+max-level: 3
+description: "Marks the target for death. After 3 seconds, deals massive damage."
+enabled: true
+chance: 0.2
+doom_damage: 9.0
+delay_ticks: 60
+cooldown: 10

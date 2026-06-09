@@ -1,0 +1,7 @@
+﻿# Thermal Enchantment Config
+display-name: "Thermal"
+tier: "UNCOMMON"
+max-level: 3
+description: "Prevents frost slowdown in cold biomes."
+enabled: true
+enabled: true

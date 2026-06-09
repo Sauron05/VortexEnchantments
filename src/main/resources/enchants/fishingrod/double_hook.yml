@@ -1,0 +1,7 @@
+# Double Hook Enchantment Config
+display-name: "Double Hook"
+tier: "COMMON"
+max-level: 3
+description: "Chance to double caught items."
+enabled: true
+chance: 0.10

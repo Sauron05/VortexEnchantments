@@ -1,0 +1,7 @@
+# Warding Enchantment Config
+display-name: "Warding"
+tier: "RARE"
+max-level: 3
+description: "Reduces magic and dragon breath damage."
+enabled: true
+reduction_pct: 0.10

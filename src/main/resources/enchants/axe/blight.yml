@@ -1,0 +1,9 @@
+# Blight Enchantment Config
+display-name: "Blight"
+tier: "EPIC"
+max-level: 3
+description: "Attacks apply Wither and Poison simultaneously."
+enabled: true
+duration_ticks: 80
+wither_level: 1
+poison_level: 1

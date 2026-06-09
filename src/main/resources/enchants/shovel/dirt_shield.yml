@@ -1,0 +1,7 @@
+# Dirt Shield Enchantment Config
+display-name: "Dirt Shield"
+tier: "COMMON"
+max-level: 3
+description: "Mining dirt grants brief absorption."
+enabled: true
+absorption-ticks: 60

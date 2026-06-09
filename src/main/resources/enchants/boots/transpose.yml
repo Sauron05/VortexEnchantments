@@ -1,0 +1,7 @@
+﻿# Transpose Enchantment Config
+display-name: "Transpose"
+tier: "EPIC"
+max-level: 3
+description: "Swap position with the entity you last hit."
+enabled: true
+cooldown: 10

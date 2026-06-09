@@ -1,0 +1,7 @@
+# Pulverize Enchantment Config
+display-name: "Pulverize"
+tier: "RARE"
+max-level: 3
+description: "Stone may drop as sand."
+enabled: true
+chance: 12

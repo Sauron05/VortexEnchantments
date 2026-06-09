@@ -1,0 +1,8 @@
+# Annihilator Enchantment Config
+display-name: "Annihilator"
+tier: "EPIC"
+max-level: 3
+description: "Charged shots deal massively increased damage."
+enabled: true
+charge_ms: 2000
+bonus: [0.50, 0.75, 1.00]

@@ -1,0 +1,7 @@
+# Crystallize Enchantment Config
+display-name: "Crystallize"
+tier: "RARE"
+max-level: 3
+description: "Crystal blocks may drop XP bottles."
+enabled: true
+chance: 15

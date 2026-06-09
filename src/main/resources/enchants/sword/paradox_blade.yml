@@ -1,0 +1,6 @@
+# Paradox Blade Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  store_ratio: 0.3
+  delay_ticks: 60

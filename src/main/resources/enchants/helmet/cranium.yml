@@ -1,0 +1,7 @@
+# Cranium Enchantment Config
+display-name: "Cranium"
+tier: "COMMON"
+max-level: 3
+description: "Reduces explosion damage by a percentage per level."
+enabled: true
+reduction_pct: 0.10

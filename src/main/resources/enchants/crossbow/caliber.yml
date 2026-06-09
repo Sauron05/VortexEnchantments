@@ -1,0 +1,7 @@
+﻿# Caliber Enchantment Config
+display-name: "Caliber"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bonus damage based on distance to target."
+enabled: true
+range_bonus_per10: 0.5

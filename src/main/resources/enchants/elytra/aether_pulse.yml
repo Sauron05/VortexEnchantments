@@ -1,0 +1,10 @@
+# Aether Pulse Enchantment Config
+display-name: "Aether Pulse"
+tier: "LEGENDARY"
+max-level: 3
+description: "Periodic shockwave while gliding."
+enabled: true
+interval: 5
+radius: 8.0
+damage: 3.0
+knockback: 0.6

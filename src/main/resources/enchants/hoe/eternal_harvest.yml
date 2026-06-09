@@ -1,0 +1,7 @@
+# Eternal Harvest Enchantment Config
+display-name: "Eternal Harvest"
+tier: "MYTHIC"
+max-level: 3
+description: "Crops regrow instantly with multiplied drops."
+enabled: true
+multiplier: 2

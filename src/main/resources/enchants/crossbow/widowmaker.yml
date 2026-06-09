@@ -1,0 +1,8 @@
+# Widowmaker Enchantment Config
+display-name: "Widowmaker"
+tier: "RARE"
+max-level: 3
+description: "Headshot chance for triple damage."
+enabled: true
+headshot_chance: [0.10, 0.15, 0.20]
+headshot_multiplier: 3.0

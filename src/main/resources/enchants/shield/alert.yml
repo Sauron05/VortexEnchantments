@@ -1,0 +1,7 @@
+# Alert Enchantment Config
+display-name: "Alert"
+tier: "COMMON"
+max-level: 3
+description: "Warns of enemies behind while blocking."
+enabled: true
+radius: 8.0

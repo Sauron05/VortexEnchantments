@@ -1,0 +1,7 @@
+# Thorn Guard Enchantment Config
+display-name: "Thorn Guard"
+tier: "UNCOMMON"
+max-level: 3
+description: "Blocking reflects damage to attackers."
+enabled: true
+reflect: 1.0

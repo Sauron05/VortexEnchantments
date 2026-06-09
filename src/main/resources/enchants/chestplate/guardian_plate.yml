@@ -1,0 +1,9 @@
+# Guardian Plate Enchantment Config
+display-name: "Guardian Plate"
+tier: "RARE"
+max-level: 3
+description: "Sneak to grant nearby allies Resistance."
+enabled: true
+radius: 6.0
+duration: 40
+cooldown: 15

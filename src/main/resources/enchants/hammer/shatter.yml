@@ -1,0 +1,7 @@
+id: shatter
+display_name: "Shatter"
+rarity: COMMON
+max_level: 3
+description: "AoE ground damage in {radius}-block radius on hit."
+radius: "{level + 1}"
+aoe_percent: 0.30

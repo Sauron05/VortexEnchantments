@@ -1,0 +1,8 @@
+# Nutrient Enchantment Config
+display-name: "Nutrient"
+tier: "EPIC"
+max-level: 3
+description: "Mining soil restores hunger."
+enabled: true
+food-restore: 1
+saturation-restore: 0.5

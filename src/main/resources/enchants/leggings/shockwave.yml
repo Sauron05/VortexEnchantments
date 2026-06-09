@@ -1,0 +1,9 @@
+# Shockwave Enchantment Config
+display-name: "Shockwave"
+tier: "RARE"
+max-level: 3
+description: "Sneak to stomp the ground, launching nearby enemies."
+enabled: true
+radius: 5.0
+launch_power: 0.8
+cooldown: 12.0

@@ -1,0 +1,7 @@
+﻿# Barricade Enchantment Config
+display-name: "Barricade"
+tier: "EPIC"
+max-level: 3
+description: "Bolt creates temporary barrier on impact."
+enabled: true
+barrier_duration: 40

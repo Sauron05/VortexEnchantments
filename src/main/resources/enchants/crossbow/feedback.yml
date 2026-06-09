@@ -1,0 +1,7 @@
+﻿# Feedback Enchantment Config
+display-name: "Feedback"
+tier: "RARE"
+max-level: 3
+description: "Recoil pushes shooter backward on fire."
+enabled: true
+recoil_force: 0.8

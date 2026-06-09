@@ -1,0 +1,8 @@
+# Fortified Ankle Enchantment Config
+display-name: "Fortified Ankle"
+tier: "EPIC"
+max-level: 3
+description: "Grants Resistance after taking damage."
+enabled: true
+duration: 40
+cooldown: 10.0

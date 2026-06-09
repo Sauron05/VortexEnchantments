@@ -1,0 +1,8 @@
+﻿# Hollow Enchantment Config
+display-name: "Hollow"
+tier: "RARE"
+max-level: 3
+description: "Attacks have a chance to create a vacuum burst pulling nearby mobs."
+enabled: true
+chance: 0.2
+burst_radius: 4.0

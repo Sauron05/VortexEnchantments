@@ -1,0 +1,8 @@
+# Leviathan Enchantment Config
+display-name: "Leviathan"
+tier: "LEGENDARY"
+max-level: 3
+description: "Massive bonus damage to targets in water or rain."
+enabled: true
+water_bonus: 0.75
+rain_bonus: 0.375

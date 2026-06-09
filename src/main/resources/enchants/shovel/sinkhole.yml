@@ -1,0 +1,9 @@
+﻿# Sinkhole Enchantment Config
+display-name: "Sinkhole"
+tier: "EPIC"
+max-level: 3
+description: "Creates 3-deep pit trap on use."
+enabled: true
+depth: 3
+cooldown: 30
+radius: 1

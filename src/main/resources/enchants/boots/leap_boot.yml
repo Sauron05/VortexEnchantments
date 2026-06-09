@@ -1,0 +1,8 @@
+# Leap Boot Enchantment Config
+display-name: "Leap Boot"
+tier: "RARE"
+max-level: 3
+description: "Sneak to leap upward."
+enabled: true
+leap_power: 0.9
+cooldown: 6.0

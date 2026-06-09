@@ -1,0 +1,7 @@
+# Striker Bolt Enchantment Config
+display-name: "Striker Bolt"
+tier: "COMMON"
+max-level: 3
+description: "First hit after reload deals bonus damage."
+enabled: true
+bonus: [0.15, 0.20, 0.25]

@@ -1,0 +1,7 @@
+id: megaton
+display_name: "Megaton"
+rarity: EPIC
+max_level: 3
+description: "Charge damage by not attacking (max 5 stacks)."
+per_stack: "{0.05 + level * 0.05}"
+max_stacks: 5

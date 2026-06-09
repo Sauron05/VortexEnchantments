@@ -1,0 +1,9 @@
+# Paragon Enchantment Config
+display-name: "Paragon"
+tier: "LEGENDARY"
+max-level: 3
+description: "Every N blocks: massive shockwave."
+enabled: true
+threshold: 10
+radius: 8.0
+force: 1.5

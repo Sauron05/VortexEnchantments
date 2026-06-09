@@ -1,0 +1,7 @@
+﻿# EchoLocate Enchantment Config
+display-name: "EchoLocate"
+tier: "EPIC"
+max-level: 3
+description: "Sends a sonar ping to reveal caves."
+enabled: true
+ping_radius: 16

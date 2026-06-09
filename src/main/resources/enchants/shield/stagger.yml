@@ -1,0 +1,7 @@
+# Stagger Enchantment Config
+display-name: "Stagger"
+tier: "UNCOMMON"
+max-level: 3
+description: "Blocked attacks slow the attacker."
+enabled: true
+slow-duration: 30

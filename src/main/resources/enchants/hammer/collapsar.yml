@@ -1,0 +1,6 @@
+id: collapsar
+display_name: "Collapsar"
+rarity: EPIC
+max_level: 3
+description: "Hit pulls all entities toward impact point."
+radius: "{2.0 + level * 2.0}"

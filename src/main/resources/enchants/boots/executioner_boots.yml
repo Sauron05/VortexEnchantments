@@ -1,0 +1,8 @@
+# Executioner Boots Enchantment Config
+display-name: "Executioner Boots"
+tier: "LEGENDARY"
+max-level: 3
+description: "Massive bonus damage to targets below 25% HP."
+enabled: true
+hp_threshold: 0.25
+bonus_damage: 2.5

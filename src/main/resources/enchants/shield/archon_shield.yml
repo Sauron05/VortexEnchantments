@@ -1,0 +1,7 @@
+# Archon Shield Enchantment Config
+display-name: "Archon Shield"
+tier: "LEGENDARY"
+max-level: 3
+description: "Block projectiles for allies in cone."
+enabled: true
+radius: 6.0

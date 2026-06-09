@@ -1,0 +1,7 @@
+# Life Leech Hoe Enchantment Config
+display-name: "Life Leech Hoe"
+tier: "EPIC"
+max-level: 3
+description: "Harvesting mature crops heals you."
+enabled: true
+heal: 0.5

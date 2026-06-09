@@ -1,0 +1,7 @@
+# Fortified Legs Enchantment Config
+display-name: "Fortified Legs"
+tier: "UNCOMMON"
+max-level: 3
+description: "Grants bonus armor toughness."
+enabled: true
+toughness_per_level: 1.0

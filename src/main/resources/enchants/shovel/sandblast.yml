@@ -1,0 +1,9 @@
+# Sandblast Enchantment Config
+display-name: "Sandblast"
+tier: "RARE"
+max-level: 3
+description: "Mining sand launches projectiles at nearby enemies."
+enabled: true
+damage: 3.0
+radius: 5.0
+cooldown: 5

@@ -1,0 +1,6 @@
+# Apex Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  scan_radius: 10.0
+  max_bonus: 0.50

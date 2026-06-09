@@ -1,0 +1,9 @@
+# Earth Pulse Enchantment Config
+display-name: "Earth Pulse"
+tier: "RARE"
+max-level: 3
+description: "Mining sends a pulse that reveals nearby ores."
+enabled: true
+radius: 5.0
+glow-duration: 100
+cooldown: 10

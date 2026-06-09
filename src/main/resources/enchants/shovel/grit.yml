@@ -1,0 +1,7 @@
+# Grit Enchantment Config
+display-name: "Grit"
+tier: "COMMON"
+max-level: 3
+description: "Digging gravel has a chance to drop flint."
+enabled: true
+flint-chance: 30.0

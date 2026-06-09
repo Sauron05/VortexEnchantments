@@ -1,0 +1,7 @@
+display-name: "Barbed"
+tier: COMMON
+max-level: 3
+description: "Hits cause bleed damage over time."
+enabled: true
+bleed_total: 2.0
+bleed_ticks: 4

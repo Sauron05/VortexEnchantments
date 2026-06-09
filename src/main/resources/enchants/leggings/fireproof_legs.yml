@@ -1,0 +1,7 @@
+# Fireproof Legs Enchantment Config
+display-name: "Fireproof Legs"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fire tick damage."
+enabled: true
+reduction_pct: 0.15

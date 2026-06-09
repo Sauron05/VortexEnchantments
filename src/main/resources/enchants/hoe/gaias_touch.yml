@@ -1,0 +1,8 @@
+# Gaia's Touch Enchantment Config
+display-name: "Gaia's Touch"
+tier: "LEGENDARY"
+max-level: 3
+description: "Periodic massive growth burst around you."
+enabled: true
+threshold: 17
+radius: 7

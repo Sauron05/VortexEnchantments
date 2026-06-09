@@ -1,0 +1,7 @@
+display-name: "Phalanx"
+tier: UNCOMMON
+max-level: 3
+description: "Sneak to grant allies damage resistance."
+enabled: true
+radius: 5.0
+duration_ticks: 60

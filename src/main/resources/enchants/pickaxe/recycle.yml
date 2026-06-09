@@ -1,0 +1,7 @@
+﻿# Recycle Enchantment Config
+display-name: "Recycle"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to repair pickaxe on ore mine."
+enabled: true
+repair_chance: 0.08

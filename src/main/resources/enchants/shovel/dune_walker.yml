@@ -1,0 +1,7 @@
+# Dune Walker Enchantment Config
+display-name: "Dune Walker"
+tier: "UNCOMMON"
+max-level: 3
+description: "Speed boost while walking on sand."
+enabled: true
+speed-duration: 60

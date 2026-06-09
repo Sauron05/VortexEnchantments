@@ -1,0 +1,8 @@
+﻿# Interceptor Enchantment Config
+display-name: "Interceptor"
+tier: "EPIC"
+max-level: 3
+description: "Sneak to dash forward while gliding."
+enabled: true
+dash_speed: 1.5
+cooldown: 7

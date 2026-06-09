@@ -1,0 +1,7 @@
+# Ore Scout Enchantment Config
+display-name: "Ore Scout"
+tier: "UNCOMMON"
+max-level: 3
+description: "Breaking stone reveals nearby ores with particles."
+enabled: true
+radius: 8

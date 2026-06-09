@@ -1,0 +1,7 @@
+# Deep Vein Enchantment Config
+display-name: "Deep Vein"
+tier: "RARE"
+max-level: 3
+description: "Ore drops extra items below Y=0."
+enabled: true
+threshold_y: 0

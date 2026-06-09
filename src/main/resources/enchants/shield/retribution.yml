@@ -1,0 +1,10 @@
+# Retribution Enchantment Config
+display-name: "Retribution"
+tier: "EPIC"
+max-level: 3
+description: "Blocked damage charges counter-beam."
+enabled: true
+max-charge: 15.0
+damage-mult: 0.75
+range: 6.0
+cooldown: 10

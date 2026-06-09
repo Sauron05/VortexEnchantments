@@ -1,0 +1,8 @@
+display-name: "Soulthread"
+tier: MYTHIC
+max-level: 3
+description: "Link souls: target takes your received damage."
+enabled: true
+duration_ticks: 80
+transfer_percent: 0.25
+cooldown: 25

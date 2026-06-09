@@ -1,0 +1,8 @@
+﻿# LeviathanHook Enchantment Config
+display-name: "LeviathanHook"
+tier: "LEGENDARY"
+max-level: 1
+description: "Deal massive damage and launch hooked entities."
+enabled: true
+damage: 12.0
+lift_force: 2.0

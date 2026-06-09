@@ -1,0 +1,7 @@
+# Soft Landing Enchantment Config
+display-name: "Soft Landing"
+tier: "COMMON"
+max-level: 3
+description: "Slow Falling when you stop gliding."
+enabled: true
+duration: 1

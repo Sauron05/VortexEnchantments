@@ -1,0 +1,7 @@
+﻿# Salvage Enchantment Config
+display-name: "Salvage"
+tier: "RARE"
+max-level: 3
+description: "Chance to salvage ore or ingots."
+enabled: true
+chance: 0.10

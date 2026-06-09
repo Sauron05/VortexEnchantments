@@ -1,0 +1,9 @@
+﻿# Pulse Enchantment Config
+display-name: "Pulse"
+tier: "EPIC"
+max-level: 3
+description: "Every Nth step emits a pulse dealing area damage."
+enabled: true
+pulse_steps: 5
+pulse_damage: 3.0
+pulse_radius: 3.0

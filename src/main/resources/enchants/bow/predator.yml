@@ -1,0 +1,7 @@
+# Predator Enchantment Config
+display-name: "Predator"
+tier: "EPIC"
+max-level: 3
+description: "Arrow homes toward last damaged entity."
+enabled: true
+homing: [0.04, 0.06, 0.08]

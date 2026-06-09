@@ -1,0 +1,7 @@
+﻿# Fell Enchantment Config
+display-name: "Fell"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bonus damage vs tree-related mobs (phantom, bat, etc)."
+enabled: true
+bonus: 0.3

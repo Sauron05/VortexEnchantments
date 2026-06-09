@@ -1,0 +1,7 @@
+﻿# Compress Enchantment Config
+display-name: "Compress"
+tier: "RARE"
+max-level: 3
+description: "Compresses raw ore drops into ingots automatically."
+enabled: true
+enabled: true

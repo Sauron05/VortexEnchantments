@@ -1,0 +1,7 @@
+﻿# Overcharge Enchantment Config
+display-name: "Overcharge"
+tier: "EPIC"
+max-level: 3
+description: "Hold longer to charge beyond normal: bonus damage."
+enabled: true
+charge_bonus: 0.6

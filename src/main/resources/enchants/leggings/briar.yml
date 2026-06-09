@@ -1,0 +1,8 @@
+﻿# Briar Enchantment Config
+display-name: "Briar"
+tier: "RARE"
+max-level: 3
+description: "Thorns effect on melee attackers."
+enabled: true
+thorn_damage: 2.0
+thorn_chance: 0.25

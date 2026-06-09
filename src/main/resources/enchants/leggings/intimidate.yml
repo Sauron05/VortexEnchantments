@@ -1,0 +1,8 @@
+# Intimidate Enchantment Config
+display-name: "Intimidate"
+tier: "EPIC"
+max-level: 3
+description: "Nearby enemies deal less damage to you."
+enabled: true
+radius: 5.0
+reduction_pct: 0.05

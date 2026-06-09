@@ -1,0 +1,7 @@
+# Quick Cast Enchantment Config
+display-name: "Quick Cast"
+tier: "COMMON"
+max-level: 3
+description: "Faster fishing bites."
+enabled: true
+duration: 15

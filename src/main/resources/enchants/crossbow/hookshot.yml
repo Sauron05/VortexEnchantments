@@ -1,0 +1,8 @@
+# Hookshot Enchantment Config
+display-name: "Hookshot"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bolt pulls the hit target toward the shooter."
+enabled: true
+pull_strength: [0.5, 0.8, 1.1]
+cooldown: 6.0

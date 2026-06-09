@@ -1,0 +1,7 @@
+# Void Shell Enchantment Config
+display-name: "Void Shell"
+tier: "EPIC"
+max-level: 3
+description: "Nullifies teleport damage while blocking."
+enabled: true
+reduction: 0.65

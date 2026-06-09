@@ -1,0 +1,7 @@
+# Tunnel Bore Enchantment Config
+display-name: "Tunnel Bore"
+tier: "RARE"
+max-level: 3
+description: "Mines tunnel in facing direction."
+enabled: true
+depth: 2

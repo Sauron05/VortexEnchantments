@@ -1,0 +1,6 @@
+id: unstoppable
+display_name: "Unstoppable"
+rarity: EPIC
+max_level: 3
+description: "Sprint: immune to slows/KB + bonus damage."
+bonus: "{0.10 + level * 0.10}"

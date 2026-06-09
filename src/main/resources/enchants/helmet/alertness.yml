@@ -1,0 +1,7 @@
+# Alertness Enchantment Config
+display-name: "Alertness"
+tier: "COMMON"
+max-level: 3
+description: "Shows flame particles on hostile mobs within range."
+enabled: true
+radius: 8.0

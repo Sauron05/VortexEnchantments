@@ -1,0 +1,7 @@
+# Breeze Born Enchantment Config
+display-name: "Breeze Born"
+tier: "COMMON"
+max-level: 3
+description: "Gentle speed boost while gliding."
+enabled: true
+boost: 0.02

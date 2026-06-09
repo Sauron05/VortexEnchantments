@@ -1,0 +1,7 @@
+# Buried Treasure Enchantment Config
+display-name: "Buried Treasure"
+tier: "LEGENDARY"
+max-level: 3
+description: "Chance to discover treasure while digging."
+enabled: true
+chance: 3.5

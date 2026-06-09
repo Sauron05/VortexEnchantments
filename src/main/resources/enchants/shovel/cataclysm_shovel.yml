@@ -1,0 +1,10 @@
+# Cataclysm Shovel Enchantment Config
+display-name: "Cataclysm Shovel"
+tier: "LEGENDARY"
+max-level: 3
+description: "Periodic sinkhole with AoE damage."
+enabled: true
+threshold: 15
+radius: 4
+damage: 7.0
+cooldown: 20

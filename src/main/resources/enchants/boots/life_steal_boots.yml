@@ -1,0 +1,7 @@
+# Life Steal Boots Enchantment Config
+display-name: "Life Steal Boots"
+tier: "EPIC"
+max-level: 3
+description: "Steal a percentage of melee damage as HP."
+enabled: true
+steal_pct: 0.04

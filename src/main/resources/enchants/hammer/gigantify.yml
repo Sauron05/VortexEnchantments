@@ -1,0 +1,7 @@
+id: gigantify
+display_name: "Gigantify"
+rarity: EPIC
+max_level: 3
+description: "Right-click: grow with Strength + Resistance - Speed."
+duration_ticks: 160
+cooldown: 20

@@ -1,0 +1,7 @@
+# Berserker Plate Enchantment Config
+display-name: "Berserker Plate"
+tier: "EPIC"
+max-level: 3
+description: "Lower HP grants higher attack damage bonus."
+enabled: true
+max_bonus: 2.0

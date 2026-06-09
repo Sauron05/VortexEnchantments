@@ -1,0 +1,7 @@
+display-name: "Pinion"
+tier: UNCOMMON
+max-level: 3
+description: "Roots target in place."
+enabled: true
+duration: 1.0
+cooldown: 8

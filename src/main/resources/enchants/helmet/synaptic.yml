@@ -1,0 +1,9 @@
+# Synaptic Enchantment Config
+display-name: "Synaptic"
+tier: "EPIC"
+max-level: 3
+description: "Each hit taken increases attack speed, stacking over time."
+enabled: true
+speed_per_stack: 0.05
+max_stacks: 3
+decay_seconds: 5

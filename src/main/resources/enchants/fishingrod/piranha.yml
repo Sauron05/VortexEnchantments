@@ -1,0 +1,9 @@
+# Piranha Enchantment Config
+display-name: "Piranha"
+tier: "RARE"
+max-level: 3
+description: "Catching triggers piranha attack on nearby mobs."
+enabled: true
+chance: 0.15
+radius: 5.0
+damage: 3.0

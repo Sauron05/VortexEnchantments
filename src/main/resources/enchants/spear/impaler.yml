@@ -1,0 +1,6 @@
+display-name: "Impaler"
+tier: COMMON
+max-level: 3
+description: "Stacking pierce marks; 3 marks = burst damage."
+enabled: true
+burst_percent: 0.30

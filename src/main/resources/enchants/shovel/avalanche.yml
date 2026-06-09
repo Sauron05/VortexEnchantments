@@ -1,0 +1,8 @@
+# Avalanche Enchantment Config
+display-name: "Avalanche"
+tier: "RARE"
+max-level: 3
+description: "Mining creates cascading block breaks above."
+enabled: true
+height: 3
+cooldown: 5

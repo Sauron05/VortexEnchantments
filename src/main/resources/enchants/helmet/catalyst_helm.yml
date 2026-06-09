@@ -1,0 +1,8 @@
+# Catalyst Helm Enchantment Config
+display-name: "Catalyst Helm"
+tier: "RARE"
+max-level: 3
+description: "Consecutive hits from the same attacker deal less damage."
+enabled: true
+reduction_per_stack: 0.05
+max_stacks: 3

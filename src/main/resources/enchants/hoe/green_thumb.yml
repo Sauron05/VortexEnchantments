@@ -1,0 +1,7 @@
+# Green Thumb Enchantment Config
+display-name: "Green Thumb"
+tier: "COMMON"
+max-level: 3
+description: "Harvesting gives bonus seeds."
+enabled: true
+chance: 20.0

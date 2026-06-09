@@ -1,0 +1,8 @@
+﻿# Groundswell Enchantment Config
+display-name: "Groundswell"
+tier: "EPIC"
+max-level: 3
+description: "Landing from height creates upward shot damaging nearby."
+enabled: true
+min_fall: 4
+shot_damage: 5.0

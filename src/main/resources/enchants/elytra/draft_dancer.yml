@@ -1,0 +1,7 @@
+# Draft Dancer Enchantment Config
+display-name: "Draft Dancer"
+tier: "RARE"
+max-level: 3
+description: "Jump Boost after landing from flight."
+enabled: true
+duration: 3

@@ -1,0 +1,7 @@
+﻿# Oracle Enchantment Config
+display-name: "Oracle"
+tier: "EPIC"
+max-level: 3
+description: "Predicts incoming damage type and reduces it slightly."
+enabled: true
+predict_reduce: 0.1

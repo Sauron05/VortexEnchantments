@@ -1,0 +1,7 @@
+# Siren Song Enchantment Config
+display-name: "Siren Song"
+tier: "RARE"
+max-level: 3
+description: "XP multiplier on successful catches."
+enabled: true
+xp_multiplier: 1.5

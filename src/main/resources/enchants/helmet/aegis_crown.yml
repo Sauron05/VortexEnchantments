@@ -1,0 +1,9 @@
+# Aegis Crown Enchantment Config
+display-name: "Aegis Crown"
+tier: "LEGENDARY"
+max-level: 3
+description: "Below 50% HP, gain Resistance I and reflect damage."
+enabled: true
+hp_threshold: 0.50
+reflect_pct: 0.10
+resistance_duration: 60

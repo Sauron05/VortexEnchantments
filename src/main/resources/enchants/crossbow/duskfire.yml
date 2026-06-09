@@ -1,0 +1,9 @@
+# Duskfire Enchantment Config
+display-name: "Duskfire"
+tier: "EPIC"
+max-level: 3
+description: "During dusk or dawn, bolts deal bonus damage and inflict fire and wither."
+enabled: true
+multiplier: [1.5, 2.0, 2.5]
+fire_ticks: 60
+wither_duration: [60, 80, 100]

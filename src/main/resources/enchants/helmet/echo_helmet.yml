@@ -1,0 +1,8 @@
+# Echo Helmet Enchantment Config
+display-name: "Echo"
+tier: "UNCOMMON"
+max-level: 3
+description: "After being hit, next attack within 3s deals bonus damage."
+enabled: true
+bonus_damage: 1.0
+window_ticks: 60

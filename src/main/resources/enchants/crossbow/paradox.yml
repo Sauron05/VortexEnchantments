@@ -1,0 +1,10 @@
+# Paradox Enchantment Config
+display-name: "Paradox"
+tier: "MYTHIC"
+max-level: 3
+description: "Target relives recent damage they sustained."
+enabled: true
+lookback: [3, 5, 7]
+multiplier: 0.5
+max_damage: 20.0
+cooldown: 10.0

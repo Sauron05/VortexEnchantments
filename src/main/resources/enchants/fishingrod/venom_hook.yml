@@ -1,0 +1,8 @@
+# Venom Hook Enchantment Config
+display-name: "Venom Hook"
+tier: "UNCOMMON"
+max-level: 3
+description: "Hooked entities get poisoned."
+enabled: true
+duration: 3
+amplifier: 0

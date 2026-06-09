@@ -1,0 +1,8 @@
+# Counterstrike Enchantment Config
+display-name: "Counterstrike"
+tier: "RARE"
+max-level: 3
+description: "After being hit, next attack within 3s deals bonus damage."
+enabled: true
+window_ms: 3000
+bonus_damage: 1.5

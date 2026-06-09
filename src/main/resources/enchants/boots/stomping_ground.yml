@@ -1,0 +1,8 @@
+# Stomping Ground Enchantment Config
+display-name: "Stomping Ground"
+tier: "RARE"
+max-level: 3
+description: "Fall landings knockback and slow nearby enemies."
+enabled: true
+radius: 5.0
+slow_duration: 40

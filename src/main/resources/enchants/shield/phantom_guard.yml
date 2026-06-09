@@ -1,0 +1,8 @@
+# Phantom Guard Enchantment Config
+display-name: "Phantom Guard"
+tier: "EPIC"
+max-level: 3
+description: "Blocking gives brief invisibility."
+enabled: true
+invis-duration: 30
+cooldown: 15

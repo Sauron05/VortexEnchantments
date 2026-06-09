@@ -1,0 +1,8 @@
+# Tetherbolt Enchantment Config
+display-name: "Tetherbolt"
+tier: "RARE"
+max-level: 3
+description: "Hit two targets to tether them — damage dealt to one is partially shared with the other."
+enabled: true
+window_ms: 5000
+share_pct: [0.30, 0.40, 0.50]

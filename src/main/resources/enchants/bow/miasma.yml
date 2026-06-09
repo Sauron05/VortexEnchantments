@@ -1,0 +1,8 @@
+# Miasma Enchantment Config
+display-name: "Miasma"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrow creates a poison cloud on impact."
+enabled: true
+radius: 3.0
+poison_duration: [3, 5, 7]

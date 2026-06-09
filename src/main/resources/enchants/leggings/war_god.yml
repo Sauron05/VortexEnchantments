@@ -1,0 +1,10 @@
+# War God Enchantment Config
+display-name: "War God"
+tier: "MYTHIC"
+max-level: 3
+description: "Kills build stacks increasing damage and reducing damage taken."
+enabled: true
+max_stacks: 4
+bonus_per_stack: 0.8
+reduction_per_stack: 0.03
+decay_chance: 0.05

@@ -1,0 +1,6 @@
+id: quake
+display_name: "Quake"
+rarity: COMMON
+max_level: 3
+description: "Hits shake the ground for +{level} bonus damage."
+bonus_damage: "{level}"

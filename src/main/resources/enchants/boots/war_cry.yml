@@ -1,0 +1,8 @@
+# War Cry Enchantment Config
+display-name: "War Cry"
+tier: "LEGENDARY"
+max-level: 3
+description: "On kill, gain Speed, Strength, and Regeneration."
+enabled: true
+duration: 80
+cooldown: 30.0

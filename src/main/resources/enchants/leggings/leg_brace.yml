@@ -1,0 +1,6 @@
+# Leg Brace Enchantment Config
+display-name: "Leg Brace"
+tier: "COMMON"
+max-level: 3
+description: "Grants passive Jump Boost."
+enabled: true

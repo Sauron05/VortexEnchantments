@@ -1,0 +1,7 @@
+# Void Bore Enchantment Config
+display-name: "Void Bore"
+tier: "LEGENDARY"
+max-level: 3
+description: "Extreme mining speed deep underground."
+enabled: true
+threshold_y: -32

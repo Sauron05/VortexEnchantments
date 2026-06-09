@@ -1,0 +1,6 @@
+# Crop Rotation Enchantment Config
+display-name: "Crop Rotation"
+tier: "UNCOMMON"
+max-level: 3
+description: "Harvesting auto-plants a different crop."
+enabled: true

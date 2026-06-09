@@ -1,0 +1,7 @@
+# Perforator Enchantment Config
+display-name: "Perforator"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrows pierce through entities."
+enabled: true
+pierce_level: [1, 2, 3]

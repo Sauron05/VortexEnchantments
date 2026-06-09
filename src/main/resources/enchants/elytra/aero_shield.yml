@@ -1,0 +1,7 @@
+# Aero Shield Enchantment Config
+display-name: "Aero Shield"
+tier: "RARE"
+max-level: 3
+description: "Damage reduction while gliding."
+enabled: true
+reduction: 0.10

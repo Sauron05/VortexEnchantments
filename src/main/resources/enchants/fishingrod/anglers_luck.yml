@@ -1,0 +1,7 @@
+# Angler's Luck Enchantment Config
+display-name: "Angler's Luck"
+tier: "UNCOMMON"
+max-level: 3
+description: "Increased treasure catch rate."
+enabled: true
+chance: 0.05

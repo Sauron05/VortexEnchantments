@@ -1,0 +1,9 @@
+# Pulsar Enchantment Config
+display-name: "Pulsar"
+tier: "LEGENDARY"
+max-level: 3
+description: "Every 5th arrow is a mega-shot with AoE."
+enabled: true
+interval: 5
+damage_multiplier: [3.0, 4.0, 5.0]
+aoe_radius: 4.0

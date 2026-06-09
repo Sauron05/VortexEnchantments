@@ -1,0 +1,6 @@
+# Lifeline Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  health_threshold: 0.30
+  lifesteal_ratio: 0.15

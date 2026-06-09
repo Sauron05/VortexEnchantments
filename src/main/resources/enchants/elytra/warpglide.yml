@@ -1,0 +1,8 @@
+# Warpglide Enchantment Config
+display-name: "Warpglide"
+tier: "LEGENDARY"
+max-level: 3
+description: "Teleport forward while gliding."
+enabled: true
+cooldown: 20
+distance: 15.0

@@ -1,0 +1,9 @@
+﻿# Circuit Enchantment Config
+display-name: "Circuit"
+tier: "EPIC"
+max-level: 3
+description: "Arrows chain to nearby enemies dealing reduced damage."
+enabled: true
+chain_count: 3
+chain_radius: 5.0
+chain_damage: 0.5

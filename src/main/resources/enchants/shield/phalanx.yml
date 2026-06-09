@@ -1,0 +1,8 @@
+﻿# Phalanx Enchantment Config
+display-name: "Phalanx"
+tier: "RARE"
+max-level: 3
+description: "Each nearby shielded ally reduces your damage taken."
+enabled: true
+radius: 6.0
+per_ally_reduce: 0.05

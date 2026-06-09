@@ -1,0 +1,7 @@
+# Phantom Step Enchantment Config
+display-name: "Phantom Step"
+tier: "EPIC"
+max-level: 3
+description: "Chance to dodge melee attacks completely."
+enabled: true
+dodge_chance: 0.05

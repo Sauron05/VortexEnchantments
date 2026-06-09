@@ -1,0 +1,10 @@
+# Transcendence Enchantment Config
+display-name: "Transcendence"
+tier: "LEGENDARY"
+max-level: 3
+description: "Below 20% HP, release an AoE knockback + heal burst."
+enabled: true
+hp_threshold: 0.20
+knockback_radius: 6.0
+heal_amount: 4.0
+cooldown: 45

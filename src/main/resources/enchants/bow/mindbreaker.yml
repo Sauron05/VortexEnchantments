@@ -1,0 +1,7 @@
+# Mindbreaker Enchantment Config
+display-name: "Mindbreaker"
+tier: "LEGENDARY"
+max-level: 3
+description: "Strip all potion effects, convert to damage."
+enabled: true
+damage_per_effect: [1.0, 1.5, 2.0]

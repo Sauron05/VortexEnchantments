@@ -1,0 +1,9 @@
+# Rootgrasp Enchantment Config
+display-name: "Rootgrasp"
+tier: "LEGENDARY"
+max-level: 3
+description: "Chance to root the target in place."
+enabled: true
+chance: 0.25
+root_ticks: 40
+cooldown: 6

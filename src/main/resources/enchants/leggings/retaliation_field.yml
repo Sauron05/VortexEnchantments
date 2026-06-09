@@ -1,0 +1,9 @@
+# Retaliation Field Enchantment Config
+display-name: "Retaliation Field"
+tier: "EPIC"
+max-level: 3
+description: "Near-death triggers a debuff aura on nearby enemies."
+enabled: true
+radius: 6.0
+debuff_duration: 60
+cooldown: 20.0

@@ -1,0 +1,8 @@
+id: voidhammer
+display_name: "Voidhammer"
+rarity: MYTHIC
+max_level: 3
+description: "Kill: void rift pulls enemies + DPS."
+duration_ticks: "{40 + level * 40}"
+radius: 5.0
+dps: 2.0

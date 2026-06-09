@@ -1,0 +1,7 @@
+﻿# Rebuff Enchantment Config
+display-name: "Rebuff"
+tier: "UNCOMMON"
+max-level: 3
+description: "Knockback on successful block."
+enabled: true
+knockback_force: 1.5

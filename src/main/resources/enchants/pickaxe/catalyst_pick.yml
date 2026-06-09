@@ -1,0 +1,7 @@
+﻿# Catalyst Enchantment Config
+display-name: "Catalyst"
+tier: "RARE"
+max-level: 3
+description: "Touching ore briefly boosts all tool speed."
+enabled: true
+speed_boost_ticks: 60

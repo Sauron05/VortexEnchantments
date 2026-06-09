@@ -1,0 +1,8 @@
+# Frost Kick Enchantment Config
+display-name: "Frost Kick"
+tier: "RARE"
+max-level: 3
+description: "Chance to apply Slowness on melee attacks."
+enabled: true
+chance: 0.15
+duration: 40

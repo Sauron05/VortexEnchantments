@@ -1,0 +1,6 @@
+display-name: "Reaver"
+tier: EPIC
+max-level: 3
+description: "Rapid kills stack bonus damage."
+enabled: true
+bonus_per_stack: 0.15

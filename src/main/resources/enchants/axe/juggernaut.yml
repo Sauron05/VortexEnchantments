@@ -1,0 +1,8 @@
+# Juggernaut Enchantment Config
+display-name: "Juggernaut"
+tier: "EPIC"
+max-level: 3
+description: "Gain Resistance while attacking, but move slightly slower."
+enabled: true
+duration_ticks: 60
+resistance_level: 0

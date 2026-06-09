@@ -1,0 +1,9 @@
+﻿# Root Enchantment Config
+display-name: "Root"
+tier: "RARE"
+max-level: 3
+description: "Standing still roots nearby enemies briefly."
+enabled: true
+radius: 3.0
+root_ticks: 40
+cooldown: 20

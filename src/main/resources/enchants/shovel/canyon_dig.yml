@@ -1,0 +1,9 @@
+# Canyon Dig Enchantment Config
+display-name: "Canyon Dig"
+tier: "RARE"
+max-level: 3
+description: "Mine a 3-wide trench forward."
+enabled: true
+depth: 3
+width: 3
+cooldown: 6

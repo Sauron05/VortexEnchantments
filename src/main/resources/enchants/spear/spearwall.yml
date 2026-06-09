@@ -1,0 +1,6 @@
+display-name: "Spearwall"
+tier: UNCOMMON
+max-level: 3
+description: "While sneaking, reflect melee damage."
+enabled: true
+reflect_percent: 0.15

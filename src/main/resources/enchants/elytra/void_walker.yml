@@ -1,0 +1,8 @@
+# Void Walker Enchantment Config
+display-name: "Void Walker"
+tier: "MYTHIC"
+max-level: 1
+description: "Phase through blocks while gliding."
+enabled: true
+cooldown: 15
+max_phase_blocks: 3

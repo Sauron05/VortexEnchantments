@@ -1,0 +1,7 @@
+# Ventilate Enchantment Config
+display-name: "Ventilate"
+tier: "COMMON"
+max-level: 3
+description: "Removes Mining Fatigue up to enchantment level."
+enabled: true
+max_fatigue_level: 1

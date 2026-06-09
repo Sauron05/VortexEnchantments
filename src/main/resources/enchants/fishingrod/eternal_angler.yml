@@ -1,0 +1,7 @@
+# Eternal Angler Enchantment Config
+display-name: "Eternal Angler"
+tier: "MYTHIC"
+max-level: 3
+description: "Indestructible rod with max quality catches."
+enabled: true
+quality_bonus: 3.0

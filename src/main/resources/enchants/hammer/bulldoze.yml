@@ -1,0 +1,6 @@
+id: bulldoze
+display_name: "Bulldoze"
+rarity: UNCOMMON
+max_level: 3
+description: "Smash target back {knockback} blocks."
+knockback: "{1.0 + level}"

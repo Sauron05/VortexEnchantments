@@ -1,0 +1,7 @@
+id: detonate
+display_name: "Detonate"
+rarity: LEGENDARY
+max_level: 3
+description: "Every 3rd hit: AoE explosion."
+explosion_percent: "{0.20 + level * 0.20}"
+radius: 4.0

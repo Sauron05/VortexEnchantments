@@ -1,0 +1,8 @@
+﻿# Fissure Enchantment Config
+display-name: "Fissure"
+tier: "RARE"
+max-level: 3
+description: "Smashing the ground creates a crack dealing damage."
+enabled: true
+fissure_damage: 6.0
+length: 5

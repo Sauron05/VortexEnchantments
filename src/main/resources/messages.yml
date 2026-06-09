@@ -1,0 +1,191 @@
+# ============================================================
+#  VortexEnchantments — Messages Configuration
+# ============================================================
+# Use & for color codes. Use {0}, {1} etc. for placeholders.
+
+prefix: "&5[&dVortex&5] &r"
+
+# -----------------------------------------------------------------------
+# General
+# -----------------------------------------------------------------------
+no-permission: "&cYou don't have permission to do that."
+player-only: "&cThis command can only be used by players."
+invalid-enchant: "&cNo enchantment found with id '&e{0}&c'."
+invalid-level: "&cLevel must be between 1 and {0}."
+invalid-item: "&cYou must be holding a valid item."
+player-not-found: "&cPlayer '{0}' not found."
+
+# -----------------------------------------------------------------------
+# Enchant command
+# -----------------------------------------------------------------------
+enchant-applied: "&aApplied &d{0} &e{1}&a to your item."
+enchant-removed: "&aRemoved &d{0}&a from your item."
+enchant-incompatible: "&cThat enchantment is incompatible with &e{0}&c."
+
+# -----------------------------------------------------------------------
+# List command
+# -----------------------------------------------------------------------
+list-header: "&5--- Vortex Enchantments &7(Page {0}/{1}) &5---"
+list-entry: " &d{0} &7[{1}] &8— &f{2}"
+list-footer: "&7Use &a/ve list <page>&7 to browse."
+
+# -----------------------------------------------------------------------
+# Info command
+# -----------------------------------------------------------------------
+info-header: "&5=== &d{0} &5==="
+info-tier: "&7Tier: &e{0}"
+info-max-level: "&7Max Level: &e{0}"
+info-item-type: "&7Item Type: &e{0}"
+info-enabled: "&7Enabled: &a{0}"
+info-description: "&7{0}"
+
+# -----------------------------------------------------------------------
+# Reload command
+# -----------------------------------------------------------------------
+reload-success: "&aPlugin reloaded successfully."
+reload-failed: "&cReload failed. Check console for errors."
+
+# -----------------------------------------------------------------------
+# Enchantment discovery (enchanting table)
+# -----------------------------------------------------------------------
+discovered: "&5✦ &dNew enchantment discovered: &e{0} {1}&5 ✦"
+
+# -----------------------------------------------------------------------
+# Cooldowns
+# -----------------------------------------------------------------------
+on-cooldown: "&c{0} is on cooldown for &e{1}s&c."
+
+# -----------------------------------------------------------------------
+# Custom items
+# -----------------------------------------------------------------------
+custom-item-received: "&aYou received a &d{0}&a."
+custom-item-crafted: "&aYou crafted a &d{0}&a."
+
+# -----------------------------------------------------------------------
+# Aura
+# -----------------------------------------------------------------------
+aura-enabled: "&a✦ Enchant aura enabled."
+aura-disabled: "&c✦ Enchant aura disabled."
+
+# -----------------------------------------------------------------------
+# Mob Drops
+# -----------------------------------------------------------------------
+mob-drop: "&5✦ &dA {0} &denchanted book dropped: {1} &5✦"
+
+# -----------------------------------------------------------------------
+# Mystery Scroll
+# -----------------------------------------------------------------------
+scroll-received: "&5✦ &dYou received a Mystery Enchant Scroll!"
+scroll-result: "&5✦ &dYou received: {0} &8[{1}&8] &5✦"
+
+# -----------------------------------------------------------------------
+# Extractor
+# -----------------------------------------------------------------------
+extract-success: "&a✦ Successfully extracted {0} &a✦"
+extract-fail: "&c✦ Extraction failed! {0} &cwas destroyed. ✦"
+
+# -----------------------------------------------------------------------
+# Forge
+# -----------------------------------------------------------------------
+forge-upgrade: "&a✦ Upgraded {0} &a→ {1} &a✦"
+forge-no-xp: "&cYou need {0} XP levels! You have {1}."
+forge-no-material: "&cYou need {0}x {1}!"
+
+# -----------------------------------------------------------------------
+# Success / Destroy Rate
+# -----------------------------------------------------------------------
+apply-success: "&a✦ {0} &ahas been successfully applied!"
+apply-fail: "&c✦ Application failed! The book was consumed."
+apply-destroy: "&4✦ Application FAILED! Your item was destroyed!"
+apply-destroy-saved: "&e✦ Your White Scroll protected the item from destruction!"
+
+# -----------------------------------------------------------------------
+# Dust
+# -----------------------------------------------------------------------
+dust-received: "&5✦ &dYou received {0}x &e{1} Enchant Dust&d!"
+dust-applied: "&a✦ Applied &e{0} Dust &ato book. Success boost: &b+{1}%"
+dust-already-applied: "&cThis book already has dust applied."
+
+# -----------------------------------------------------------------------
+# White / Black Scrolls
+# -----------------------------------------------------------------------
+whitescroll-received: "&f✦ You received a White Scroll!"
+whitescroll-applied: "&a✦ White Scroll applied! This item is now protected."
+whitescroll-already: "&cThis item is already protected by a White Scroll."
+blackscroll-received: "&8✦ You received a Black Scroll!"
+blackscroll-result: "&5✦ &dExtracted: {0} &5✦"
+blackscroll-no-enchants: "&cThis item has no VortexEnchantments to extract."
+
+# -----------------------------------------------------------------------
+# Tinkerer
+# -----------------------------------------------------------------------
+tinkerer-success: "&a✦ Salvaged {0} enchant(s) for &e{1} XP &aand &d{2} dust(s)&a."
+tinkerer-empty: "&cPlace enchanted items in the tinkerer first."
+
+# -----------------------------------------------------------------------
+# Alchemist
+# -----------------------------------------------------------------------
+alchemist-combined: "&a✦ Combined into: {0}"
+alchemist-fail: "&cThose items cannot be combined."
+
+# -----------------------------------------------------------------------
+# Souls
+# -----------------------------------------------------------------------
+souls-gained: "&5✦ &d+{0} Souls &7(Balance: {1})"
+souls-lost: "&c✦ -{0} Souls &7(Balance: {1})"
+souls-purchase: "&a✦ Purchased {0} &afor &d{1} Souls&a."
+souls-not-enough: "&cYou need &d{0} Souls&c. You have &e{1}&c."
+souls-balance: "&5✦ &dSouls: &e{0}"
+
+# -----------------------------------------------------------------------
+# Armor Sets
+# -----------------------------------------------------------------------
+armor-set-equipped: "&a✦ Set Bonus Active: &d{0}"
+armor-set-removed: "&7✦ Set Bonus Deactivated: &d{0}"
+
+# -----------------------------------------------------------------------
+# Update Checker
+# -----------------------------------------------------------------------
+update-available: "&e✦ A new version of VortexEnchantments is available: &a{0}"
+
+# -----------------------------------------------------------------------
+# Enchant Shop
+# -----------------------------------------------------------------------
+shop-purchased: "&a✦ Purchased a &f{0} &aenchanted book for &e${1}&a!"
+shop-not-enough-money: "&cYou need &e${0}&c but only have &e${1}&c."
+shop-no-enchants: "&cNo enchantments available at that rarity."
+
+# -----------------------------------------------------------------------
+# Slot Increaser
+# -----------------------------------------------------------------------
+slotincreaser-received: "&b✦ You received a Slot Increaser!"
+slotincreaser-applied: "&b&l✦ &bSlot Increaser applied! Enchant slots: &e+{0}"
+slotincreaser-max: "&cThis item has reached the maximum slot bonus!"
+
+# -----------------------------------------------------------------------
+# Transmog Scroll
+# -----------------------------------------------------------------------
+transmog-received: "&d✦ You received a Transmog Scroll!"
+transmog-applied: "&d&l✦ &dTransmog Scroll applied! Enchantments sorted and organized."
+transmog-no-enchants: "&cThat item has no VortexEnchantments to organize."
+
+# -----------------------------------------------------------------------
+# Randomization Scroll
+# -----------------------------------------------------------------------
+randomscroll-received: "&6✦ You received a Randomization Scroll!"
+randomscroll-applied: "&6&l✦ &6Randomization Scroll applied! New enchantments:"
+randomscroll-no-enchants: "&cThat item has no VortexEnchantments to re-roll."
+
+# -----------------------------------------------------------------------
+# Holy White Scroll
+# -----------------------------------------------------------------------
+holyscroll-received: "&e✦ You received a Holy White Scroll!"
+holyscroll-applied: "&e&l✦ &eHoly White Scroll applied! Permanent protection granted."
+holyscroll-already: "&cItem is already protected by a Holy White Scroll!"
+holyscroll-saved: "&e&l✦ Holy White Scroll &7saved your item from destruction! (Permanent)"
+
+# -----------------------------------------------------------------------
+# Enchant Limits
+# -----------------------------------------------------------------------
+enchant-limit-reached: "&c✦ This item has reached its maximum enchantment slots!"
+enchant-rarity-denied: "&c✦ You don't have permission to use {0} enchantments."

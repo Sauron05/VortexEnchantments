@@ -1,0 +1,8 @@
+# Stormweaver Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 5.0
+  chain_targets: 2
+  chain_radius: 5.0
+  chain_damage: 3.0

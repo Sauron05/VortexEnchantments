@@ -1,0 +1,7 @@
+# Tracer Round Enchantment Config
+display-name: "Tracer Round"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bolt applies Glowing to hit targets."
+enabled: true
+duration: [5, 8, 12]

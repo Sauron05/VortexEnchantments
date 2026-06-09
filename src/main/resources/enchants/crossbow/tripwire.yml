@@ -1,0 +1,9 @@
+# Tripwire Enchantment Config
+display-name: "Tripwire"
+tier: "UNCOMMON"
+max-level: 3
+description: "Block hit places a proximity trap."
+enabled: true
+trap_duration: [10, 15, 20]
+trap_damage: [3.0, 5.0, 7.0]
+trap_radius: 2.5

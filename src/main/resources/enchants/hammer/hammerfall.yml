@@ -1,0 +1,7 @@
+id: hammerfall
+display_name: "Hammerfall"
+rarity: RARE
+max_level: 3
+description: "Falling hit: AoE damage + no fall damage."
+radius: "{1.5 + level}"
+aoe_damage: "{2.0 + level * 2.0}"

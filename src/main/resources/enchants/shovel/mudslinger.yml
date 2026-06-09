@@ -1,0 +1,7 @@
+﻿# Mudslinger Enchantment Config
+display-name: "Mudslinger"
+tier: "UNCOMMON"
+max-level: 3
+description: "Throw dirt to blind enemies briefly."
+enabled: true
+blind_ticks: 40

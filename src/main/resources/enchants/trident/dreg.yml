@@ -1,0 +1,7 @@
+﻿# Dreg Enchantment Config
+display-name: "Dreg"
+tier: "RARE"
+max-level: 3
+description: "Pulls multiple enemies to one point."
+enabled: true
+pull_radius: 6.0

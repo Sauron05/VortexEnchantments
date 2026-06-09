@@ -1,0 +1,6 @@
+# Eagle Eye Enchantment Config
+display-name: "Eagle Eye"
+tier: "UNCOMMON"
+max-level: 3
+description: "Night Vision while gliding."
+enabled: true

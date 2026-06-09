@@ -1,0 +1,8 @@
+# Prune Enchantment Config
+display-name: "Prune"
+tier: "RARE"
+max-level: 3
+description: "Breaking leaves drops more apples and sticks."
+enabled: true
+apple-chance: 12.0
+stick-chance: 20.0

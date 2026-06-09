@@ -1,0 +1,7 @@
+# Flameguard Enchantment Config
+display-name: "Flameguard"
+tier: "RARE"
+max-level: 3
+description: "Fire damage is converted to healing."
+enabled: true
+convert_pct: 0.20

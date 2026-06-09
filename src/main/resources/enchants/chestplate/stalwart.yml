@@ -1,0 +1,7 @@
+# Stalwart Enchantment Config
+display-name: "Stalwart"
+tier: "RARE"
+max-level: 3
+description: "Reduces critical hit bonus damage taken."
+enabled: true
+crit_reduction: 0.15

@@ -1,0 +1,9 @@
+# Celestial Enchantment Config
+display-name: "Celestial"
+tier: "LEGENDARY"
+max-level: 3
+description: "Regenerate health in the upper skies."
+enabled: true
+min_y: 200.0
+heal_interval: 3
+heal: 1.0

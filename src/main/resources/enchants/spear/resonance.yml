@@ -1,0 +1,8 @@
+display-name: "Resonance"
+tier: EPIC
+max-level: 3
+description: "Creates expanding damage rings on hit."
+enabled: true
+max_radius: 2.0
+ring_percent: 0.40
+cooldown: 8

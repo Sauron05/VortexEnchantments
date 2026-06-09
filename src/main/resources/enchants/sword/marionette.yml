@@ -1,0 +1,7 @@
+# Marionette Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 12.0
+  range: 8.0
+  duration_ticks: 40

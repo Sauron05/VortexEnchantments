@@ -1,0 +1,9 @@
+# Worldbreaker Enchantment Config
+display-name: "Worldbreaker"
+tier: "MYTHIC"
+max-level: 3
+description: "Kills trigger a massive shockwave that launches enemies."
+enabled: true
+radius: 7.0
+aoe_damage: 6.0
+launch_power: 0.8

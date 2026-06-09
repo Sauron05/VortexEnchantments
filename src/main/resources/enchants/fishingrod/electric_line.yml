@@ -1,0 +1,7 @@
+# Electric Line Enchantment Config
+display-name: "Electric Line"
+tier: "RARE"
+max-level: 3
+description: "Shock damage to hooked entities."
+enabled: true
+damage: 2.0

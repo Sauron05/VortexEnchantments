@@ -1,0 +1,7 @@
+﻿# Dowsing Enchantment Config
+display-name: "Dowsing"
+tier: "RARE"
+max-level: 3
+description: "Detects ore within 5 blocks."
+enabled: true
+detect_radius: 5

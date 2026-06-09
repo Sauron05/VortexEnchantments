@@ -1,0 +1,5 @@
+# Wormhole Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 12.0

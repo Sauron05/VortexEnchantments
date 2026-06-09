@@ -1,0 +1,8 @@
+# Venom Plating Enchantment Config
+display-name: "Venom Plating"
+tier: "EPIC"
+max-level: 3
+description: "Attackers receive Poison when they hit you."
+enabled: true
+duration: 40
+amplifier: 0

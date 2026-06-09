@@ -1,0 +1,6 @@
+display-name: "Puncture"
+tier: COMMON
+max-level: 3
+description: "Consecutive hits stack bonus damage."
+enabled: true
+bonus_per_stack: 0.08

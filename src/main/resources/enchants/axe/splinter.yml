@@ -1,0 +1,8 @@
+﻿# Splinter Enchantment Config
+display-name: "Splinter"
+tier: "RARE"
+max-level: 3
+description: "Fire splinters in random directions on hit dealing small AoE."
+enabled: true
+splinter_count: 4
+splinter_damage: 2.0

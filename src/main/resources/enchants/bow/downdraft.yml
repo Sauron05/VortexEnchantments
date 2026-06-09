@@ -1,0 +1,8 @@
+# Downdraft Enchantment Config
+display-name: "Downdraft"
+tier: "RARE"
+max-level: 3
+description: "Pull airborne entities to the ground."
+enabled: true
+radius: [4.0, 5.0, 6.0]
+pull_force: [0.6, 0.8, 1.0]

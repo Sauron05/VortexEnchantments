@@ -1,0 +1,6 @@
+# Ancient Forge Enchantment Config
+display-name: "Ancient Forge"
+tier: "MYTHIC"
+max-level: 3
+description: "Ore drops are upgraded one tier."
+enabled: true

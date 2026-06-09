@@ -1,0 +1,9 @@
+# Rampage Enchantment Config
+display-name: "Rampage"
+tier: "MYTHIC"
+max-level: 3
+description: "Kill stacks increase damage dealt."
+enabled: true
+max_stacks: 6
+bonus_per_stack: 1.0
+decay_chance: 0.08

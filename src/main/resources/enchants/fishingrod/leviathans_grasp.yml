@@ -1,0 +1,7 @@
+# Leviathan's Grasp Enchantment Config
+display-name: "Leviathan's Grasp"
+tier: "EPIC"
+max-level: 3
+description: "Hooked mobs are rooted in place."
+enabled: true
+duration: 60

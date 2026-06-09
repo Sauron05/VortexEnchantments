@@ -1,0 +1,8 @@
+id: gravitywell
+display_name: "Gravity Well"
+rarity: LEGENDARY
+max_level: 3
+description: "Levitate target then deal bonus crash damage."
+lev_ticks: 30
+crash_bonus: "{0.25 + level * 0.25}"
+cooldown: 10

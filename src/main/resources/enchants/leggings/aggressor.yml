@@ -1,0 +1,7 @@
+# Aggressor Enchantment Config
+display-name: "Aggressor"
+tier: "UNCOMMON"
+max-level: 3
+description: "Deal bonus damage while at full health."
+enabled: true
+bonus_damage: 1.0

@@ -1,0 +1,8 @@
+﻿# Undertow Enchantment Config
+display-name: "Undertow"
+tier: "RARE"
+max-level: 3
+description: "Reeling creates undertow pulling nearby mobs."
+enabled: true
+pull_radius: 4.0
+pull_force: 0.6

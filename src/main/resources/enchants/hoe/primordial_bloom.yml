@@ -1,0 +1,8 @@
+# Primordial Bloom Enchantment Config
+display-name: "Primordial Bloom"
+tier: "MYTHIC"
+max-level: 3
+description: "Harvesting creates spreading vegetation wave."
+enabled: true
+radius: 6
+cooldown: 20

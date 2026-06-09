@@ -1,0 +1,6 @@
+display-name: "Lancet"
+tier: RARE
+max-level: 3
+description: "Crits cause bleed that heals you."
+enabled: true
+heal_percent: 0.15

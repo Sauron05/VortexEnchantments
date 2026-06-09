@@ -1,0 +1,7 @@
+# Shatter Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  health_threshold: 0.40
+  damage_multiplier: 2.0
+  knockback_strength: 1.5

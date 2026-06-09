@@ -1,0 +1,7 @@
+# Mass Excavate Enchantment Config
+display-name: "Mass Excavate"
+tier: "LEGENDARY"
+max-level: 3
+description: "Mine 5x5 area of stone and ore blocks."
+enabled: true
+radius: 2

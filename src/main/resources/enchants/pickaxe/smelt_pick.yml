@@ -1,0 +1,6 @@
+# Smelt Pick Enchantment Config
+display-name: "Smelt Pick"
+tier: "UNCOMMON"
+max-level: 3
+description: "Auto-smelts ore drops into ingots."
+enabled: true

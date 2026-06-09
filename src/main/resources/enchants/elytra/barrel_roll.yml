@@ -1,0 +1,7 @@
+# Barrel Roll Enchantment Config
+display-name: "Barrel Roll"
+tier: "RARE"
+max-level: 3
+description: "Dodge projectiles while gliding."
+enabled: true
+chance: 0.10

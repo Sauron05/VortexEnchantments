@@ -1,0 +1,7 @@
+# Aether Enchantment Config
+display-name: "Aether"
+tier: "UNCOMMON"
+max-level: 3
+description: "Grants bonus max health while wearing."
+enabled: true
+hp_per_level: 2.0

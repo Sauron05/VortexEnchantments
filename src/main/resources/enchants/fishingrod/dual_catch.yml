@@ -1,0 +1,7 @@
+# Dual Catch Enchantment Config
+display-name: "Dual Catch"
+tier: "RARE"
+max-level: 3
+description: "Chance for double loot on catch."
+enabled: true
+chance: 0.10

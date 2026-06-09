@@ -1,0 +1,7 @@
+# Stone Eater Enchantment Config
+display-name: "Stone Eater"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining stone restores hunger."
+enabled: true
+food_restore: 2

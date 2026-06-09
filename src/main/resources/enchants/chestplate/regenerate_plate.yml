@@ -1,0 +1,7 @@
+# Regenerate Plate Enchantment Config
+display-name: "Regenerate Plate"
+tier: "LEGENDARY"
+max-level: 3
+description: "On kill, rapidly regenerate to full HP over 10 seconds."
+enabled: true
+regen_ticks: 200

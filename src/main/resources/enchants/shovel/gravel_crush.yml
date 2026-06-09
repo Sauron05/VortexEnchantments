@@ -1,0 +1,7 @@
+# Gravel Crush Enchantment Config
+display-name: "Gravel Crush"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining gravel drops iron nuggets instead of flint."
+enabled: true
+chance: 25.0

@@ -1,0 +1,7 @@
+# Tidal Lure Enchantment Config
+display-name: "Tidal Lure"
+tier: "UNCOMMON"
+max-level: 3
+description: "Speed buff when fishing in water biomes."
+enabled: true
+duration: 15

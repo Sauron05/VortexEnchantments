@@ -1,0 +1,8 @@
+﻿# Whistle Enchantment Config
+display-name: "Whistle"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrow whistles loudly, briefly stunning nearby mobs on hit."
+enabled: true
+stun_radius: 3.0
+stun_ticks: 20

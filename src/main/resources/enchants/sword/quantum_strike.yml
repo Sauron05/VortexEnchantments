@@ -1,0 +1,6 @@
+# Quantum Strike Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  double_chance: 0.20
+  zero_chance: 0.08

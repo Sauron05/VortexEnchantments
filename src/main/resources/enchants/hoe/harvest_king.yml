@@ -1,0 +1,7 @@
+# Harvest King Enchantment Config
+display-name: "Harvest King"
+tier: "LEGENDARY"
+max-level: 3
+description: "All crop drops multiplied."
+enabled: true
+multiplier: 2

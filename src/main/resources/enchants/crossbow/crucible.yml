@@ -1,0 +1,7 @@
+﻿# Crucible Enchantment Config
+display-name: "Crucible"
+tier: "EPIC"
+max-level: 3
+description: "Heating the bolt: 10s charge = fire bolt on release."
+enabled: true
+fire_ticks: 60

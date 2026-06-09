@@ -1,0 +1,7 @@
+# Cushioned Greaves Enchantment Config
+display-name: "Cushioned Greaves"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fall damage by a flat amount."
+enabled: true
+reduction: 2.0

@@ -1,0 +1,7 @@
+﻿# Rebound Enchantment Config
+display-name: "Rebound"
+tier: "UNCOMMON"
+max-level: 3
+description: "Bobber repositions on missed bite."
+enabled: true
+wait_reduction_ticks: 20

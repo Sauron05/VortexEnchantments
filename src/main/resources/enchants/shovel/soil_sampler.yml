@@ -1,0 +1,7 @@
+# Soil Sampler Enchantment Config
+display-name: "Soil Sampler"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to get bonus seeds and crops from soil."
+enabled: true
+chance: 20.0

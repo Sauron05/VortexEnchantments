@@ -1,0 +1,7 @@
+# Breathplate Enchantment Config
+display-name: "Breathplate"
+tier: "COMMON"
+max-level: 3
+description: "Recovers extra air per second while underwater."
+enabled: true
+air_per_tick: 2

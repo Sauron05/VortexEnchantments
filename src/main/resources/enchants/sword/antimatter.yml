@@ -1,0 +1,5 @@
+# Antimatter Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  durability_damage: 6

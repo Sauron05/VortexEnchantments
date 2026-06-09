@@ -1,0 +1,7 @@
+# Seafoam Enchantment Config
+display-name: "Seafoam"
+tier: "RARE"
+max-level: 3
+description: "Bubbles at your bobber attract fish."
+enabled: true
+particles: 20

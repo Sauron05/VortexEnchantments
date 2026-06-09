@@ -1,0 +1,8 @@
+﻿# Tremorsense Enchantment Config
+display-name: "Tremorsense"
+tier: "RARE"
+max-level: 3
+description: "Feel vibrations of nearby mobs through boots."
+enabled: true
+sense_radius: 10
+particle: true

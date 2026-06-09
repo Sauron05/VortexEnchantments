@@ -1,0 +1,7 @@
+# Sturdy Pick Enchantment Config
+display-name: "Sturdy Pick"
+tier: "COMMON"
+max-level: 3
+description: "Chance to negate durability loss when mining."
+enabled: true
+chance: 8

@@ -1,0 +1,7 @@
+﻿# Grudge Enchantment Config
+display-name: "Grudge"
+tier: "EPIC"
+max-level: 3
+description: "Accumulate damage received; store it; release on grudge hit."
+enabled: true
+release_ratio: 0.8

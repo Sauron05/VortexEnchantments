@@ -1,0 +1,8 @@
+# Adaptive Armor Enchantment Config
+display-name: "Adaptive Armor"
+tier: "LEGENDARY"
+max-level: 3
+description: "Each consecutive hit from the same source deals less damage."
+enabled: true
+reduction_per_stack: 0.06
+max_stacks: 5

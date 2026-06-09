@@ -1,0 +1,7 @@
+﻿# Burrow Enchantment Config
+display-name: "Burrow"
+tier: "RARE"
+max-level: 3
+description: "Dig straight down rapidly without fall damage trigger."
+enabled: true
+cooldown: 15

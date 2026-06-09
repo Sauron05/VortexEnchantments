@@ -1,0 +1,6 @@
+id: shockwave
+display_name: "Shockwave"
+rarity: COMMON
+max_level: 3
+description: "Kill emits a knockback wave in {radius}-block radius."
+radius: "{level + 2}"

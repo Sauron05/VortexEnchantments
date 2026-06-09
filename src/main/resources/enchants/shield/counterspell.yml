@@ -1,0 +1,8 @@
+﻿# Counterspell Enchantment Config
+display-name: "Counterspell"
+tier: "EPIC"
+max-level: 3
+description: "15-25% chance to give Mining Fatigue to attacker on block."
+enabled: true
+chance: 0.15
+duration: 4.0

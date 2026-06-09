@@ -1,0 +1,9 @@
+# Tsunami Cast Enchantment Config
+display-name: "Tsunami Cast"
+tier: "EPIC"
+max-level: 3
+description: "Casting pushes entities from bobber."
+enabled: true
+cooldown: 10
+radius: 5.0
+force: 1.5

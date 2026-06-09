@@ -1,0 +1,6 @@
+# Godlike Enchantment Config
+display-name: "Godlike"
+tier: "MYTHIC"
+max-level: 3
+description: "Passively gain Resistance, Strength, and Regeneration."
+enabled: true

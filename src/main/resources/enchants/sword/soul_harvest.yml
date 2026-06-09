@@ -1,0 +1,6 @@
+# Soul Harvest Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  max_charges: 5
+  heal_per_charge: 2.0

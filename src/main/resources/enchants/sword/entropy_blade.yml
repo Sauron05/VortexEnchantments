@@ -1,0 +1,6 @@
+# Entropy Blade Enchantment Config
+enabled: true
+conflicts: [entropy]
+settings:
+  stack_percent: 20
+  duration_ticks: 100

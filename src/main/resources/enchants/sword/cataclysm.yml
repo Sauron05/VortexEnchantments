@@ -1,0 +1,7 @@
+# Cataclysm Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 30.0
+  radius: 5.0
+  damage: 14.0

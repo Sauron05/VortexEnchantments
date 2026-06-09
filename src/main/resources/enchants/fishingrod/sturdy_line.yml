@@ -1,0 +1,7 @@
+# Sturdy Line Enchantment Config
+display-name: "Sturdy Line"
+tier: "COMMON"
+max-level: 3
+description: "Saves rod durability on catch."
+enabled: true
+save_chance: 0.20

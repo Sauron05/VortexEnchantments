@@ -1,0 +1,8 @@
+# Void Eye Enchantment Config
+display-name: "Void Eye"
+tier: "MYTHIC"
+max-level: 3
+description: "On hit, launch attacker high into the air."
+enabled: true
+launch_height: 8.0
+cooldown: 30

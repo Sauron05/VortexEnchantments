@@ -1,0 +1,8 @@
+# Gravemind Enchantment Config
+display-name: "Gravemind"
+tier: "EPIC"
+max-level: 3
+description: "On death, curse your killer with lingering damage."
+enabled: true
+dps: 1.0
+curse_ticks: 100

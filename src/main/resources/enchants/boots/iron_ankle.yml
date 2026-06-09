@@ -1,0 +1,7 @@
+# Iron Ankle Enchantment Config
+display-name: "Iron Ankle"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces knockback from melee hits."
+enabled: true
+kb_reduction: 0.20

@@ -1,0 +1,7 @@
+id: pummel
+display_name: "Pummel"
+rarity: COMMON
+max_level: 3
+description: "Chance to stun target for 0.5 seconds."
+chance: "{0.05 + level * 0.05}"
+stun_ticks: 10

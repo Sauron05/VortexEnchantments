@@ -1,0 +1,7 @@
+# Sentinel Enchantment Config
+display-name: "Sentinel"
+tier: "RARE"
+max-level: 3
+description: "Stand still blocking for bonus armor."
+enabled: true
+armor-bonus: 3.0

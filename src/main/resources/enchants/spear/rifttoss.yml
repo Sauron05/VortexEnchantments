@@ -1,0 +1,8 @@
+display-name: "Rifttoss"
+tier: RARE
+max-level: 3
+description: "Thrown hit creates a gravity rift."
+enabled: true
+radius: 3.0
+duration_ticks: 60
+cooldown: 15

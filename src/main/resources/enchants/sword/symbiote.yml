@@ -1,0 +1,7 @@
+# Symbiote Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  heal_ratio: 0.10
+  cooldown_seconds: 10.0
+  duration_ticks: 100

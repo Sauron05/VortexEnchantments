@@ -1,0 +1,9 @@
+# Gale Strike Enchantment Config
+display-name: "Gale Strike"
+tier: "RARE"
+max-level: 3
+description: "Shockwave on high-speed landing."
+enabled: true
+min_speed: 1.0
+damage: 4.0
+radius: 4.0

@@ -1,0 +1,8 @@
+# Executioner Legs Enchantment Config
+display-name: "Executioner Legs"
+tier: "LEGENDARY"
+max-level: 3
+description: "Massive bonus damage to targets below 25% HP."
+enabled: true
+hp_threshold: 0.25
+bonus_damage: 2.0

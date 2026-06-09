@@ -1,0 +1,7 @@
+﻿# Nimble Enchantment Config
+display-name: "Nimble"
+tier: "UNCOMMON"
+max-level: 3
+description: "Slightly reduces fall damage."
+enabled: true
+reduce: 0.2

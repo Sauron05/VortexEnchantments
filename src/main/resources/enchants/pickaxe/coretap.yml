@@ -1,0 +1,7 @@
+﻿# CoreTap Enchantment Config
+display-name: "CoreTap"
+tier: "LEGENDARY"
+max-level: 1
+description: "Massive vein-mine on ancient deepslate."
+enabled: true
+vein_size: 25

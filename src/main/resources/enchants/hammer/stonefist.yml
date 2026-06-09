@@ -1,0 +1,6 @@
+id: stonefist
+display_name: "Stonefist"
+rarity: RARE
+max_level: 3
+description: "Inflicts Mining Fatigue on hit."
+duration: 60

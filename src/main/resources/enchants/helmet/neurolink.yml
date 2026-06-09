@@ -1,0 +1,8 @@
+# Neurolink Enchantment Config
+display-name: "Neurolink"
+tier: "RARE"
+max-level: 3
+description: "Share a portion of XP gained with the nearest ally."
+enabled: true
+radius: 10.0
+xp_share_pct: 0.10

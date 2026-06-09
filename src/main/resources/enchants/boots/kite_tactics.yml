@@ -1,0 +1,8 @@
+# Kite Tactics Enchantment Config
+display-name: "Kite Tactics"
+tier: "RARE"
+max-level: 3
+description: "Take less damage from distant attackers."
+enabled: true
+distance_threshold: 3.0
+reduction_pct: 0.06

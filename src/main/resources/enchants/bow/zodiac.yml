@@ -1,0 +1,7 @@
+# Zodiac Enchantment Config
+display-name: "Zodiac"
+tier: "MYTHIC"
+max-level: 3
+description: "Arrow effect changes with time of day - 12 zodiac signs."
+enabled: true
+base_multiplier: [0.9, 1.0, 1.1]

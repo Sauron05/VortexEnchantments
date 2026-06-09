@@ -1,0 +1,9 @@
+# Maelstrom Enchantment Config
+display-name: "Maelstrom"
+tier: "LEGENDARY"
+max-level: 3
+description: "Creates a damaging vortex on catch."
+enabled: true
+cooldown: 15
+radius: 6.0
+damage: 5.0

@@ -1,0 +1,7 @@
+# Sprout Enchantment Config
+display-name: "Sprout"
+tier: "UNCOMMON"
+max-level: 3
+description: "Right-click crop to advance growth."
+enabled: true
+cooldown: 12

@@ -1,0 +1,8 @@
+﻿# Floodgate Enchantment Config
+display-name: "Floodgate"
+tier: "EPIC"
+max-level: 3
+description: "Creates a water rush on impact pushing enemies."
+enabled: true
+rush_radius: 3.0
+rush_force: 1.2

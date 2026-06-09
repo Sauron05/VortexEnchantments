@@ -1,0 +1,18 @@
+# Bloodforge Enchantment Config
+display-name: "Bloodforge"
+tier: "MYTHIC"
+max-level: 3
+description: "Sacrifice HP to empower your next hits."
+enabled: true
+sacrifice-hp:
+  1: 6
+  2: 8
+  3: 10
+charges: 3
+damage-bonus:
+  1: 0.50
+  2: 0.75
+  3: 1.00
+expire-ms: 10000
+cooldown: 12
+min-hp: 12

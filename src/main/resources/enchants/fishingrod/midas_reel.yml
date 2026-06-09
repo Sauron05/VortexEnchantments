@@ -1,0 +1,7 @@
+# Midas Reel Enchantment Config
+display-name: "Midas Reel"
+tier: "LEGENDARY"
+max-level: 3
+description: "Chance to transmute catches into gold."
+enabled: true
+chance: 0.10

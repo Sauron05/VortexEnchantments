@@ -1,0 +1,10 @@
+# Radiance Enchantment Config
+display-name: "Radiance"
+tier: "RARE"
+max-level: 3
+description: "Below 40% HP when hit, emit a heal pulse for nearby allies."
+enabled: true
+hp_threshold: 0.40
+radius: 5.0
+heal_amount: 2.0
+cooldown: 20

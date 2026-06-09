@@ -1,0 +1,7 @@
+﻿# Loam Enchantment Config
+display-name: "Loam"
+tier: "COMMON"
+max-level: 3
+description: "Tilling gives speed boost."
+enabled: true
+speed_duration: 40

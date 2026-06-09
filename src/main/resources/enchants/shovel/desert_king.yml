@@ -1,0 +1,8 @@
+# Desert King Enchantment Config
+display-name: "Desert King"
+tier: "LEGENDARY"
+max-level: 3
+description: "Double drops + auto-smelt in desert/badlands."
+enabled: true
+auto-smelt: true
+double-drop-chance: 45.0

@@ -1,0 +1,6 @@
+id: magnetize
+display_name: "Magnetize"
+rarity: RARE
+max_level: 3
+description: "Chance to strip a random armor piece on hit."
+chance: "{0.05 + level * 0.10}"

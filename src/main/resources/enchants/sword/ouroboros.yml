@@ -1,0 +1,7 @@
+# Ouroboros Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  max_reductions: 5
+  reduction_per_kill: 2.0
+  min_max_health: 4.0

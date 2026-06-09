@@ -1,0 +1,7 @@
+# Cushion Enchantment Config
+display-name: "Cushion"
+tier: "COMMON"
+max-level: 3
+description: "Reduces knockback taken from melee hits."
+enabled: true
+kb_reduction: 0.20

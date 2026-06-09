@@ -1,0 +1,8 @@
+# Prowl Enchantment Config
+display-name: "Prowl"
+tier: "UNCOMMON"
+max-level: 3
+description: "Block+sneak: mobs lose aggro."
+enabled: true
+radius: 10.0
+clear-chance: 25.0

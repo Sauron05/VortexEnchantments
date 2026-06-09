@@ -1,0 +1,7 @@
+# Flora Shield Enchantment Config
+display-name: "Flora Shield"
+tier: "EPIC"
+max-level: 3
+description: "Harvesting crops grants Resistance."
+enabled: true
+duration: 60

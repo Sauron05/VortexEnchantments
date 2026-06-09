@@ -1,0 +1,6 @@
+display-name: "Retrograde"
+tier: RARE
+max-level: 3
+description: "Teleport to where thrown trident hits."
+enabled: true
+cooldown: 15

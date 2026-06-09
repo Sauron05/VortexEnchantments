@@ -1,0 +1,7 @@
+﻿# Turncoat Enchantment Config
+display-name: "Turncoat"
+tier: "EPIC"
+max-level: 3
+description: "On kill, briefly disguises you as the slain mob type."
+enabled: true
+duration_ticks: 100

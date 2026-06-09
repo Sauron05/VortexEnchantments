@@ -1,0 +1,8 @@
+# Phosphor Enchantment Config
+display-name: "Phosphor"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrows apply Glowing and ignite the target."
+enabled: true
+glow_duration: [3, 5, 7]
+fire_ticks: 40

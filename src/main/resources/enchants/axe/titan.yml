@@ -1,0 +1,7 @@
+﻿# Titan Enchantment Config
+display-name: "Titan"
+tier: "LEGENDARY"
+max-level: 1
+description: "Each kill permanently increases max HP by 0.5."
+enabled: true
+max_bonus: 10.0

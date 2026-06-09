@@ -1,0 +1,9 @@
+# Echo Block Enchantment Config
+display-name: "Echo Block"
+tier: "RARE"
+max-level: 3
+description: "Perfect block creates sonic pulse."
+enabled: true
+radius: 4.0
+force: 0.6
+cooldown: 8

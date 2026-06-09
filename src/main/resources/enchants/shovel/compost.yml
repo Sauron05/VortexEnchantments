@@ -1,0 +1,7 @@
+﻿# Compost Enchantment Config
+display-name: "Compost"
+tier: "UNCOMMON"
+max-level: 3
+description: "Organic drops turned into bone meal."
+enabled: true
+chance: 0.3

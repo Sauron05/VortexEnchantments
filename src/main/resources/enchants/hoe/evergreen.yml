@@ -1,0 +1,7 @@
+# Evergreen Enchantment Config
+display-name: "Evergreen"
+tier: "EPIC"
+max-level: 3
+description: "Crops stay moist, saplings grow faster."
+enabled: true
+radius: 6

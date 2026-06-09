@@ -1,0 +1,8 @@
+﻿# Dragnet Enchantment Config
+display-name: "Dragnet"
+tier: "EPIC"
+max-level: 3
+description: "Chance to haul up multiple extra fish at once."
+enabled: true
+chance: 0.20
+extra_count: 3

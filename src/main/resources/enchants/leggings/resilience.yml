@@ -1,0 +1,8 @@
+# Resilience Enchantment Config
+display-name: "Resilience"
+tier: "UNCOMMON"
+max-level: 3
+description: "Consecutive hits from the same source deal less damage."
+enabled: true
+reduction_per_stack: 0.05
+max_stacks: 4

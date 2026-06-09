@@ -1,0 +1,6 @@
+# Dowse Enchantment Config
+display-name: "Dowse"
+tier: "UNCOMMON"
+max-level: 1
+description: "Grants passive Water Breathing while wearing."
+enabled: true

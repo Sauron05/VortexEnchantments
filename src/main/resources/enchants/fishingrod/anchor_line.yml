@@ -1,0 +1,7 @@
+﻿# AnchorLine Enchantment Config
+display-name: "AnchorLine"
+tier: "RARE"
+max-level: 3
+description: "Hooked entities are immobilized briefly."
+enabled: true
+immobilize_duration: 0.5

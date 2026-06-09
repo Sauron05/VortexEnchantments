@@ -1,0 +1,7 @@
+# Specter Enchantment Config
+display-name: "Specter"
+tier: "RARE"
+max-level: 3
+description: "Chance to dodge incoming melee attacks entirely."
+enabled: true
+dodge_chance: 0.05

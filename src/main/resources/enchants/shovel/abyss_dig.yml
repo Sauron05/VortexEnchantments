@@ -1,0 +1,9 @@
+# Abyss Dig Enchantment Config
+display-name: "Abyss Dig"
+tier: "MYTHIC"
+max-level: 3
+description: "Create deep shafts, auto-collecting all drops."
+enabled: true
+depth: 5
+radius: 1
+cooldown: 12

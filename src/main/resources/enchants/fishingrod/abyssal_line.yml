@@ -1,0 +1,7 @@
+# Abyssal Line Enchantment Config
+display-name: "Abyssal Line"
+tier: "EPIC"
+max-level: 3
+description: "Night fishing triples catches."
+enabled: true
+multiplier: 3

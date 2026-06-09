@@ -1,0 +1,9 @@
+# Pandemonium Enchantment Config
+display-name: "Pandemonium"
+tier: "MYTHIC"
+max-level: 3
+description: "Arrow explodes into mini-arrows in all directions."
+enabled: true
+arrow_count: [8, 12, 16]
+mini_damage_pct: 0.30
+cooldown: 10.0

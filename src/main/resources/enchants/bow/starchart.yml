@@ -1,0 +1,9 @@
+# Starchart Enchantment Config
+display-name: "Starchart"
+tier: "LEGENDARY"
+max-level: 3
+description: "Mark multiple targets, then lightning connects them all."
+enabled: true
+window_ms: 8000
+marks_required: [3, 4, 5]
+chain_damage: [6.0, 8.0, 10.0]

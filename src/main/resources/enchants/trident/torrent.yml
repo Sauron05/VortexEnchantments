@@ -1,0 +1,8 @@
+﻿# Torrent Enchantment Config
+display-name: "Torrent"
+tier: "RARE"
+max-level: 3
+description: "Chained water damage hits after embed."
+enabled: true
+chain_ticks: 40
+chain_damage: 2.0

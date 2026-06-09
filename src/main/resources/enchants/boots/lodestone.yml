@@ -1,0 +1,7 @@
+﻿# Lodestone Enchantment Config
+display-name: "Lodestone"
+tier: "EPIC"
+max-level: 3
+description: "Pulls item drops toward you as you walk."
+enabled: true
+pull_radius: 5.0

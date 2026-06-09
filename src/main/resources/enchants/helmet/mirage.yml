@@ -1,0 +1,9 @@
+# Mirage Enchantment Config
+display-name: "Mirage"
+tier: "EPIC"
+max-level: 3
+description: "After taking 3 quick hits, become invisible briefly."
+enabled: true
+hit_threshold: 3
+invis_duration: 40
+cooldown: 12

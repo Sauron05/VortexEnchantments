@@ -1,0 +1,8 @@
+# Culling Enchantment Config
+display-name: "Culling"
+tier: "EPIC"
+max-level: 3
+description: "Chance to instantly execute low-health targets."
+enabled: true
+hp_threshold: 0.20
+execute_chance: [0.05, 0.10, 0.15]

@@ -1,0 +1,5 @@
+# Phantom Blade Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  bypass_chance: 0.20

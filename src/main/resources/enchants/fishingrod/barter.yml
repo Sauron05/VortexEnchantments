@@ -1,0 +1,7 @@
+﻿# Barter Enchantment Config
+display-name: "Barter"
+tier: "RARE"
+max-level: 3
+description: "Chance to catch bonus trade items."
+enabled: true
+chance: 0.10

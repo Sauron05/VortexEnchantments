@@ -1,0 +1,8 @@
+# Mirror Dimension Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 30.0
+  radius: 10.0
+  reflect_ratio: 0.40
+  duration_ticks: 100

@@ -1,0 +1,8 @@
+display-name: "Zenith"
+tier: MYTHIC
+max-level: 3
+description: "Aerial strikes deal massive bonus + AoE."
+enabled: true
+bonus_percent: 0.50
+aoe_percent: 0.50
+aoe_radius: 3.0

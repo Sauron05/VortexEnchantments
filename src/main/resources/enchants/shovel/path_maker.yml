@@ -1,0 +1,7 @@
+# Path Maker Enchantment Config
+display-name: "Path Maker"
+tier: "COMMON"
+max-level: 3
+description: "Auto-creates dirt paths while walking."
+enabled: true
+radius: 1

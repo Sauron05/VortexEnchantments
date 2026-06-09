@@ -1,0 +1,7 @@
+﻿# Pathfinder Enchantment Config
+display-name: "Pathfinder"
+tier: "UNCOMMON"
+max-level: 3
+description: "Marks traveled path; retrace on sneak."
+enabled: true
+path_length: 20

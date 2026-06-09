@@ -1,0 +1,8 @@
+# Warden Legs Enchantment Config
+display-name: "Warden Legs"
+tier: "EPIC"
+max-level: 3
+description: "Accumulate damage taken, then heal a percentage after 5 seconds."
+enabled: true
+window_seconds: 5.0
+heal_pct: 0.10

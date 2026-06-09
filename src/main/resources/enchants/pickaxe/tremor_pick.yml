@@ -1,0 +1,9 @@
+# Tremor Enchantment Config
+display-name: "Tremor"
+tier: "EPIC"
+max-level: 3
+description: "Mining may slow nearby mobs."
+enabled: true
+chance: 20
+radius: 4
+slow_ticks: 40

@@ -1,0 +1,7 @@
+# Shock Absorb Enchantment Config
+display-name: "Shock Absorb"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces explosion damage."
+enabled: true
+reduction_pct: 0.15

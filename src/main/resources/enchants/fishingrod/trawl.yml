@@ -1,0 +1,8 @@
+﻿# Trawl Enchantment Config
+display-name: "Trawl"
+tier: "RARE"
+max-level: 3
+description: "Catch extra fish simultaneously."
+enabled: true
+chance: 0.20
+extra_fish: 2

@@ -1,0 +1,6 @@
+# Necrosis Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  required_stacks: 3
+  burst_damage: 8.0

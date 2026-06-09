@@ -1,0 +1,8 @@
+﻿# BogWalker Enchantment Config
+display-name: "BogWalker"
+tier: "UNCOMMON"
+max-level: 3
+description: "Walk on water surfaces briefly."
+enabled: true
+walk_ticks: 40
+cooldown: 10

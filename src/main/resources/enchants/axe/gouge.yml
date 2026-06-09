@@ -1,0 +1,8 @@
+﻿# Gouge Enchantment Config
+display-name: "Gouge"
+tier: "UNCOMMON"
+max-level: 3
+description: "Reduces target armor for 3s."
+enabled: true
+armor_reduce: 4
+duration: 60

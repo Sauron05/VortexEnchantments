@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Logs and local diagnostics
+*.log
+build_errors.txt
+
+# Local plugin output
+bin/
+run/
+server/
+plugins/
+playerdata/
+
+# OS files
+.DS_Store
+Thumbs.db

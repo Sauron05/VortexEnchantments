@@ -1,0 +1,7 @@
+# Recovery Enchantment Config
+display-name: "Recovery"
+tier: "UNCOMMON"
+max-level: 3
+description: "Regen while blocking."
+enabled: true
+duration: 40

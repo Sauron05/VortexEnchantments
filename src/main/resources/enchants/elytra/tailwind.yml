@@ -1,0 +1,7 @@
+﻿# Tailwind Enchantment Config
+display-name: "Tailwind"
+tier: "UNCOMMON"
+max-level: 3
+description: "Boost on glide launch."
+enabled: true
+launch_boost: 0.3

@@ -1,0 +1,9 @@
+# Storm Wing Enchantment Config
+display-name: "Storm Wing"
+tier: "EPIC"
+max-level: 3
+description: "Lightning strikes enemies during storms."
+enabled: true
+interval: 5
+radius: 15.0
+damage: 5.0

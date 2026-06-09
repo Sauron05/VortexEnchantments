@@ -1,0 +1,7 @@
+# Soil Turner Enchantment Config
+display-name: "Soil Turner"
+tier: "COMMON"
+max-level: 3
+description: "Tilling also tills adjacent blocks."
+enabled: true
+radius: 1

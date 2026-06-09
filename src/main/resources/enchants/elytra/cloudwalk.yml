@@ -1,0 +1,7 @@
+﻿# Cloudwalk Enchantment Config
+display-name: "Cloudwalk"
+tier: "RARE"
+max-level: 3
+description: "Slow Falling while gliding."
+enabled: true
+enabled: true

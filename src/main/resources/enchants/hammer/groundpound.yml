@@ -1,0 +1,8 @@
+id: groundpound
+display_name: "Groundpound"
+rarity: RARE
+max_level: 3
+description: "Right-click: leap up then slam AoE."
+radius: "{2.0 + level}"
+slam_damage: "{1.0 + level * 2.0}"
+cooldown: 12

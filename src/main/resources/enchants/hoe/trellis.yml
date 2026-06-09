@@ -1,0 +1,8 @@
+# Trellis Enchantment Config
+display-name: "Trellis"
+tier: "RARE"
+max-level: 3
+description: "Right-click to grow vines on blocks."
+enabled: true
+max-vines: 4
+cooldown: 5

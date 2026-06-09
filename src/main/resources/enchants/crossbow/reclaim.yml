@@ -1,0 +1,7 @@
+﻿# Reclaim Enchantment Config
+display-name: "Reclaim"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to recover bolt after shot."
+enabled: true
+recover_chance: 0.3

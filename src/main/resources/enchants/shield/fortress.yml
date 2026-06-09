@@ -1,0 +1,8 @@
+﻿# Fortress Enchantment Config
+display-name: "Fortress"
+tier: "EPIC"
+max-level: 3
+description: "Continuous blocking grants Resistance I."
+enabled: true
+min_hold_ticks: 40
+resistance_amplifier: 0

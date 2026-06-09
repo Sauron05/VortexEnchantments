@@ -1,0 +1,9 @@
+# Dreamweaver Enchantment Config
+display-name: "Dreamweaver"
+tier: "EPIC"
+max-level: 3
+description: "Below HP threshold, teleport behind your attacker."
+enabled: true
+hp_threshold: 0.30
+distance: 3.0
+cooldown: 15

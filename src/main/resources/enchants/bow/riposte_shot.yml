@@ -1,0 +1,7 @@
+﻿# RiposteShot Enchantment Config
+display-name: "RiposteShot"
+tier: "EPIC"
+max-level: 3
+description: "After blocking a projectile, auto-fires one back."
+enabled: true
+riposte_damage: 5.0

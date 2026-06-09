@@ -1,0 +1,8 @@
+﻿# Static Enchantment Config
+display-name: "Static"
+tier: "RARE"
+max-level: 3
+description: "Build static charge while running; discharge on melee hit."
+enabled: true
+charge_per_step: 0.02
+max_charge: 5.0

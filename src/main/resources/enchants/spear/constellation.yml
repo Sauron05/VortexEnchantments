@@ -1,0 +1,7 @@
+display-name: "Constellation"
+tier: LEGENDARY
+max-level: 3
+description: "Night: mark targets, 5 marks = lightning."
+enabled: true
+trigger_marks: 5
+multiplier: 2.0

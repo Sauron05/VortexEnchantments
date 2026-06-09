@@ -1,0 +1,7 @@
+﻿# DroughtGuard Enchantment Config
+display-name: "DroughtGuard"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilled soil never dries in dry biomes."
+enabled: true
+enabled: true

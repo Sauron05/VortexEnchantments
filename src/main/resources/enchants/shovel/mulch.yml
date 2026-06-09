@@ -1,0 +1,7 @@
+# Mulch Enchantment Config
+display-name: "Mulch"
+tier: "UNCOMMON"
+max-level: 3
+description: "Breaking dirt/grass spawns bone meal effect on nearby crops."
+enabled: true
+radius: 3.0

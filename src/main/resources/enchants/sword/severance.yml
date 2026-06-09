@@ -1,0 +1,7 @@
+﻿# Severance Enchantment Config
+display-name: "Severance"
+tier: "RARE"
+max-level: 3
+description: "Removes one random positive potion effect from target."
+enabled: true
+chance: 0.25

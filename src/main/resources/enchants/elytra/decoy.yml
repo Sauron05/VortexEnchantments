@@ -1,0 +1,8 @@
+﻿# Decoy Enchantment Config
+display-name: "Decoy"
+tier: "EPIC"
+max-level: 1
+description: "Drops decoy every 5s while gliding."
+enabled: true
+interval_ms: 5000
+decoy_lifetime_ms: 3000

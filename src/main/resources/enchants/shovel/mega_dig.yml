@@ -1,0 +1,8 @@
+# Mega Dig Enchantment Config
+display-name: "Mega Dig"
+tier: "EPIC"
+max-level: 3
+description: "Mine a 3x3 area of soft blocks."
+enabled: true
+radius: 1
+cooldown: 3

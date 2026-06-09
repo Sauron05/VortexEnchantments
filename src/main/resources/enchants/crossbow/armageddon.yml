@@ -1,0 +1,10 @@
+# Armageddon Enchantment Config
+display-name: "Armageddon"
+tier: "LEGENDARY"
+max-level: 3
+description: "Bolt calls down multiple lightning strikes in the impact area."
+enabled: true
+strikes: [3, 5, 7]
+radius: 4.0
+strike_damage: 3.0
+cooldown: 15.0

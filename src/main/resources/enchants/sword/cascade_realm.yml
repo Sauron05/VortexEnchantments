@@ -1,0 +1,7 @@
+# Cascade Realm Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  bonus_per_stack: 0.10
+  max_stacks: 5
+  window_seconds: 3.0

@@ -1,0 +1,8 @@
+# Omni Shield Enchantment Config
+display-name: "Omni Shield"
+tier: "MYTHIC"
+max-level: 3
+description: "Auto-blocks from all directions."
+enabled: true
+passive-reduction: 0.15
+active-bonus: 0.15

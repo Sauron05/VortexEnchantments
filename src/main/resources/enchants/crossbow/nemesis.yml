@@ -1,0 +1,9 @@
+# Nemesis Enchantment Config
+display-name: "Nemesis"
+tier: "MYTHIC"
+max-level: 3
+description: "Converts a portion of damage received from a target into bonus damage against them."
+enabled: true
+conversion_rate: [0.25, 0.35, 0.45]
+max_bonus: 15.0
+grudge_retain: 0.5

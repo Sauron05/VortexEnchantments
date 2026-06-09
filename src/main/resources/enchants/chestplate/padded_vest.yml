@@ -1,0 +1,7 @@
+# Padded Vest Enchantment Config
+display-name: "Padded Vest"
+tier: "COMMON"
+max-level: 3
+description: "Reduces projectile damage by a flat amount."
+enabled: true
+reduction: 1.0

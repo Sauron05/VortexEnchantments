@@ -1,0 +1,7 @@
+﻿# Erosion Enchantment Config
+display-name: "Erosion"
+tier: "UNCOMMON"
+max-level: 3
+description: "Gradually increases mining speed as durability decreases."
+enabled: true
+enabled: true

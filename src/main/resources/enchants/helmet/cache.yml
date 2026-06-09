@@ -1,0 +1,7 @@
+﻿# Cache Enchantment Config
+display-name: "Cache"
+tier: "UNCOMMON"
+max-level: 3
+description: "Extra item storage slot virtually attached to helmet."
+enabled: true
+slots: 1

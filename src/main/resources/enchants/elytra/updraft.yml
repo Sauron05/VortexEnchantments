@@ -1,0 +1,7 @@
+﻿# Updraft Enchantment Config
+display-name: "Updraft"
+tier: "RARE"
+max-level: 3
+description: "Levitation below threshold altitude."
+enabled: true
+min_altitude: 64

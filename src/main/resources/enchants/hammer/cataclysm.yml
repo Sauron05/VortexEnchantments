@@ -1,0 +1,8 @@
+id: cataclysm
+display_name: "Cataclysm"
+rarity: MYTHIC
+max_level: 3
+description: "Massive AoE ground pound with knockback and Weakness."
+radius: "{4.0 + level * 2.0}"
+damage: "{8.0 + level * 4.0}"
+cooldown: 30

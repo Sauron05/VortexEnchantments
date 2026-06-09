@@ -1,0 +1,9 @@
+# Brainstorm Enchantment Config
+display-name: "Brainstorm"
+tier: "RARE"
+max-level: 3
+description: "Sneak for 3s to release a shockwave that launches mobs."
+enabled: true
+radius: 4.0
+damage: 2.0
+cooldown: 10

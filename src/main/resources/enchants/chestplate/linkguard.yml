@@ -1,0 +1,8 @@
+# Linkguard Enchantment Config
+display-name: "Linkguard"
+tier: "RARE"
+max-level: 3
+description: "Same source type hits deal less damage over consecutive hits."
+enabled: true
+reduction_per_stack: 0.05
+max_stacks: 3

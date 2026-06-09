@@ -1,0 +1,8 @@
+# Afterburner Enchantment Config
+display-name: "Afterburner"
+tier: "RARE"
+max-level: 3
+description: "Speed increases the longer you glide."
+enabled: true
+max_stacks: 10
+boost_per_stack: 0.01

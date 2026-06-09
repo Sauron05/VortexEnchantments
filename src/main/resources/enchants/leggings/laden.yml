@@ -1,0 +1,7 @@
+﻿# Laden Enchantment Config
+display-name: "Laden"
+tier: "EPIC"
+max-level: 3
+description: "Carry more weight without slowdown (inverse of over-encumbered)."
+enabled: true
+weight_reduce: 0.3

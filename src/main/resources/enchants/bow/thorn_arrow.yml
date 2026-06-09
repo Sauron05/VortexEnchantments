@@ -1,0 +1,7 @@
+﻿# ThornArrow Enchantment Config
+display-name: "ThornArrow"
+tier: "UNCOMMON"
+max-level: 3
+description: "Arrow poisons target and deals thorn damage."
+enabled: true
+poison_duration: 80

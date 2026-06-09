@@ -1,0 +1,9 @@
+# Frostbite Enchantment Config
+display-name: "Frostbite"
+tier: "EPIC"
+max-level: 3
+description: "Arrow freezes target with ice at their feet."
+enabled: true
+duration: [2, 3, 4]
+freeze_ticks: [80, 100, 120]
+cooldown: 6.0

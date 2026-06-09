@@ -1,0 +1,9 @@
+# Annihilation Wall Enchantment Config
+display-name: "Annihilation Wall"
+tier: "MYTHIC"
+max-level: 3
+description: "After blocking hits: massive damage wave."
+enabled: true
+threshold: 10
+radius: 8.0
+wave-damage: 7.0

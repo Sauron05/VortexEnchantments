@@ -1,0 +1,8 @@
+display-name: "Chronospear"
+tier: MYTHIC
+max-level: 3
+description: "Hit creates a time-slow bubble."
+enabled: true
+radius: 5.0
+duration_ticks: 40
+cooldown: 25

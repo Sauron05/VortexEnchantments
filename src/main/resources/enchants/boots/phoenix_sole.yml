@@ -1,0 +1,9 @@
+# Phoenix Sole Enchantment Config
+display-name: "Phoenix Sole"
+tier: "LEGENDARY"
+max-level: 3
+description: "Survive lethal damage with fire immunity and regen."
+enabled: true
+heal_pct: 0.15
+regen_duration: 80
+cooldown: 120.0

@@ -1,0 +1,7 @@
+# Bounty Strike Enchantment Config
+display-name: "Bounty Strike"
+tier: "LEGENDARY"
+max-level: 3
+description: "Rare treasure drops while mining."
+enabled: true
+chance: 0.8

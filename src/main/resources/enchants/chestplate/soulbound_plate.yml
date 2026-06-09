@@ -1,0 +1,6 @@
+# Soulbound Plate Enchantment Config
+display-name: "Soulbound Plate"
+tier: "EPIC"
+max-level: 1
+description: "Chestplate is kept on death."
+enabled: true

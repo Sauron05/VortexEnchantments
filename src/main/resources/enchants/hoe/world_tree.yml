@@ -1,0 +1,7 @@
+# World Tree Enchantment Config
+display-name: "World Tree"
+tier: "LEGENDARY"
+max-level: 3
+description: "Right-click sapling for instant tree."
+enabled: true
+cooldown: 25.0

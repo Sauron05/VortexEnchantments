@@ -1,0 +1,8 @@
+# Ragnarok Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  health_threshold: 0.20
+  cooldown_seconds: 60.0
+  duration_ticks: 100
+  damage_boost: 2.0

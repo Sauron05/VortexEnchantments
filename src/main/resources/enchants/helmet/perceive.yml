@@ -1,0 +1,6 @@
+# Perceive Enchantment Config
+display-name: "Perceive"
+tier: "RARE"
+max-level: 1
+description: "Grants Conduit Power while submerged in water."
+enabled: true

@@ -1,0 +1,7 @@
+﻿# Fossil Enchantment Config
+display-name: "Fossil"
+tier: "UNCOMMON"
+max-level: 3
+description: "Chance to find fossils (bone blocks) while mining."
+enabled: true
+chance: 0.05

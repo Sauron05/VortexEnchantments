@@ -1,0 +1,8 @@
+# Stormfell Enchantment Config
+display-name: "Stormfell"
+tier: "MYTHIC"
+max-level: 3
+description: "Critical hits summon lightning on the target."
+enabled: true
+chance: 0.35
+lightning_damage: 7.0

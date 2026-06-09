@@ -1,0 +1,6 @@
+# Void Touch Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  chance: 0.10
+  suppress_ticks: 600

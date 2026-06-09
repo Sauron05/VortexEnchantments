@@ -1,0 +1,8 @@
+﻿# Beacon Enchantment Config
+display-name: "Beacon"
+tier: "RARE"
+max-level: 3
+description: "Regeneration aura for nearby allies while blocking."
+enabled: true
+aura_radius: 8
+regen_amp: 0

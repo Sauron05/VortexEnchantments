@@ -1,0 +1,9 @@
+# Earthquake Enchantment Config
+display-name: "Earthquake"
+tier: "MYTHIC"
+max-level: 3
+description: "AoE shockwave that launches and damages nearby enemies."
+enabled: true
+radius: 4.0
+damage: 3.0
+launch_power: 0.8

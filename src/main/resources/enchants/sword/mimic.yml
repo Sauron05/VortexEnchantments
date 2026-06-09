@@ -1,0 +1,7 @@
+﻿# Mimic Enchantment Config
+display-name: "Mimic"
+tier: "EPIC"
+max-level: 3
+description: "Copies the last potion effect applied to you onto the target."
+enabled: true
+copy_chance: 0.25

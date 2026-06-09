@@ -1,0 +1,8 @@
+# Iron Will Enchantment Config
+display-name: "Iron Will"
+tier: "RARE"
+max-level: 3
+description: "Below 25% HP, all damage is reduced."
+enabled: true
+hp_threshold: 0.25
+reduction_pct: 0.10

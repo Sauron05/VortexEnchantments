@@ -1,0 +1,7 @@
+﻿# Inversion Enchantment Config
+display-name: "Inversion"
+tier: "EPIC"
+max-level: 3
+description: "Converts a portion of damage taken into healing."
+enabled: true
+convert_ratio: 0.2

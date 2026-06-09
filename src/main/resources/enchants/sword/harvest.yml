@@ -1,0 +1,7 @@
+﻿# Harvest Enchantment Config
+display-name: "Harvest"
+tier: "UNCOMMON"
+max-level: 3
+description: "Killing mobs drops extra loot based on their type."
+enabled: true
+loot_bonus: 1

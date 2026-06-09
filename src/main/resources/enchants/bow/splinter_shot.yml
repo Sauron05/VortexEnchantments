@@ -1,0 +1,8 @@
+﻿# SplinterShot Enchantment Config
+display-name: "SplinterShot"
+tier: "RARE"
+max-level: 3
+description: "Arrow splinters into smaller projectiles on impact."
+enabled: true
+splinter_count: 4
+angle: 30

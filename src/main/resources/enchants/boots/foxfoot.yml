@@ -1,0 +1,7 @@
+﻿# Foxfoot Enchantment Config
+display-name: "Foxfoot"
+tier: "UNCOMMON"
+max-level: 3
+description: "Move silently: no step sounds."
+enabled: true
+enabled: true

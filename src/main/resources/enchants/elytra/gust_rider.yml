@@ -1,0 +1,7 @@
+# Gust Rider Enchantment Config
+display-name: "Gust Rider"
+tier: "UNCOMMON"
+max-level: 3
+description: "Powerful launch boost when starting to glide."
+enabled: true
+burst: 0.5

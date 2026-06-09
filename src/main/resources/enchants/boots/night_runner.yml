@@ -1,0 +1,6 @@
+# Night Runner Enchantment Config
+display-name: "Night Runner"
+tier: "UNCOMMON"
+max-level: 3
+description: "Grants passive Night Vision."
+enabled: true

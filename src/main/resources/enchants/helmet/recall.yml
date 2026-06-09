@@ -1,0 +1,7 @@
+﻿# Recall Enchantment Config
+display-name: "Recall"
+tier: "EPIC"
+max-level: 3
+description: "Stores location on put-on; die and teleport back."
+enabled: true
+cooldown: 300

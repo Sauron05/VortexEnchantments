@@ -1,0 +1,9 @@
+# Rampage Enchantment Config
+display-name: "Rampage"
+tier: "LEGENDARY"
+max-level: 3
+description: "Consecutive hits deal increasing damage, stacking up to 5x."
+enabled: true
+bonus_per_stack: 0.1
+max_stacks: 5
+timeout_ms: 3000

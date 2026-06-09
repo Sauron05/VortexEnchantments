@@ -1,0 +1,7 @@
+﻿# Ironbark Enchantment Config
+display-name: "Ironbark"
+tier: "UNCOMMON"
+max-level: 3
+description: "Passive 3-8% DR while shield is in offhand."
+enabled: true
+reduce: 0.03

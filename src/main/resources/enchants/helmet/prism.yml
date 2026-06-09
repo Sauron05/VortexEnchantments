@@ -1,0 +1,9 @@
+# Prism Enchantment Config
+display-name: "Prism"
+tier: "RARE"
+max-level: 3
+description: "Sneak to cycle between Damage, Defense, and Speed aura modes."
+enabled: true
+damage_bonus: 0.5
+defense_pct: 0.05
+speed_amplifier: 0

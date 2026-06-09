@@ -1,0 +1,7 @@
+# Treasure Hunter Enchantment Config
+display-name: "Treasure Hunter"
+tier: "RARE"
+max-level: 3
+description: "Better chance for rare treasure."
+enabled: true
+chance: 0.05

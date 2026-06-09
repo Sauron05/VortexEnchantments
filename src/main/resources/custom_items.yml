@@ -1,0 +1,88 @@
+# ============================================================
+#  VortexEnchantments — Custom Items Configuration
+# ============================================================
+# Define craftable or obtainable custom items that complement
+# the enchantment system (e.g. enchanted tomes, runestones, etc.)
+
+custom-items:
+
+  # -----------------------------------------------------------------------
+  # Enchanted Tome — applies a random VortexEnchantment to held item
+  # -----------------------------------------------------------------------
+  enchanted_tome:
+    display-name: "&5✦ Enchanted Tome ✦"
+    material: BOOK
+    lore:
+      - "&7Right-click while holding an item"
+      - "&7to apply a random &dVortex Enchantment&7."
+    glowing: true
+    give-command: true
+    craftable: true
+    recipe:
+      shape:
+        - " B "
+        - "BEB"
+        - " B "
+      ingredients:
+        B: BOOK
+        E: EXPERIENCE_BOTTLE
+
+  # -----------------------------------------------------------------------
+  # Runic Eraser — removes one VortexEnchantment from held item
+  # -----------------------------------------------------------------------
+  runic_eraser:
+    display-name: "&cRunic Eraser"
+    material: PAPER
+    lore:
+      - "&7Right-click a &dVortex Enchanted&7 item"
+      - "&7to remove one enchantment."
+    glowing: false
+    give-command: true
+    craftable: true
+    recipe:
+      shape:
+        - "GG "
+        - "GG "
+        - "   "
+      ingredients:
+        G: GHAST_TEAR
+
+  # -----------------------------------------------------------------------
+  # Tier Prism — upgrades a VortexEnchantment by one tier level
+  # -----------------------------------------------------------------------
+  tier_prism:
+    display-name: "&eTier Prism"
+    material: PRISMARINE_SHARD
+    lore:
+      - "&7Apply to an enchanted item to upgrade"
+      - "&7one VortexEnchantment by &a+1 level&7."
+    glowing: true
+    give-command: true
+    craftable: false
+
+  # -----------------------------------------------------------------------
+  # Vortex Crystal — required to craft legendary enchanted books
+  # -----------------------------------------------------------------------
+  vortex_crystal:
+    display-name: "&dVortex Crystal"
+    material: AMETHYST_SHARD
+    lore:
+      - "&7A crystallized fragment of vortex energy."
+      - "&7Used in advanced crafting recipes."
+    glowing: true
+    give-command: true
+    craftable: false
+
+  # -----------------------------------------------------------------------
+  # Enchantment Scroll — single-use scroll for a specific enchantment
+  # Populated by the plugin at runtime
+  # -----------------------------------------------------------------------
+  enchantment_scroll:
+    display-name: "&b{enchant_name} Scroll"
+    material: PAPER
+    lore:
+      - "&7Contains: &d{enchant_name} {enchant_level}"
+      - "&7Right-click item to apply."
+    glowing: true
+    give-command: false  # spawned programmatically
+    craftable: false

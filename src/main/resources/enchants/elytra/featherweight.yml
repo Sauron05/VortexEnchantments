@@ -1,0 +1,7 @@
+﻿# Featherweight Enchantment Config
+display-name: "Featherweight"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fall damage after gliding."
+enabled: true
+fall_reduction: 0.25

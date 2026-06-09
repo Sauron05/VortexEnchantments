@@ -1,0 +1,7 @@
+﻿# Brine Enchantment Config
+display-name: "Brine"
+tier: "RARE"
+max-level: 3
+description: "Sprays salt water blinding target."
+enabled: true
+blind_ticks: 60

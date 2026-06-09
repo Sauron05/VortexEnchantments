@@ -1,0 +1,8 @@
+# Magnetic Shield Enchantment Config
+display-name: "Magnetic Shield"
+tier: "RARE"
+max-level: 3
+description: "Pull items toward you while blocking."
+enabled: true
+radius: 6.0
+pull-speed: 0.2

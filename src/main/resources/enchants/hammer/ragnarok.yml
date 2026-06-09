@@ -1,0 +1,8 @@
+id: ragnarok
+display_name: "Ragnarok"
+rarity: MYTHIC
+max_level: 3
+description: "Boss mode: all buffs + bonus damage for 8 seconds."
+duration_ticks: 160
+rage_bonus: "{0.25 + level * 0.25}"
+cooldown: 60

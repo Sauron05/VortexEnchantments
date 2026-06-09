@@ -1,0 +1,6 @@
+# Rift Walker Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 8.0
+  bonus_damage: 2.0

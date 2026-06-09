@@ -1,0 +1,9 @@
+# Grapple Enchantment Config
+display-name: "Grapple"
+tier: "RARE"
+max-level: 3
+description: "Arrow pulls shooter to impact location."
+enabled: true
+max_range: [40.0, 50.0, 60.0]
+speed: [1.1, 1.4, 1.7]
+cooldown: 4.0

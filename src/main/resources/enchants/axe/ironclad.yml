@@ -1,0 +1,8 @@
+# Ironclad Enchantment Config
+display-name: "Ironclad"
+tier: "RARE"
+max-level: 3
+description: "Kills grant temporary absorption hearts."
+enabled: true
+absorption_level: 1
+duration_ticks: 100

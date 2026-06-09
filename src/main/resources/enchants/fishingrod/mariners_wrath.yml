@@ -1,0 +1,7 @@
+# Mariner's Wrath Enchantment Config
+display-name: "Mariner's Wrath"
+tier: "EPIC"
+max-level: 3
+description: "Storms double catch rate and chance for lightning."
+enabled: true
+lightning_chance: 0.10

@@ -1,0 +1,7 @@
+﻿# Upstream Enchantment Config
+display-name: "Upstream"
+tier: "RARE"
+max-level: 3
+description: "Places water after digging if in dry biome."
+enabled: true
+enabled: true

@@ -1,0 +1,9 @@
+﻿# Reverb Enchantment Config
+display-name: "Reverb"
+tier: "RARE"
+max-level: 3
+description: "Footsteps send shockwave dealing AoE: periodic."
+enabled: true
+interval_steps: 10
+shockwave_damage: 1.5
+radius: 2.0

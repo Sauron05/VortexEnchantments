@@ -1,0 +1,7 @@
+# Air Cushion Enchantment Config
+display-name: "Air Cushion"
+tier: "COMMON"
+max-level: 3
+description: "Reduces fall damage after flight."
+enabled: true
+reduction: 0.20

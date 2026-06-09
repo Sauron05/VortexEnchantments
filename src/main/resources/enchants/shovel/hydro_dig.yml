@@ -1,0 +1,8 @@
+# Hydro Dig Enchantment Config
+display-name: "Hydro Dig"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining near water gives Haste boost."
+enabled: true
+haste-duration: 100
+radius: 3.0

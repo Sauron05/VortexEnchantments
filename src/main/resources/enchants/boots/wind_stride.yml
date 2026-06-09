@@ -1,0 +1,8 @@
+# Wind Stride Enchantment Config
+display-name: "Wind Stride"
+tier: "RARE"
+max-level: 3
+description: "Sprint to build speed stacks."
+enabled: true
+max_stacks: 7
+speed_per_stack: 0.005

@@ -1,0 +1,6 @@
+# Gravity Well Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 10.0
+  duration_ticks: 60

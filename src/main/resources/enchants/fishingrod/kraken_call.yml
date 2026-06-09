@@ -1,0 +1,8 @@
+# Kraken Call Enchantment Config
+display-name: "Kraken Call"
+tier: "LEGENDARY"
+max-level: 3
+description: "Summons a guardian to fight for you."
+enabled: true
+cooldown: 30
+duration: 200

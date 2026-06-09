@@ -1,0 +1,7 @@
+# Rune Shield Enchantment Config
+display-name: "Rune Shield"
+tier: "RARE"
+max-level: 3
+description: "Reduces magic and potion damage."
+enabled: true
+reduction_pct: 0.10

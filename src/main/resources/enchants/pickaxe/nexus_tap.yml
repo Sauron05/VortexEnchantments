@@ -1,0 +1,8 @@
+# Nexus Tap Enchantment Config
+display-name: "Nexus Tap"
+tier: "LEGENDARY"
+max-level: 3
+description: "Mining ore heals and feeds you."
+enabled: true
+heal: 1.5
+food: 1

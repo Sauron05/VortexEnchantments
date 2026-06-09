@@ -1,0 +1,7 @@
+# Banshee Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  radius: 8.0
+  effect_duration_ticks: 60
+  slow_amplifier: 1

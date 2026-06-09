@@ -1,0 +1,9 @@
+# Architect Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  cooldown_seconds: 15.0
+  width: 3
+  height: 3
+  duration_ticks: 60
+  distance: 2

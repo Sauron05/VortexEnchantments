@@ -1,0 +1,7 @@
+﻿# Veneer Enchantment Config
+display-name: "Veneer"
+tier: "EPIC"
+max-level: 3
+description: "Marks target; next shot from any source is critical."
+enabled: true
+mark_duration: 8

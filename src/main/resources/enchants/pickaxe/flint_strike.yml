@@ -1,0 +1,9 @@
+# Flint Strike Enchantment Config
+display-name: "Flint Strike"
+tier: "UNCOMMON"
+max-level: 3
+description: "Mining may ignite nearby mobs."
+enabled: true
+chance: 5
+radius: 4.0
+fire_ticks: 80

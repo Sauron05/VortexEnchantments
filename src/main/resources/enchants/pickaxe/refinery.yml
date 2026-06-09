@@ -1,0 +1,7 @@
+# Refinery Enchantment Config
+display-name: "Refinery"
+tier: "EPIC"
+max-level: 3
+description: "Auto-smelts ore drops with chance for double output."
+enabled: true
+double_chance: 15

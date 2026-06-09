@@ -1,0 +1,7 @@
+﻿# Chum Enchantment Config
+display-name: "Chum"
+tier: "COMMON"
+max-level: 3
+description: "Chance to halve next bite wait."
+enabled: true
+chance: 0.10

@@ -1,0 +1,7 @@
+# Ore Blossom Enchantment Config
+display-name: "Ore Blossom"
+tier: "EPIC"
+max-level: 3
+description: "Mining ore may spread it to adjacent stone."
+enabled: true
+chance: 8

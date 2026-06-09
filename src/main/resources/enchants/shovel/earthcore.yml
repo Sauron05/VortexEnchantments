@@ -1,0 +1,10 @@
+# Earthcore Enchantment Config
+display-name: "Earthcore"
+tier: "MYTHIC"
+max-level: 3
+description: "After 30 blocks, ground eruption deals massive AoE."
+enabled: true
+threshold: 30
+radius: 6.0
+damage: 12.0
+fire-ticks: 80

@@ -1,0 +1,9 @@
+# Shield Charge Enchantment Config
+display-name: "Shield Charge"
+tier: "EPIC"
+max-level: 3
+description: "Sprint+block charges; release for AoE."
+enabled: true
+radius: 4.0
+damage: 4.0
+cooldown: 8

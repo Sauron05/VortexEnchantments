@@ -1,0 +1,7 @@
+# Skyforge Enchantment Config
+display-name: "Skyforge"
+tier: "RARE"
+max-level: 3
+description: "Solar-powered elytra repair while gliding."
+enabled: true
+repair_interval: 8

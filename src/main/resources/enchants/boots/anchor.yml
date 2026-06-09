@@ -1,0 +1,7 @@
+﻿# Anchor Enchantment Config
+display-name: "Anchor"
+tier: "RARE"
+max-level: 3
+description: "Prevents knockback on hit."
+enabled: true
+enabled: true

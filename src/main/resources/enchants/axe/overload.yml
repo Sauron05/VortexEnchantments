@@ -1,0 +1,7 @@
+﻿# Overload Enchantment Config
+display-name: "Overload"
+tier: "LEGENDARY"
+max-level: 1
+description: "Massive bonus damage at full health; weaker otherwise."
+enabled: true
+full_hp_bonus: 6.0

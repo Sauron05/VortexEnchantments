@@ -1,0 +1,8 @@
+# Momentum Enchantment Config
+display-name: "Momentum"
+tier: "RARE"
+max-level: 3
+description: "Hits grant stacking Speed buff."
+enabled: true
+speed_level: 1
+duration_ticks: 60

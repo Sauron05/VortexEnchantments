@@ -1,0 +1,7 @@
+# Compost Hoe Enchantment Config
+display-name: "Compost Hoe"
+tier: "COMMON"
+max-level: 3
+description: "Harvesting crops may drop bone meal."
+enabled: true
+chance: 15.0

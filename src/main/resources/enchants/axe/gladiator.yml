@@ -1,0 +1,8 @@
+# Gladiator Enchantment Config
+display-name: "Gladiator"
+tier: "LEGENDARY"
+max-level: 3
+description: "Bonus damage when fighting 1v1 with no allies nearby."
+enabled: true
+bonus: 0.45
+isolation_radius: 15.0

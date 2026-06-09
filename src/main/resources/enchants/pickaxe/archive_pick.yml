@@ -1,0 +1,7 @@
+﻿# Archive Enchantment Config
+display-name: "Archive"
+tier: "EPIC"
+max-level: 3
+description: "Records every ore found this session in a log."
+enabled: true
+enabled: true

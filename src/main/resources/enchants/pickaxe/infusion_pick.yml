@@ -1,0 +1,7 @@
+# Infusion Enchantment Config
+display-name: "Infusion"
+tier: "RARE"
+max-level: 3
+description: "Mining ores grants brief buffs."
+enabled: true
+duration_ticks: 80

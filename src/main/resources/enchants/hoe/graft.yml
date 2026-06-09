@@ -1,0 +1,7 @@
+# Graft Enchantment Config
+display-name: "Graft"
+tier: "UNCOMMON"
+max-level: 3
+description: "Right-click sapling for a different type."
+enabled: true
+cooldown: 15

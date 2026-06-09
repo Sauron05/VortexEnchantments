@@ -1,0 +1,8 @@
+# World Guardian Enchantment Config
+display-name: "World Guardian"
+tier: "MYTHIC"
+max-level: 3
+description: "While blocking: allies take less damage."
+enabled: true
+radius: 10.0
+ally-reduction: 0.4

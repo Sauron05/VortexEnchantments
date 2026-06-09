@@ -1,0 +1,8 @@
+id: faultline
+display_name: "Faultline"
+rarity: LEGENDARY
+max_level: 3
+description: "Right-click: fissure eruption line with launch + debuff."
+length: "{6.0 + level * 3.0}"
+damage: "{5.0 + level * 2.0}"
+cooldown: 18

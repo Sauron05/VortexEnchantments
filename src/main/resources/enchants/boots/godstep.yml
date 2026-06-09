@@ -1,0 +1,11 @@
+# Godstep Enchantment Config
+display-name: "Godstep"
+tier: "MYTHIC"
+max-level: 3
+description: "Survive lethal damage, full heal, AOE burst, buff."
+enabled: true
+heal_pct: 0.50
+radius: 8.0
+burst_damage: 5.0
+buff_duration: 80
+cooldown: 300.0

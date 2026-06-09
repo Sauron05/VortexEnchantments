@@ -1,0 +1,7 @@
+﻿# Amnesia Enchantment Config
+display-name: "Amnesia"
+tier: "RARE"
+max-level: 3
+description: "Hit enemy loses their potion effects."
+enabled: true
+clear_chance: 0.25

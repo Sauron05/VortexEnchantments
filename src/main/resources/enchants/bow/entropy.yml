@@ -1,0 +1,8 @@
+# Entropy Enchantment Config
+display-name: "Entropy"
+tier: "RARE"
+max-level: 3
+description: "Arrows reduce target's effective max HP temporarily."
+enabled: true
+window_ms: 10000
+reduction_per_hit: [0.5, 1.0, 1.5]

@@ -1,0 +1,7 @@
+﻿# Reciprocity Enchantment Config
+display-name: "Reciprocity"
+tier: "EPIC"
+max-level: 3
+description: "Healing others also heals you."
+enabled: true
+self_heal_ratio: 0.5

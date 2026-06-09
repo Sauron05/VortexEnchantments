@@ -1,0 +1,7 @@
+﻿# Sever Enchantment Config
+display-name: "Sever"
+tier: "EPIC"
+max-level: 3
+description: "On kill, severed head drops as collectible."
+enabled: true
+drop_chance: 0.3

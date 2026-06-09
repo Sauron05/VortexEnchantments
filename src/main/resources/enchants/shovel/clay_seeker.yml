@@ -1,0 +1,7 @@
+# Clay Seeker Enchantment Config
+display-name: "Clay Seeker"
+tier: "COMMON"
+max-level: 3
+description: "Bonus clay drops when mining clay."
+enabled: true
+bonus-chance: 25.0

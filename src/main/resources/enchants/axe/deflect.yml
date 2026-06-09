@@ -1,0 +1,7 @@
+# Deflect Enchantment Config
+display-name: "Deflect"
+tier: "EPIC"
+max-level: 3
+description: "Chance to deflect incoming projectiles back at the attacker."
+enabled: true
+chance: 0.25

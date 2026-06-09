@@ -1,0 +1,10 @@
+# Nature's Wrath Enchantment Config
+display-name: "Nature's Wrath"
+tier: "MYTHIC"
+max-level: 3
+description: "Attacks deal AoE nature damage."
+enabled: true
+radius: 5.0
+aoe-damage: 5.0
+poison-duration: 60
+cooldown: 8

@@ -1,0 +1,9 @@
+# Arterial Enchantment Config
+display-name: "Arterial"
+tier: "LEGENDARY"
+max-level: 3
+description: "Headshot/critical causes massive bleed over time."
+enabled: true
+damage_per_second: 2.0
+duration: [4, 6, 8]
+cooldown: 10.0

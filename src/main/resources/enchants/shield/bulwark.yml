@@ -1,0 +1,7 @@
+# Bulwark Enchantment Config
+display-name: "Bulwark"
+tier: "UNCOMMON"
+max-level: 3
+description: "Blocking reduces fire damage and ticks."
+enabled: true
+fire-reduction: 0.45

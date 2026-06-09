@@ -1,0 +1,9 @@
+﻿# Capacitor Enchantment Config
+display-name: "Capacitor"
+tier: "EPIC"
+max-level: 3
+description: "Charge while gliding; lightning burst on landing."
+enabled: true
+charge_rate: 0.05
+max_charge: 10.0
+burst_radius: 4.0

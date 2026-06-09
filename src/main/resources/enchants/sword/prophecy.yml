@@ -1,0 +1,6 @@
+# Prophecy Enchantment Config
+enabled: true
+conflicts: []
+settings:
+  required_hits: 3
+  glow_ticks: 100

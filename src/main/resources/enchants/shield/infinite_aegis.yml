@@ -1,0 +1,8 @@
+# Infinite Aegis Enchantment Config
+display-name: "Infinite Aegis"
+tier: "MYTHIC"
+max-level: 3
+description: "Blocking expands protective dome."
+enabled: true
+max-radius: 6.0
+dome-reduction: 0.3

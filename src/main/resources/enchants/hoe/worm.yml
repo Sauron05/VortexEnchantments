@@ -1,0 +1,7 @@
+﻿# Worm Enchantment Config
+display-name: "Worm"
+tier: "UNCOMMON"
+max-level: 3
+description: "Tilling has a chance to find worms (extra compost)."
+enabled: true
+chance: 0.1

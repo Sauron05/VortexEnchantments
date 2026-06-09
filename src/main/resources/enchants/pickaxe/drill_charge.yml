@@ -1,0 +1,7 @@
+# Drill Charge Enchantment Config
+display-name: "Drill Charge"
+tier: "LEGENDARY"
+max-level: 3
+description: "Periodic tunneling charge."
+enabled: true
+threshold: 30

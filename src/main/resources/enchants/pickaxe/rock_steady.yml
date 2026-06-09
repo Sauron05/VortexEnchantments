@@ -1,0 +1,6 @@
+# Rock Steady Enchantment Config
+display-name: "Rock Steady"
+tier: "COMMON"
+max-level: 3
+description: "Removes Mining Fatigue on block break."
+enabled: true

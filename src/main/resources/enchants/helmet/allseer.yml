@@ -1,0 +1,7 @@
+# Allseer Enchantment Config
+display-name: "Allseer"
+tier: "LEGENDARY"
+max-level: 3
+description: "Shows particles at ore locations within radius."
+enabled: true
+radius: 6.0

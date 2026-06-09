@@ -1,0 +1,8 @@
+display-name: "Tether"
+tier: UNCOMMON
+max-level: 3
+description: "Links you to target, preventing escape."
+enabled: true
+max_distance: 8.0
+duration_ticks: 100
+cooldown: 12
