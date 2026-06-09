@@ -7,11 +7,10 @@ import java.util.List;
 /**
  * Small compatibility shim for plugin metadata access.
  *
- * <p>Paper exposes {@code JavaPlugin#getPluginMeta()}, but that method is not part of the
- * stock Bukkit/Spigot API and may be missing on some Bukkit-on-Fabric implementations
- * (e.g. Cardboard). We try the modern Paper accessor first and fall back to the legacy
- * {@code getDescription()} accessor so the plugin boots cleanly on Paper 1.21.11, Paper
- * 26.1.2, Folia, and Fabric-via-Cardboard alike.
+ * <p>Paper exposes {@code JavaPlugin#getPluginMeta()}, but older Bukkit-derived APIs may
+ * not provide that method. We try the modern Paper accessor first and fall back to the
+ * legacy {@code getDescription()} accessor so metadata reads stay compatible across the
+ * supported Paper/Folia server range.
  */
 public final class PluginCompat {
 
