@@ -124,46 +124,6 @@ Important files:
 
 See the [Configuration wiki page](https://github.com/Sauron05/VortexEnchantments/wiki/Configuration) for tuning guidance.
 
-## Building From Source
-
-```bash
-./gradlew build
-```
-
-Windows:
-
-```powershell
-.\gradlew.bat build
-```
-
-The shaded plugin jar is produced in:
-
-```text
-build/libs/
-```
-
-## Using The Promo Image
-
-Yes, the provided promo image is suitable for the GitHub README, Modrinth/marketplace descriptions, Discord announcements, and wiki pages.
-
-Use this Markdown in GitHub:
-
-```markdown
-![VortexEnchantments](assets/marketing/vortexenchantments-promo.png)
-```
-
-For better GitHub sizing control, use HTML:
-
-```html
-<img src="assets/marketing/vortexenchantments-promo.png" alt="VortexEnchantments promotional banner" width="100%">
-```
-
-For the GitHub Wiki, use the raw repository URL:
-
-```markdown
-![VortexEnchantments](https://raw.githubusercontent.com/Sauron05/VortexEnchantments/main/assets/marketing/vortexenchantments-promo.png)
-```
-
 ## Support
 
 Developer: Sauron
